@@ -28,6 +28,10 @@ json.dump(redact(cfg), open(os.path.join(out, "openclaw.json"), "w"), indent=2)
 for f in os.listdir("/root/.openclaw/credentials"):
     if "allowFrom" in f:
         shutil.copy(os.path.join("/root/.openclaw/credentials", f), os.path.join(out, f))
+# verbose agent persona snapshot
+for f in os.listdir("/root/.openclaw/workspace-verbose"):
+    if f.endswith(".md") and os.path.isfile(os.path.join("/root/.openclaw/workspace-verbose", f)):
+        shutil.copy(os.path.join("/root/.openclaw/workspace-verbose", f), os.path.join(out, "verbose-" + f))
 PY
 
 # 2. Chat history transcripts (sessions modified in the last 26h)
