@@ -1,0 +1,7 @@
+# {{date}}
+
+## Done
+
+## Notes
+
+## Next
