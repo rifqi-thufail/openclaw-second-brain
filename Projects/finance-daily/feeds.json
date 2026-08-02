@@ -1,0 +1,14 @@
+{
+  "CNBC Top": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+  "CNBC Markets": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+  "CNBC Asia": "https://www.cnbc.com/id/19836768/device/rss/rss.html",
+  "MarketWatch": "http://feeds.marketwatch.com/marketwatch/topstories/",
+  "WSJ Markets": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+  "FT Home": "https://www.ft.com/rss/home",
+  "Yahoo Finance": "https://finance.yahoo.com/news/rssindex",
+  "Straits Times": "https://www.straitstimes.com/news/business/rss.xml",
+  "Inquirer PH": "https://business.inquirer.net/feed",
+  "VnExpress": "https://e.vnexpress.net/rss/business.rss",
+  "Edge SG": "https://www.theedgesingapore.com/rss.xml",
+  "CNBC Indonesia": "https://www.cnbcindonesia.com/rss"
+}
