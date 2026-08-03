@@ -2,7 +2,7 @@
 
 - **Name:** Rifqi Aufa
 - **What to call them:** Rifqi
-- **Timezone:** _(to be added)_
+- **Timezone:** Asia/Kuala_Lumpur (UTC+8)
 
 ## Context
 
