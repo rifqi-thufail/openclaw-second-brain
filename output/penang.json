@@ -1,0 +1,45 @@
+{
+  "region": "Penang",
+  "items": [
+    {
+      "name": "Skyview Residence",
+      "area": "Jelutong, George Town",
+      "type": "Apartment",
+      "price": "700 /mo",
+      "transport": "Rapid Penang stops Jalan Perak/Jelutong, 5-8 min",
+      "source": "rentola.com.my/en/listings/skyview-residence-for-rent-and-sales-p45af934"
+    },
+    {
+      "name": "Private Master Room, Magazine Road",
+      "area": "Central George Town",
+      "type": "Room rental",
+      "price": "600 /mo",
+      "transport": "KOMTAR bus hub, 4-6 min",
+      "source": "rentola.com.my/en/listings/private-master-room-p9613bf1"
+    },
+    {
+      "name": "Fully Furnished Studio, Green Lane",
+      "area": "Batu Lanchang, George Town",
+      "type": "Studio apartment",
+      "price": "700 /mo",
+      "transport": "Bus stops at Georgetown Specialist Hospital, 2-4 min",
+      "source": "rentola.com.my/en/listings/fully-furnished-studio-unit-for-rent-at-georgetown-pulau-pinang-pa34d6d1"
+    },
+    {
+      "name": "The Zen",
+      "area": "Bayan Baru / Bayan Lepas",
+      "type": "Apartment",
+      "price": "600 /mo",
+      "transport": "Stops Jalan Mayang Pasir, 5-8 min; Queensbay 10-12 min",
+      "source": "rentola.com.my/en/listings/the-zen-p084d601"
+    },
+    {
+      "name": "Tido Hostel Penang",
+      "area": "Argyll Road, George Town",
+      "type": "Hostel (dorm)",
+      "price": "44 /night",
+      "transport": "Burmah/Macalister Rd stops, 3-5 min; KOMTAR 12-15 min",
+      "source": "hostelworld.com/hostels/p/320028/tido-hostel-penang/"
+    }
+  ]
+}
