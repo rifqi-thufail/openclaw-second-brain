@@ -1,81 +1,82 @@
 # Executive Summary
 
-- US stocks surged to records on Tuesday: Dow +1.72% to 54,090.66, S&P 500 +1.79% to 7,736.52 (25th record close of 2026), Nasdaq +2.59% to 26,584.99, driven by AI-linked earnings and imminent Hormuz deal hopes.
-- Treasury Secretary Bessent says a deal to reopen the Strait of Hormuz with "freedom of movement" may come Tuesday or Wednesday; Iranian and Omani negotiators agreed on a temporary shipping arrangement, per FT.
-- Oil held a two-day drop on Hormuz progress, unwinding the war risk premium built since the Feb 28 US-Israel strike on Iran; WTI had gained ~20% over the conflict.
-- Michael Burry warns "we are near a major top, and possible a 1987-type fall," a contrarian signal against the momentum melt-up.
-- Fed pressure is building: a manufacturing survey shows inflation worries "worse than pandemic era," and Wall Street now expects a Warsh-led hike on the horizon.
-- Indonesia's JCI closed flat at 6,234.50 (-0.03%) ahead of today's Q2 GDP print; 10Y yield steady at 7.14%, 5Y CDS improved to 91.53 bps from 93.36 bps a week ago.
-- Asia ex-US lagged the US rally: Nikkei -0.94%, STI -0.29%, KLCI +0.05%, Hang Seng +0.48%; Vietnam, Thailand and Philippines index data unavailable this run.
+- Iran and Oman agreed on shipping route coordinates for the Strait of Hormuz, a key step toward reopening the chokepoint; oil held a three-day drop and the Dow closed at a record 54,349.06 (+0.49%), while the Nasdaq fell 0.83% as the AI complex wobbled.
+- De-escalation is not guaranteed: Netanyahu signaled possible unilateral Israeli military action, and Trump framed talks as Iran's "last chance", keeping a geopolitical tail risk alive for oil and risk assets.
+- Fed hawkishness is building: Governor Cook said she is "prepared to act" on a rate hike, Kashkari wants an immediate hike, and Chair Warsh is weighing fewer policy meetings; the July ADP print of +44k private jobs was well below expectations, muddying the labor picture.
+- DBS posted a record Q2 net profit of S$3.08 billion (+9% YoY) with an 81-cent dividend and wealth AUM crossing S$500 billion, underscoring ASEAN banking strength even as the MAS tightened policy in late July on oil-driven inflation risk.
+- JCI rallied 1.37% to 6,319.61 (Aug 4) and extended gains on Aug 5 despite foreign net selling of Rp182.8 billion, supported by Q2 GDP growth of 5.29%, the highest in five years, and fresh government stimulus plans for H2.
+- Indonesian credit risk is improving: the 5Y CDS fell to 89.94 bps from 93.36 bps over three sessions, while the 10Y yield held flat at 7.14%; the rupiah is supported by easing Middle East tensions and incentive packages.
+- Philippines inflation eased to 6.2% in July (below the 6.4% consensus), and the BSP is finalizing bond pricing reforms ahead of a potential JPMorgan government bond index inclusion.
 
 # Top Stories
 
-## US stocks soar to records on Hormuz deal hopes and AI earnings | CNBC
-Insight: The Dow had its best day in nearly two months and the S&P 500 set a fresh record high, with the Nasdaq up 2.59%. The rally had two engines: AI-linked earnings (AMD revenue +50%, data center sales +107% YoY) and de-escalation hopes in the Iran conflict after Bessent signaled a Hormuz deal within 48 hours. Momentum is now extremely stretched: traders are chasing via bullish options, and stocks enter the historically weakest seasonal stretch of the year (Ned Davis Research).
-Action: Do not chase the melt-up at record highs. Trim winners into strength, keep dry powder for a Hormuz-deal-failure or Fed-hike pullback, and underweight crowded AI trades unless earnings justify multiples.
-Source: https://www.cnbc.com/2026/08/04/the-stock-market-soars-5-reasons-behind-the-big-surge-tuesday.html
+## Iran, Oman reach agreement on Hormuz shipping route | Financial Times
+Insight: Oil fell for a third straight session as Iran and Oman finalized route coordinates for the Strait of Hormuz, the passage for roughly a fifth of global oil supply. Brent and WTI risk premiums are unwinding, which is disinflationary for importers like Indonesia and India but compresses earnings for oil exporters. The deal remains provisional and Iran wants to retain control over the chokepoint, so premiums can re-spike quickly.
+Action: Reduce long energy exposure into the news; hold a small hedge against Hormuz re-escalation given Israel's stated willingness to act unilaterally. For Indonesian assets, treat falling oil as a net positive for the rupiah and fiscal balances.
+Source: https://www.ft.com/content/e0b10cad-3e46-4a6d-9227-eba6fe11c676
 
-## Bessent: Hormuz deal with 'freedom of movement' could come Tuesday or Wednesday | CNBC Asia
-Insight: The Treasury Secretary says talks with Iran are at "last chance" stage, and Iran and Oman have agreed a temporary shipping arrangement. A durable reopening would remove the single biggest geopolitical risk premium in oil and inflation expectations, which is the key support for the current risk rally. If the deal fails, expect a violent snap-back in oil and yields.
-Action: Position for oil downside through energy hedges or long-dated puts; in portfolios, favor disinflation beneficiaries (airlines, chemicals, EM importers) over energy and defense names until the deal is signed.
-Source: https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html
+## Fed Governor Cook says she's 'prepared to act' on rate hike | CNBC
+Insight: Cook was part of the 9-3 majority that held rates at 3.50%-3.75% last week, but her language signals the bar to hike is low. Kashkari echoed that a hike should come now, and Warsh is floating fewer meetings per year, a structural change that would compress the market's reaction windows. With core inflation at 3.3% and manufacturing surveys citing pandemic-era inflation worries, the market now prices a hike as likely.
+Action: Position for a hawkish Fed surprise: favor short-duration fixed income, monitor the 2Y Treasury and USDIDR for pressure, and avoid adding to high-multiple growth names until the September meeting path is clearer.
+Source: https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html
 
-## Oil tumbles on Hormuz progress while BP and Aramco profits surge | CNBC Asia
-Insight: Oil held a two-day drop as progress toward a Hormuz deal drained the war premium. Meanwhile BP's Q2 profit more than doubled to $7.36B and Saudi Aramco's rose 33-44%, with Exxon and Chevron also reporting blowout quarters. Trump's attacks on Big Oil profits signal political pressure that could cap prices even before any deal. The trade has made its money; staying long now is a bet against geopolitics and politics simultaneously.
-Action: Take profits on long energy positions. If holding, switch from E&P names to hedged structures (collars) or midstream with contract stability; monitor WTI for a break below the pre-war range as a confirmation signal.
-Source: https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html
+## DBS reports record quarter of S$3.08 billion; wealth AUM crosses S$500 billion | The Edge Singapore
+Insight: DBS delivered record Q2 net profit of S$3.08 billion, up 9% YoY, with an 81-cent dividend and wealth AUM breaking the S$500 billion mark. The result validates ASEAN's largest lender amid a tightening MAS stance and higher oil-driven inflation, and it supports dividend income for SGX investors. It also confirms that Singapore banking profitability is resilient to the weaker STI tape (index flat near 5,612).
+Action: Hold or add to Singapore bank exposure on dividend strength; use DBS's AUM growth as a read-through for wealth-management demand across the region.
+Source: https://www.theedgesingapore.com/news/banking-finance/dbs-reports-record-quarter-308-bil-wealth-aum-crosses-500-bil-mark
 
-## Michael Burry bets against the rally: 'near a major top, possible a 1987-type fall' | CNBC
-Insight: Burry's warning arrives after a 42-day gap between record closes was broken and the S&P 500 notched its 25th record of 2026. The setup mirrors late-1987 in some respects: a strong melt-up, complacent positioning and hawkish central bank pressure. However, the S&P has risen ~5.7% in five sessions, so timing a top is as hard as ever; his bearishness is a portfolio construction input, not a market timer.
-Action: Maintain disciplined stops on long equity positions, consider low-cost index put protection or tail-risk hedges, and review portfolio beta ahead of the seasonally weak August-September window.
-Source: https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html
+## Google AI reshuffle: Jeff Dean exits, Hassabis steps down as DeepMind CEO | CNBC
+Insight: Google's chief scientist Jeff Dean is leaving after 27 years and Demis Hassabis is stepping aside as DeepMind CEO in a sweeping AI leadership reshuffle. Alphabet's stock dropped on the news, adding to an AI complex already rattled by SpaceX's first earnings (Morgan Stanley models US$64 billion capex this year) and AMD's underwhelming AI outlook. Nasdaq fell 0.83% as the AI rally cooled after a US$3.7 trillion S&P advance.
+Action: Take partial profits on AI infrastructure names after the sharp five-day run; watch for a rotation into value and dividend sectors. Beware of options-driven rally mechanics that can reverse quickly.
+Source: https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html
 
-## Fed faces inflation pressure as manufacturing survey shows 'worse than pandemic era' worries | CNBC Markets
-Insight: The manufacturing survey's inflation commentary and June core inflation at 3.3% (GDP growth slowing to 1.5% in Q2) create a stagflationary backdrop. Wall Street's read on the Warsh Fed is that a hike is likely on the horizon, while Bessent argues markets are going through "detox" from Fed guidance. A hike would be the first in this cycle and would hit duration and EM assets hard, even as trimmed-mean inflation measures show multi-year lows.
-Action: Keep duration short on the 10Y, watch the US 10Y yield for a break above recent highs, and prepare EM currency and bond portfolios for a possible hawkish surprise at the next FOMC.
-Source: https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html
+## Philippines inflation eases to 6.2% in July; bond pricing reform ahead of JPM index entry | Inquirer
+Insight: Philippine inflation fell to 6.2% in July from 6.4%, below the 6.4% median economist estimate, on slower transport costs and stable food prices. Separately, the BSP and banks are finalizing bond pricing standards ahead of potential JPMorgan GBI-EM inclusion, a structural demand catalyst for PHP sovereign bonds and a positive for the peso. The dual development reduces pressure for BSP hikes and improves the external funding outlook.
+Action: Add to Philippines sovereign bond exposure in anticipation of index flows; monitor BSP's August meeting for a pause signal now that inflation is trending down.
+Source: https://business.inquirer.net/604175/inflation-eased-further-to-6-2-in-july
 
-## Trump administration refunds $100bn in 'Liberation Day' tariffs | FT
-Insight: US customs repaid about 60% of the levies struck down by the Supreme Court, a $100B fiscal reversal that improves US consumer purchasing power and trims effective tariff drag on trade. For Asia exporters (Vietnam, Malaysia, Indonesia), reduced tariff friction supports export demand at the margin, but the policy whiplash keeps trade uncertainty high.
-Action: Recalibrate export-sensitive ASEAN earnings models for lower tariff drag, but keep a trade-policy risk buffer as the administration pivots to new tariff tools such as generic drug duties from 2028.
-Source: https://www.ft.com/content/b0f728aa-1e71-4bb0-b50f-2e0818712734
+## Indonesia: economy grows 5.29% in Q2, highest in five years; new H2 stimulus unveiled | CNBC Indonesia
+Insight: Indonesia's economy grew 5.29% YoY in Q2 2026, the fastest in five years, and the government rolled out a new set of H2 incentives to sustain momentum. JCI rallied 1.37% to 6,319.61 on Aug 4 and kept climbing Aug 5 even as foreigners sold a net Rp182.8 billion, a sign domestic liquidity is absorbing foreign outflows. The combination of solid growth, falling oil, and improving CDS supports further equity upside.
+Action: Maintain overweight on Indonesian equities, focusing on domestic-demand beneficiaries of the stimulus; watch foreign flow data for a turn from net sell to net buy as confirmation.
+Source: https://www.cnbcindonesia.com/news/20260806060019-4-756940/ini-sederet-jurus-baru-pemerintah-dorong-ekonomi-di-semester-ii
 
 # ASEAN Focus
 
-- SG: MAS tightened monetary policy in a surprise move (Jul 27) as oil prices rekindled inflation risk, a hawkish anchor for the SGD; STI dipped -0.29% to 5,612.28, and CLCT held DPU at 2.45 cents despite a softer economy. Asian stocks are set to advance on Hormuz hopes, supporting STI today.
-- MY: KLCI edged up +0.05% to 1,725.73; Sunway Construction won a $249M Johor data center contract, a concrete sign of Malaysia's AI infrastructure pipeline.
-- ID: JCI flat at 6,234.50 (-0.03%) ahead of today's Q2 GDP release; US flagged Indonesian ports for enhanced maritime cooperation, a modest strategic upside for logistics and defense-related names.
-- PH: BSP data shows hot money inflows shrank 27% to $170M in June as foreign investors bought government securities but sold stocks faster, a flight-to-safety rotation; the World Bank urged a wider tax base as the economy enters upper-middle-income status.
-- VN: Trade turnover topped $659B in 7 months and FDI inflows surged 58% to $38.06B, reinforcing Vietnam's export resilience; the dollar fell against the dong and gold prices declined, easing import cost pressure.
-- TH: No Thailand-specific market or policy news in this run and SET index data failed to fetch; monitor tourist arrivals and energy import costs given the Hormuz dynamics.
+- Singapore: DBS record quarter (S$3.08 billion profit, AUM above S$500 billion) contrasts with a flat STI at 5,612; MAS's surprise late-July tightening (SGD policy band) reflects oil-driven inflation risk. Shein, Singapore-based, seeks up to US$40 billion valuation for a Hong Kong IPO, a potential liquidity event for regional tech.
+- Malaysia: KLCI rose 0.40% to 1,732.66; the Koon brothers sold a 35.6% stake in a silicon metal producer to flagship Press Metal, consolidating upstream exposure into the solar/AI supply chain; China completed its first digital yuan payment to Malaysia for durian imports, a small but symbolic step in de-dollarized trade settlement.
+- Indonesia: JCI up 1.37% to 6,319.61 (Aug 4) with the rally extending on Aug 5 despite foreign net selling of Rp182.8 billion; Q2 GDP at 5.29% is a five-year high; coal prices fell two straight sessions on weaker oil and demand, pressuring coal-heavy index names.
+- Philippines: Inflation eased to 6.2% in July, below consensus; BSP finalizing bond pricing reform ahead of possible JPMorgan index inclusion; Aboitiz Power signed a pact with a South Korean partner to explore nuclear energy; SSS raised its Century Properties stake to near 10%.
+- Vietnam: The dollar is trading at a premium over the dong on the black market, signaling continued FX pressure; domestic gold bar prices rose with global gold, which jumped 4% in 24 hours to a 50-day high on a weaker dollar.
+- Thailand: No fresh index or macro data captured in this cycle; SET price data unavailable, leaving a coverage gap for Thai equities.
 
 # Indonesia Focus
 
-- JCI at 6,234.50, -0.03% d/d but +1.7% over the last five sessions (normalized 100 to 101.7), consolidating after a recovery from the ~6,186 low; the trend is cautiously positive but volume-light ahead of the GDP print.
-- 10Y government bond yield flat at 7.14% for the third consecutive session, showing bond investors are comfortable holding through the data release.
-- 5Y CDS improved to 91.53 bps from 93.36 bps a week ago, a steady tightening that signals improving external risk perception for Indonesia.
-- Key market mover: Q2 GDP growth data is due today and CNBC Indonesia flags domestic growth data as the day's main driver; a print at or above consensus supports JCI and the rupiah, while a miss would test the 6,200 support. OJK's Satgas PASTI also halted 951 illegal fintech and scam investment operations, a steady integrity win for the financial sector.
+- JCI: 6,319.61 as of Aug 4, up 1.37% on the day and roughly +3.7% over five sessions on a normalized basis; the index continued its rally on Aug 5, extending the uptrend.
+- 10Y government bond yield: 7.14%, flat for the third consecutive session; stability signals anchored expectations despite global hawkish Fed rhetoric, supported by easing oil prices.
+- 5Y CDS: 89.94 bps, down from 93.36 bps on Aug 3 and 91.53 bps on Aug 5; the steady tightening trend indicates improving market perception of Indonesian sovereign credit.
+- Market-moving news: Q2 GDP growth of 5.29% (five-year high) plus a new H2 stimulus package is the dominant domestic catalyst; the Hormuz de-escalation is lowering oil and supporting the rupiah, while coal weakness (two straight down days) weighs on energy names; foreign investors net sold Rp182.8 billion on Aug 5 yet the index held, showing resilient domestic demand; BI's policy stance remains the key swing factor to watch alongside USDIDR and oil direction.
 
 # Risks & Catalysts
 
-- Hormuz deal outcome: a signed deal (Bessent says Tue/Wed) is a disinflationary catalyst for global markets and ASEAN oil importers; failure or a new strike is the single biggest upside risk for oil and downside risk for equities.
-- Fed hawkish surprise: Warsh's "inflation is a choice" stance plus survey inflation worries raise the odds of a hike, which would pressure EM bonds, the rupiah and JCI duration-sensitive sectors.
-- Momentum fragility: record highs, options-fueled chasing, Burry's 1987 warning and the historically weak Aug-Sep seasonal window argue for reduced risk appetite.
-- China demand: July factory activity unexpectedly contracted on demand slump and typhoons, a drag on ASEAN exports into H2.
-- Indonesia data and policy: today's Q2 GDP print is the immediate catalyst; watch BI's reaction function if growth disappoints while the Fed leans hawkish.
-- Trade policy whiplash: the $100B tariff refund is supportive, but new tariff tools (drugs, critical minerals scrutiny) keep uncertainty elevated for ASEAN supply chains.
+- Upside catalysts: Hormuz deal finalization unlocking lower oil and inflation globally; continued Indonesian GDP momentum with H2 incentives; Philippine JPMorgan index inclusion triggering bond inflows; DBS-style strong ASEAN earnings season.
+- Downside risks: Fed hike surprise (Cook/Kashkari/Warsh hawks) that strengthens the USD and pressures EM currencies including the rupiah; Netanyahu's unilateral military action derailing Iran talks and re-spiking oil; AI capex disappointment (SpaceX, AMD) spreading to regional tech sentiment; sustained foreign equity outflows from Indonesia if global rates rise.
+- Watch items: Warsh's meeting-frequency proposal, US CPI and jobs data, BI policy meeting, Hormuz shipping resumption status, and weekly foreign flow prints for IDX.
 
 # Sources
 
-- CNBC: https://www.cnbc.com/2026/08/04/the-stock-market-soars-5-reasons-behind-the-big-surge-tuesday.html
-- CNBC Asia: https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html
-- CNBC Asia: https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html
-- CNBC: https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html
-- CNBC Markets: https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html
-- FT: https://www.ft.com/content/b0f728aa-1e71-4bb0-b50f-2e0818712734
-- The Edge Singapore: https://www.theedgesingapore.com/news/highlight/asian-stocks-set-advance-hormuz-deal-hopes
-- The Edge Singapore: https://www.theedgesingapore.com/news/oil-gas/oil-holds-two-day-drop-signs-progress-toward-hormuz-deal
-- Straits Times: https://www.straitstimes.com/business/companies-markets/dow-sp-500-close-at-record-on-ai-linked-earnings-middle-east-deal-hopes
-- Inquirer PH: https://business.inquirer.net/604042/bsp-hot-money-inflow-shrank-27-to-170m-in-june
-- VnExpress: https://e.vnexpress.net/news/business/economy/fdi-inflows-surge-58-to-38b-in-7-months-5104977.html
-- CNBC Indonesia: https://www.cnbcindonesia.com/research/20260804174817-128-756570/wall-street-pesta-pora-ri-masih-cemas-tunggu-data-pertumbuhan-ekonomi
+- https://www.ft.com/content/e0b10cad-3e46-4a6d-9227-eba6fe11c676
+- https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html
+- https://www.theedgesingapore.com/news/banking-finance/dbs-reports-record-quarter-308-bil-wealth-aum-crosses-500-bil-mark
+- https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html
+- https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8
+- https://www.cnbc.com/2026/08/05/oil-prices-iran-war-houthis-saudi-tanker.html
+- https://business.inquirer.net/604175/inflation-eased-further-to-6-2-in-july
+- https://business.inquirer.net/604183/ph-to-iron-out-bond-pricing-before-jpmorgan-index-entry
+- https://www.cnbcindonesia.com/news/20260806060019-4-756940/ini-sederet-jurus-baru-pemerintah-dorong-ekonomi-di-semester-ii
+- https://www.cnbcindonesia.com/market/20260806042743-17-756935/ihsg-lanjut-reli-asing-malah-kabur-lagi
+- https://www.cnbcindonesia.com/research/20260806070831-128-756954/dihajar-kanan-kiri-harga-batu-bara-ambruk-2-hari-beruntun
+- https://www.straitstimes.com/business/dbs-declares-dividend-payout-of-81-cents-as-q2-profit-comes-in-better-than-expected
+- https://www.straitstimes.com/business/companies-markets/dow-closes-at-record-on-middle-east-optimism-spacex-amd-drag-nasdaq
+- https://e.vnexpress.net/news/business/markets/dollar-gains-over-dong-on-black-market-5105513.html
+- https://e.vnexpress.net/news/business/companies/singapore-based-fashion-giant-shein-seeks-up-to-40b-valuation-for-hong-kong-ipo-5105139.html
+- https://e.vnexpress.net/news/business/companies/malaysian-billionaire-koon-brothers-sell-35-6-stake-in-silicon-metal-producer-to-their-flagship-press-metal-5105453.html
