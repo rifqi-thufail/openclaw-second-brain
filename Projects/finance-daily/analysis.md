@@ -1,95 +1,108 @@
 # Executive Summary
 
-- Hormuz escalation: ADNOC reported a missile attack on one of its tankers in the Strait of Hormuz and Iran set conditions for reopening the waterway, demanding the US "rectify its behaviour" and pay compensation; oil is bid again and US energy output is cushioning part of the supply shock, but two-way deal-headline whipsaws persist.
-- US markets: the S&P 500 closed at a record 7,757.64 (+0.62%) and the Nasdaq rose 1.30% to 26,690.62 after the soft July jobs report; markets price a 43.9% chance of a September Fed hike, so rate expectations remain fluid.
-- Berkshire deployed capital: CEO Greg Abel ended a three-year selling streak, ploughing a net US$20 billion into stocks and buying back US$4.5 billion of Berkshire shares, a rare signal of large-cap value rotation from the biggest cash hoard in markets.
-- Asia and commodities: China's July exports surged 23.9% YoY with chip shipments nearly doubling, and copper is heading for a record close, up about 14% in 2026 on a tighter global market.
-- ASEAN equities firmed on Friday: JCI jumped 1.04% to 6,409.65, its best day of the week and a 2.8% weekly gain, while the STI rose 1.05% to 5,698.43 and the KLCI slipped 0.08% to 1,735.75.
-- Indonesia stayed stable: the 10Y yield held at 7.14% for a fourth session, the 5Y CDS was flat at 90.49 bps, and the government signaled a new tax push targeting rental homes as it widens the tax base.
-- Structural watch: the Hugging Face hack opened the Black Hat week as a warning on AI supply-chain cyber risk, and the landmark US crypto bill stalled in the Senate despite a US$225 million lobbying push.
+- Hormuz deadlock deepens: Iran denies direct talks with the US on reopening the Strait of Hormuz, the Houthis claim a missile strike on a Saudi Aramco refinery, and Tehran replaces its top security official at a crucial juncture; oil extended gains into the weekend with traffic near standstill and no verified deal.
+- US labor data is mixed: July nonfarm payrolls fell 23,000 versus +83,000 expected, the unemployment rate eased, and ADP added just 44,000 private jobs; markets rallied anyway into Friday, with the S&P 500 at 7,757.64 (+0.62%) and the Nasdaq up 1.30% to 26,690.62.
+- Fed tension builds: a divided Fed still leans toward a hike per Wall Street, with June core inflation at 3.3%, Q2 GDP at 1.5%, and manufacturing survey inflation worries "worse than pandemic era"; US futures were little changed Sunday as investors await key inflation data this week.
+- DeepSeek shock, recovery: a broad AI rout sparked by China's DeepSeek hit US tech, with Nvidia down 16%, and drove safe-haven flows into the yen and Swiss franc; indices recovered by Friday and breadth improved, with the average stock beating the S&P 500 for the first time in four years.
+- ASEAN diverges: Singapore's MAS tightened policy in a surprise July move on oil-driven inflation risk, while DBS and OCBC hit fresh highs on strong Q2 earnings; the STI rose 1.05% to 5,698.43 and the JCI jumped 1.04% to 6,409.65, the best weekly run among tracked ASEAN indices.
+- China cools: July CPI slowed to 0.5% YoY, below forecast, and factory activity unexpectedly contracted in July as the export rush unwound, a headwind for regional export and commodity demand.
+- Indonesia enters a policy-heavy week: markets await Prabowo's state speech ahead of Aug 17 and US inflation data, with the 10Y yield steady at 7.14%, the 5Y CDS at 90.49 bps, and Bali moving to follow Jakarta in issuing regional bonds.
 
 # Top Stories
 
-## Iran sets conditions for reopening Strait of Hormuz after UAE tanker attack | CNBC
-Insight: ADNOC reported a missile strike on one of its tankers in the Strait of Hormuz, and Iran's military said the waterway will reopen only when the US accepts its conditions, with Tehran demanding Washington "rectify its behaviour" and pay compensation for war damage. This follows Iran's restrictive draft plan that would bar US and Israeli ships, which Washington rejected. With roughly a fifth of global oil transiting the strait, the risk premium in crude is rebuilding even as rising US energy output cushions part of the shock; the pattern of deal headlines that never materialize creates violent two-way swings.
-Action: Keep energy exposure or options hedges against Hormuz tail risk; fade headline-driven oil rallies until a verified agreement exists, and treat crude as the swing factor for the rupiah and Indonesian fuel subsidy costs.
+## Iran denies direct US talks as Houthis claim Saudi refinery attack | CNBC
+Insight: Iran's foreign minister said there are no direct talks with the US, only "messages through intermediaries," while the Houthis claimed a missile strike on a Saudi Aramco refinery and Tehran replaced its top security official during the standoff. The Strait of Hormuz carries roughly a fifth of global oil, Iran's draft plan would still bar US and Israeli ships, and Washington rejects any "impediments." Crude extended gains as futures opened little changed Sunday, keeping the risk premium and two-way headline whipsaws firmly in place.
+Action: Maintain energy exposure or options hedges against Hormuz tail risk; fade deal-driven oil dips until a verified reopening exists, and treat crude as the swing factor for the rupiah, fuel subsidies and ASEAN inflation prints.
+Source: https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html
 Source: https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html
-Source: https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab
-Source: https://www.cnbcindonesia.com/news/20260808214611-4-757684/selat-hormuz-memanas-kapal-minyak-uea-diserang-saat-melintas
+Source: https://www.ft.com/content/ce343513-5514-4519-95c8-19832ed46d16?syn-25a6b1a6=1
 
-## Greg Abel finally puts Buffett's cash pile to work | Financial Times
-Insight: Berkshire Hathaway's Q2 earnings rose on strength in energy, railroad and manufacturing, and CEO Greg Abel deployed a net US$20 billion into stocks, ending a more than three-year selling streak, alongside a US$4.5 billion buyback. This is the clearest signal yet that the world's largest corporate cash hoard is rotating back into equities, supportive for large-cap value and a potential tailwind for global risk appetite that spills over into EM assets.
-Action: Watch Berkshire's 13F disclosures for sector targets as a value-rotation signal; treat the deployment as modest support for equity positioning rather than a directional macro call.
-Source: https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4
-Source: https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html
-Source: https://www.theedgesingapore.com/news/us-stocks/berkshire-hathaway-buys-back-us45-bil-its-own-shares
+## US economy unexpectedly lost 23,000 jobs in July | CNBC
+Insight: Nonfarm payrolls fell 23,000 against a +83,000 consensus while the unemployment rate eased, leaving investors with mixed signals; ADP had already flagged weakness at just +44,000 private jobs. Markets read the report as reducing pressure for aggressive Fed action, pushing the S&P 500 to 7,757.64 and the Nasdaq up 1.30%, but Q2 GDP of 1.5% and June core inflation of 3.3% keep the stagflation debate alive.
+Action: Watch this week's US inflation data and September FOMC communication; a soft-landing read supports EM and Indonesian assets, while any hawkish surprise from the Warsh Fed would pressure regional rates and currencies.
+Source: https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html
+Source: https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html
+Source: https://www.cnbc.com/2026/08/05/private-companies-added-just-44000-workers-in-july-below-expectations-adp-reports.html
 
-## Hugging Face hack marks start of dangerous AI cyber era | CNBC
-Insight: The hack of Hugging Face, a core hub for open-source AI models, framed the Black Hat conference as AI agent attacks stack up across Anthropic, Meta and OpenAI, and many firms "don't even know" they are exposed. AI supply chains are now a systemic attack surface: a compromised model registry or agent framework can propagate trust issues through every downstream application, a new risk class for the AI infrastructure trade that dominates index concentration.
-Action: Screen AI and software holdings for supply-chain security posture and incident disclosure; prefer vendors with verifiable model-integrity controls, and treat AI cyber events as a rising tail risk for tech-heavy portfolios.
-Source: https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html
+## DeepSeek rout hits US AI names, indices recover | WSJ Markets
+Insight: A broad AI selloff sparked by China's DeepSeek sent US stocks lower with Nvidia down 16%, and lifted safe-haven currencies, with the yen and Swiss franc firmer against the dollar. Indices recovered into Friday's close, and MarketWatch notes the number of stocks beating the S&P 500 is at a four-year high, a sign the rally is broadening beyond megacap AI names. Volatility in AI infrastructure names remains the key swing for the Nasdaq, which closed at 26,690.62.
+Action: Keep AI/megacap concentration risk measured; favor the broadening trade in quality laggards, and treat DeepSeek-style disruption headlines as buy-the-dip events only with position sizing discipline.
+Source: https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main
+Source: https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main
+Source: https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories
 
-## Landmark crypto bill stalls in US Senate despite US$225mn push | Financial Times
-Insight: The industry's top legislative priority stalled in the Senate even after a US$225 million lobbying campaign, as lawmakers spar over the bill's terms. Regulatory clarity for digital assets remains hostage to US politics, keeping the sector in a gray zone that weighs on institutional adoption and on crypto-linked equity and EM fintech valuations.
-Action: Avoid positioning for near-term US crypto regulation; maintain optionality through liquid, compliant vehicles and treat the stalled bill as a headwind for crypto-exposed fintech earnings until passage looks credible.
-Source: https://www.ft.com/content/352a15ac-53c4-46eb-b75e-957f0388dc79
+## Divided Fed faces inflation test this week | CNBC
+Insight: Manufacturing surveys show inflation worries "worse than pandemic era," adding to pressure on the Warsh Fed, while alternative trimmed-mean indicators are at multi-year lows; Q2 GDP slowed to 1.5% and June core inflation sits at 3.3%. US stock futures were little changed Sunday as investors await key inflation data, with a divided Fed leaving a hike on the horizon as the base case.
+Action: Position for a September hike as base case but size for two-way volatility; favor duration only if inflation data surprises dovish, and hedge rupiah exposure against a firmer dollar.
+Source: https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html
+Source: https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html
+Source: https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories
 
-## Copper heads for record high close on tighter global market | The Straits Times
-Insight: Copper has rallied about 14% in 2026, building on three consecutive annual gains, and is closing in on a record as supply tightens while electrification and AI data center demand expand. The rally is a direct read-through for commodity producers in ASEAN, especially Indonesia's mining complex, and a signal that industrial metals are pricing physical scarcity rather than global growth optimism.
-Action: Hold or add exposure to copper-linked producers with volume growth; use pullbacks to build positions and watch LME inventory and China import data for confirmation of the tightness narrative.
-Source: https://www.straitstimes.com/business/copper-heads-for-record-high-close-on-tighter-global-market
+## Singapore tightens policy in surprise move on oil inflation risk | CNBC
+Insight: The MAS tightened monetary policy in a surprise July move as rising oil prices rekindle inflation risk, managing the Singapore dollar against a trade-weighted basket rather than using interest rates. The move predates but reinforces this week's Hormuz-driven crude gains, and it caps the rally in Singapore banks that just hit fresh highs on strong Q2 earnings.
+Action: Respect the firmer-SGD bias in regional FX positioning; hold Singapore banks while earnings momentum lasts but trim into strength if oil pushes MAS rhetoric further hawkish.
+Source: https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html
+Source: https://www.straitstimes.com/business/dbs-ocbc-shares-climb-to-fresh-highs-on-strong-q2-earnings-yen-rally-stalls-markets-this-week
 
-## Pemerintah cari pajak baru, rumah kontrakan bakal dikenakan | CNBC Indonesia
-Insight: Indonesia's government is expanding the tax base by targeting owners of more than one property, with rental homes set to face new taxes, as it seeks revenue beyond the flagship programs. The move signals fiscal consolidation intent that could support the rupiah and sovereign credit, but execution and public reception will determine whether it becomes a market-positive fiscal story or a drag on property-sector sentiment.
-Action: Monitor the draft rules for scope and rates; watch property and construction names for margin impact, and treat the plan as mildly supportive for the fiscal and bond narrative if revenue estimates look credible.
-Source: https://www.cnbcindonesia.com/news/20260808213343-4-757683/pemerintah-cari-pajak-baru-rumah-kontrakan-bakal-dikenakan
+## China inflation slows to 0.5%, factory activity contracts | The Straits Times
+Insight: China's July CPI eased to 0.5% YoY, below forecast, after factory activity unexpectedly contracted in July as the export rush that powered the Q2 rebound began to unwind and typhoons hit output. Disinflation in China is a headwind for regional export demand and commodity pricing, but it keeps PBOC easing options open.
+Action: Trim reliance on China-exposed cyclicals; monitor the August PMI and any PBOC easing signals for a reflation trade, and watch the read-through to ASEAN export and commodity names.
+Source: https://www.straitstimes.com/business/china-inflation-slows-in-july-below-forecast
+Source: https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html
+
+## Indonesia enters policy-heavy week ahead of Prabowo's state speech | CNBC Indonesia
+Insight: Indonesian markets face a heavy week with Prabowo's state speech before Aug 17, US inflation data, and local releases cited as the main drivers, with the JCI closing Friday at 6,409.65, up 1.04%, its strongest session of the week. Bali wants to follow Jakarta in issuing regional bonds, the DJP gained access to crypto-asset tax data to widen supervision of wealthy taxpayers, and PNS salaries have not risen in two years with 2027 still unclear.
+Action: Watch the state speech for fiscal and subsidy signals and this week's US CPI for the rupiah and BI policy path; treat regional bond plans and crypto tax enforcement as slow-moving credit and compliance developments, not near-term liquidity events.
+Source: https://www.cnbcindonesia.com/research/20260809180719-128-757750/menanti-pidato-kenegaraan-prabowo-di-tengah-banjir-kabar-dari-as
+Source: https://www.cnbcindonesia.com/market/20260810054839-17-757768/usai-jakarta-bali-ingin-terbitkan-obligasi-daerah-ada-apa
+Source: https://www.cnbcindonesia.com/news/20260810063912-4-757771/djp-buka-akses-data-kripto-orang-super-kaya-masuk-radar
 
 # ASEAN Focus
 
-- SG: STI rose 1.05% to 5,698.43, extending the week's gains; high-earning talent visa holders have doubled to about 8,500 in two years, Allianz is moving into the wealth and retirement market via the HSBC Life and UOB Asset Management deals, and the PM pledged AI policy that helps workers, sustaining Singapore's asset-inflow story.
-- MY: KLCI slipped 0.08% to 1,735.75; the durable theme is weather stress, with durian farmers fighting extreme conditions to keep quality supply, a reminder that soft-commodity inflation persists across Malaysian food chains.
-- ID: JCI jumped 1.04% to 6,409.65, its strongest session of the week and a 2.8% weekly gain; the 10Y yield held at 7.14%, and the new rental-home tax plan joined the Hormuz oil story as the key domestic market movers.
-- PH: The Pax Silica AI hub advanced toward reality with site development eyed in three to five years, a first phase of about 500 hectares of the 1,620-hectare site, and a 3 GW power question that may be hard to answer without nuclear; Q2 GDP growth of 2.3% and GIR near a two-year low at US$103.4 billion remain the macro drags, while Francisco Motors proposed a US$100 million EV investment.
-- VN: VN-Index price data remains unavailable (the ticker is delisted from the data provider); the dollar firmed against the dong and domestic gold prices traded near two-week highs, reflecting broader USD strength and safe-haven demand.
-- TH: SET index data is still insufficient for this cycle; Bangkok's US$29 million pedestrian and cycling bridge plan across the Chao Phraya is the notable headline, while the economy stays hostage to oil-driven inflation and a tight refining market.
+- SG: STI rose 1.05% to 5,698.43; DBS and OCBC hit fresh highs and raised 2026 targets on strong Q2 earnings while the yen rally stalled. The MAS surprise tightening in July remains the key policy constraint as Hormuz-driven oil rekindles inflation risk.
+- MY: KLCI slipped 0.08% to 1,735.75; durian farmers are fighting extreme weather to keep quality supply flowing, highlighting persistent soft-commodity supply pressure across Malaysian food chains.
+- ID: JCI jumped 1.04% to 6,409.65, its strongest session of the week and a 2.8% five-session gain, the best among tracked ASEAN indices; the 10Y yield held at 7.14% and the 5Y CDS at 90.49 bps.
+- PH: Q2 GDP weakness is seen tempering BSP rate hikes; electronics exports are projected to breach US$50 billion for the first time on AI demand, while June debt payments jumped 18.5% to P77.2 billion, a fiscal drag. PSEi price data remains unavailable.
+- VN: VN-Index price data is unavailable (ticker delisted from the data provider); domestic gold prices hit a two-week peak and the dollar firmed against the dong, while Hanoi apartment flippers are trapped as the property downturn keeps buyers away.
+- TH: SET index data is still insufficient for this cycle; Bangkok's US$29 million Chao Phraya bridge plan is the notable headline, while the economy stays exposed to oil-driven inflation and tight refining capacity.
 
 # Indonesia Focus
 
-- JCI closed at 6,409.65 on Aug 7, up 1.04% on the day, the best single-session gain of the week, and up 2.8% over the five-session window (normalized 100 to 102.8), the strongest weekly run among tracked ASEAN indices.
-- The 10Y government bond yield held at 7.14% for a fourth consecutive session (Aug 5 to Aug 8), range-bound with no domestic rate signal; direction will hinge on oil, US hike odds and BI policy communication.
-- The 5Y CDS was flat at 90.49 bps, drifting up from 89.94 bps on Aug 6 and 90.1 bps on Aug 7; still comfortably below stress levels, but watch whether Hormuz-driven oil and a 43.9% September Fed hike probability push it toward 95 bps.
-- Market-moving watch: the government's new tax plan on rental homes signals fiscal consolidation, an ADNOC tanker attack in Hormuz pressures oil, the rupiah and the fuel subsidy bill, and the Bapenda DKI tax office fire was confirmed not to have compromised Jakarta tax data; BI policy direction and Hormuz headlines are the key swing factors this week.
+- JCI closed at 6,409.65 on Aug 7, up 1.04% on the day and up 2.8% over the Aug 3 to Aug 7 window (normalized 100 to 102.8), the strongest weekly run among tracked ASEAN indices; the trend is constructive but faces an oil, US CPI and Fed communication test this week.
+- The 10Y government bond yield held at 7.14% for a third straight session, unchanged since Aug 7; direction remains hostage to oil, US hike odds and BI communication rather than domestic data.
+- The 5Y CDS was flat at 90.49 bps, up from 90.1 bps on Aug 7; still well below stress levels, but watch whether Hormuz-driven oil and a September Fed hike push it toward 95 bps.
+- Market-moving watch: Prabowo's state speech before Aug 17, this week's US inflation data, and Hormuz oil flows are the swing factors; Bali's regional bond plan, DJP crypto tax data access, and stagnant PNS salaries add fiscal and compliance color, while a firmer dollar and China disinflation pressure the rupiah and export revenues.
 
 # Risks & Catalysts
 
-- Risk: Hormuz escalation. An ADNOC tanker was attacked in the strait and Iran demands the US "rectify its behaviour" plus compensation; oil is bid, US gas prices average US$4.06 per gallon, and deal headlines create two-way whipsaws.
-- Risk: Refining bottleneck. Gas prices can stay elevated this fall even if crude stabilizes, because refining capacity is tight due to the Ukraine and Iran wars, a persistent inflation channel for consumers.
-- Risk: AI cyber attacks. The Hugging Face hack signals a new era of AI supply-chain attacks, with agent hacks reported at Anthropic, Meta and OpenAI and many firms unaware they are exposed.
-- Risk: Crypto regulatory gridlock. The Senate bill stalled after a US$225 million lobbying push, leaving US digital asset policy in limbo.
-- Risk: Philippine macro stress. Q2 GDP grew just 2.3%, GIR is near a two-year low at US$103.4 billion, and MSME lending is sluggish, keeping peso and sovereign credit questions alive.
-- Catalyst: Berkshire deployment. A net US$20 billion into stocks plus a US$4.5 billion buyback signals large-cap value rotation and supports risk appetite.
-- Catalyst: Soft US jobs. The 23,000 payroll decline scaled back hike bets and drove the S&P 500 to a record 7,757.64, a supportive backdrop for EM and Indonesian assets if it holds.
-- Catalyst: Commodity strength. Copper is heading for a record close (+14% in 2026) and China's July exports rose 23.9% YoY with chip shipments nearly doubling, tailwinds for ASEAN producers and tech supply chains.
+- Risk: Hormuz standstill. Iran denies direct talks, the Houthis hit a Saudi refinery, and oil extends gains; deal headlines create violent two-way swings, and refining bottlenecks keep fuel prices elevated even if crude stabilizes.
+- Risk: Fed hike repricing. A divided Fed leans hawkish with Q2 GDP at 1.5% and core inflation at 3.3%; this week's inflation data could force a September hike that pressures EM rates and currencies.
+- Risk: AI concentration shock. DeepSeek-style disruption hit Nvidia down 16% in a day; further AI-name drawdowns would drag the Nasdaq and regional tech sentiment.
+- Risk: China slowdown. July factory PMI contracted and CPI slowed to 0.5% YoY, weakening the regional export and commodity demand backdrop.
+- Risk: Philippine fiscal stress. Debt payments jumped 18.5% in June to P77.2 billion and Q2 GDP is anemic, keeping peso and sovereign credit questions alive despite a possible BSP pause.
+- Catalyst: Soft US jobs. The 23,000 payroll decline eased hike bets and drove US indices higher, a supportive backdrop for EM and Indonesian assets if inflation data confirms disinflation.
+- Catalyst: Broadening US rally. The average stock is beating the S&P 500 for the first time in four years, with S&P 500 sales growth near a five-year high on a 42.5% energy revenue gain, supporting global risk appetite.
+- Catalyst: AI-driven exports. Philippine electronics exports are set to breach US$50 billion for the first time on AI demand, a regional supply-chain tailwind.
+- Catalyst: ASEAN bank earnings. DBS and OCBC raised 2026 targets, underpinning the STI and regional financial sentiment.
 
 # Sources
 
+- https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html
 - https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html
-- https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab
-- https://www.cnbcindonesia.com/news/20260808214611-4-757684/selat-hormuz-memanas-kapal-minyak-uea-diserang-saat-melintas
-- https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4
-- https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html
-- https://www.theedgesingapore.com/news/us-stocks/berkshire-hathaway-buys-back-us45-bil-its-own-shares
-- https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html
-- https://www.ft.com/content/352a15ac-53c4-46eb-b75e-957f0388dc79
-- https://www.straitstimes.com/business/copper-heads-for-record-high-close-on-tighter-global-market
-- https://www.cnbcindonesia.com/news/20260808213343-4-757683/pemerintah-cari-pajak-baru-rumah-kontrakan-bakal-dikenakan
-- https://www.straitstimes.com/business/companies-markets/sp-closes-at-record-high-as-soft-jobs-report-eases-rate-hike-concerns
-- https://www.straitstimes.com/business/economy/wrapup-2-us-nonfarm-payrolls-fall-in-july-unemployment-rate-eases-to-4-1
-- https://www.straitstimes.com/business/economy/china-exports-in-july-beat-expectations-on-robust-high-tech-demand
-- https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html
-- https://business.inquirer.net/604771/pax-silica-site-development-eyed-in-3-to-5-years
-- https://business.inquirer.net/604774/powering-pax-silica-can-3-gw-be-delivered-without-nuclear
-- https://business.inquirer.net/604816/from-jeeps-to-evs-filipino-vehicle-maker-stakes-claim
-- https://e.vnexpress.net/news/business/economy/singapore-high-earning-talent-visa-holders-double-in-2-years-5106427.html
-- https://www.straitstimes.com/business/allianz-eyes-singapore-wealth-retirement-market-with-hsbc-life-uob-asset-management-deals
-- https://www.cnbcindonesia.com/news/20260809053915-4-757685/gedung-bapenda-dki-terbakar-pramono-data-pajak-jakarta-aman
+- https://www.ft.com/content/ce343513-5514-4519-95c8-19832ed46d16?syn-25a6b1a6=1
+- https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html
+- https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html
+- https://www.cnbc.com/2026/08/05/private-companies-added-just-44000-workers-in-july-below-expectations-adp-reports.html
+- https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main
+- https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main
+- https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories
+- https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html
+- https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html
+- https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories
+- https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html
+- https://www.straitstimes.com/business/dbs-ocbc-shares-climb-to-fresh-highs-on-strong-q2-earnings-yen-rally-stalls-markets-this-week
+- https://www.straitstimes.com/business/china-inflation-slows-in-july-below-forecast
+- https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html
+- https://www.cnbcindonesia.com/research/20260809180719-128-757750/menanti-pidato-kenegaraan-prabowo-di-tengah-banjir-kabar-dari-as
+- https://www.cnbcindonesia.com/market/20260810054839-17-757768/usai-jakarta-bali-ingin-terbitkan-obligasi-daerah-ada-apa
+- https://www.cnbcindonesia.com/news/20260810063912-4-757771/djp-buka-akses-data-kripto-orang-super-kaya-masuk-radar
