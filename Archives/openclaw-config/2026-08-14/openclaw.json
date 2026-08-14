@@ -1,0 +1,224 @@
+{
+  "agents": {
+    "defaults": {
+      "workspace": "/root/.openclaw/workspace",
+      "models": {
+        "deepseek/deepseek-v4-flash": {
+          "alias": "DeepSeek"
+        }
+      },
+      "model": {
+        "primary": "deepseek/deepseek-v4-flash"
+      },
+      "timeoutSeconds": 900
+    },
+    "list": [
+      {
+        "id": "main",
+        "workspace": "/root/.openclaw/workspace",
+        "default": true
+      },
+      {
+        "id": "verbose",
+        "workspace": "/root/.openclaw/workspace-verbose"
+      }
+    ]
+  },
+  "gateway": {
+    "mode": "local",
+    "auth": {
+      "mode": "token",
+      "token": "***REDACTED***"
+    },
+    "port": 18789,
+    "bind": "loopback",
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    },
+    "controlUi": {
+      "allowInsecureAuth": true
+    },
+    "nodes": {
+      "denyCommands": [
+        "camera.snap",
+        "camera.clip",
+        "screen.record",
+        "contacts.add",
+        "calendar.add",
+        "reminders.add",
+        "sms.send",
+        "sms.search"
+      ]
+    }
+  },
+  "session": {
+    "dmScope": "per-channel-peer"
+  },
+  "tools": {
+    "profile": "coding"
+  },
+  "wizard": {
+    "securityAcknowledgedAt": "2026-08-02T06:31:17.295Z",
+    "lastRunAt": "2026-08-02T06:31:17.344Z",
+    "lastRunVersion": "2026.7.1-2",
+    "lastRunCommand": "onboard",
+    "lastRunMode": "local"
+  },
+  "meta": {
+    "lastTouchedVersion": "2026.7.1-2",
+    "lastTouchedAt": "2026-08-02T06:55:16.979Z"
+  },
+  "plugins": {
+    "entries": {
+      "deepseek": {
+        "enabled": true
+      }
+    }
+  },
+  "models": {
+    "mode": "merge",
+    "providers": {
+      "deepseek": {
+        "baseUrl": "https://api.deepseek.com",
+        "api": "openai-completions",
+        "models": [
+          {
+            "id": "deepseek-v4-flash",
+            "name": "DeepSeek V4 Flash",
+            "reasoning": true,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0.14,
+              "output": 0.28,
+              "cacheRead": 0.028,
+              "cacheWrite": 0
+            },
+            "contextWindow": 1000000,
+            "maxTokens": "***REDACTED***",
+            "compat": {
+              "supportsReasoningEffort": true,
+              "supportsUsageInStreaming": true,
+              "maxTokensField": "***REDACTED***"
+            },
+            "api": "openai-completions"
+          },
+          {
+            "id": "deepseek-v4-pro",
+            "name": "DeepSeek V4 Pro",
+            "reasoning": true,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 1.74,
+              "output": 3.48,
+              "cacheRead": 0.145,
+              "cacheWrite": 0
+            },
+            "contextWindow": 1000000,
+            "maxTokens": "***REDACTED***",
+            "compat": {
+              "supportsReasoningEffort": true,
+              "supportsUsageInStreaming": true,
+              "maxTokensField": "***REDACTED***"
+            },
+            "api": "openai-completions"
+          },
+          {
+            "id": "deepseek-chat",
+            "name": "DeepSeek Chat",
+            "reasoning": false,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0.28,
+              "output": 0.42,
+              "cacheRead": 0.028,
+              "cacheWrite": 0
+            },
+            "contextWindow": 131072,
+            "maxTokens": "***REDACTED***",
+            "compat": {
+              "supportsUsageInStreaming": true,
+              "maxTokensField": "***REDACTED***"
+            },
+            "api": "openai-completions"
+          },
+          {
+            "id": "deepseek-reasoner",
+            "name": "DeepSeek Reasoner",
+            "reasoning": true,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0.28,
+              "output": 0.42,
+              "cacheRead": 0.028,
+              "cacheWrite": 0
+            },
+            "contextWindow": 131072,
+            "maxTokens": "***REDACTED***",
+            "compat": {
+              "supportsReasoningEffort": false,
+              "supportsUsageInStreaming": true,
+              "maxTokensField": "***REDACTED***"
+            },
+            "api": "openai-completions"
+          }
+        ],
+        "timeoutSeconds": 300
+      }
+    }
+  },
+  "auth": {
+    "profiles": {
+      "deepseek:default": {
+        "provider": "deepseek",
+        "mode": "api_key"
+      }
+    }
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "pairing",
+      "accounts": {
+        "default": {
+          "name": "Rifqi Main",
+          "tokenFile": "***REDACTED***"
+        },
+        "verbose": {
+          "name": "Verbose Claw",
+          "botToken": "***REDACTED***"
+        }
+      },
+      "defaultAccount": "default"
+    }
+  },
+  "commands": {
+    "ownerAllowFrom": [
+      "telegram:1294448346"
+    ]
+  },
+  "bindings": [
+    {
+      "agentId": "main",
+      "match": {
+        "channel": "telegram",
+        "accountId": "default"
+      }
+    },
+    {
+      "agentId": "verbose",
+      "match": {
+        "channel": "telegram",
+        "accountId": "verbose"
+      }
+    }
+  ]
+}
