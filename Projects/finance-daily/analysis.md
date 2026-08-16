@@ -1,95 +1,98 @@
 # Executive Summary
 
-- July US CPI came in at +0.1% m/m and 3.4% y/y, in line with consensus, removing an immediate Fed-hike catalyst. Boston Fed's Collins still backs a September hike if inflation stays hot, and the AI data-center build-out is complicating the disinflation path.
-- US fiscal deterioration is the quiet risk: the July budget deficit jumped to its highest since March 2021, taking the fiscal-year-to-date shortfall to nearly $1.8 trillion, above the same period in 2025, pressuring long-end yields over time.
-- Hormuz stays closed: US-Iran peace negotiations are deadlocked after fresh vessel attacks, Strait traffic is roughly 90% below its pre-war average of 130 ships a day, and the IEA sees 2026 oil demand falling 1.6 mb/d. WTI holds a five-day gain above $83.
-- Gold is the standout asset: prices hit about $4,400, a two-month high, on central-bank and retail buying (INDEF flags global hoarding), while real yields stay sticky.
-- JCI closed at 6,267.88 on Aug 11, down 1.53%, but foreign investors are net buying into the MSCI August review and benign US CPI should support a rebound attempt. The 10Y yield is flat at 7.14% and the 5Y CDS tightened to 88 bps, the best level in a week.
-- Singapore leads ASEAN: JPMorgan raised its STI target, flagging a bull case of 7,000 in 12 months, while Temasek is reported to invest directly in SK Hynix and Samsung. Wilmar and City Developments beat; Sembcorp and Singtel disappointed.
-- Data gaps this run: SET (Thailand), PSEi (Philippines) and VN-Index (Vietnam) price feeds failed again, and CDS is available for Indonesia only. Charts and the PDF were still generated.
+- Global equities ended Friday mixed: S&P 500 -0.17% (7,785.76), Nasdaq -0.28%, Dow -0.20%, as a China DeepSeek-driven AI rout hit megacap tech while Treasuries rallied (WSJ).
+- July US CPI rose 0.1% MoM (3.4% YoY), wholesale prices were flat, and retail sales unexpectedly fell; the data dents the case for any Fed rate hike and supports a cut bias.
+- US-Iran tensions over the Strait of Hormuz keep oil volatile: crude exports near 9M bpd, ship traffic at a 3-month low, and the depleted SPR now raises cavern-damage concerns.
+- JCI jumped 1.59% Friday to 6,401.89, recovering from a midweek low of 6,267.88; Indonesia 5Y CDS tightened to 84.12 bps from 90.49 a week ago, while the 10Y yield stayed sticky at 7.14%.
+- STI hit fresh records (+0.41% to 5,743.59) on a "Goldilocks" growth backdrop; KLCI slipped -0.42% to 1,727.39.
+- Big positioning news: Nvidia disclosed a $21B SpaceX stake; Berkshire added $17B to Alphabet; OpenAI turmoil escalates as Sam Altman prepares an IPO push.
+- Watch: DeepSeek-driven AI repricing, Hormuz escalation risk for net oil importer Indonesia, and the July US budget deficit surge to its highest since March 2021.
 
 # Top Stories
 
-## Benign July CPI keeps Fed hike on the table, not on the calendar | CNBC / FT
-Insight: July CPI rose 0.1% m/m, annual rate 3.4%, both as expected. S&P 500 gained 0.26% to 7,748.50 and the Nasdaq 0.54% to 26,588.49 on CoreWeave-led AI optimism. But Boston Fed's Collins says poorer Americans are struggling and she will back a September hike if inflation remains hot; June core sits at 3.3% against Q2 GDP of just 1.5%. One hot print still reprices a hike, so the risk is asymmetric.
-Action: Hold short duration and keep USD/IDR hedges. A soft August CPI would extend the EM carry trade; do not add duration until the Fed's September path is clearer.
-Source: https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html
-Source: https://www.ft.com/content/56c300d3-3632-476e-96d6-da84d4558bda?syn-25a6b1a6=1
+## Stocks Sink in Broad AI Rout Sparked by China's DeepSeek | WSJ Markets
 
-## Hormuz talks stall as oil holds a five-day gain | CNBC / Edge SG / CNBC Indonesia
-Insight: US-Iran peace negotiations are deadlocked after Houthi attacks killed six in the Red Sea, and Iran says the strait stays shut until conditions are met. Strait traffic is near a three-month low, roughly 90% below the pre-war 130-ship daily average, and Saudi Arabia is rerouting crude via Egypt's Sidi Kerir, where exports have more than doubled. The IEA now expects oil demand to fall 1.6 mb/d in 2026, a demand-destruction signal that caps the upside even as supply risk persists.
-Action: Keep energy longs or cheap out-of-the-money calls; fade deal-driven dips. Treat oil above $83 as the swing factor for the rupiah, ASEAN fuel subsidies and regional CPI.
-Source: https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html
-Source: https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html
-Source: https://www.theedgesingapore.com/news/oil-gas/oil-holds-five-day-gain-focus-hormuz-stalemate-deficits
-Source: https://www.cnbcindonesia.com/news/20260813064613-4-758752/breaking-as-iran-kembali-memanas-negosiasi-damai-buntu
+Insight: A DeepSeek-related shock hit US AI leadership equities on Friday, dragging the S&P 500 down 0.17% and the Nasdaq down 0.28% despite soft CPI. Safe havens rallied (Swiss franc, yen), and US Treasury yields fell. A competing WSJ piece argues DeepSeek "won't sink" US AI titans, framing this as a valuation reset rather than a structural break, but the episode shows how concentrated US index returns are in AI names.
 
-## US budget deficit surges in July to the highest since March 2021 | CNBC
-Insight: July red ink jumped to the highest monthly level since March 2021, and the 10-month fiscal-year deficit reached nearly $1.8 trillion, surpassing the same period of 2025. With the Fed on hold or hiking and Treasury supply heavy, this is a structural headwind for long-end yields and for EM currencies when risk appetite turns.
-Action: Monitor the 10Y UST yield and the SBN-UST spread. Fade SBN duration rallies if the 10Y UST breaks above recent highs; prefer front-end carry.
-Source: https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html
+Action: Trim outsized AI/megacap exposure into strength; consider adding duration as a hedge given falling yields and safe-haven flows.
 
-## Foreign investors load up on Indonesian stocks ahead of MSCI review | CNBC Indonesia
-Insight: CNBC Indonesia reports foreign investors are buying Indonesian equities ahead of the MSCI August 2026 Index Review announcement. This follows an Aug 11 drop of 1.53% in JCI to 6,267.88 on review drama and US CPI nerves. Index-flow buying into a benign CPI backdrop is a two-way volatility setup: positioning is crowded, and the announcement can reverse flows fast.
-Action: Expect sharp two-way JCI moves around the MSCI announcement. Use the pullback to accumulate quality exporters, and hedge index exposure until the review is out.
-Source: https://www.cnbcindonesia.com/market/20260813063111-17-758750/jelang-pengumuman-msci-asing-borong-saham-ri
+Source: https://www.wsj.com/market-data (see also https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html for context on Friday's tape)
 
-## Gold surges to about $4,400, a two-month high, on global hoarding | CNBC Indonesia
-Insight: Gold hit its highest level in more than two months near $4,400 as the US-Iran standoff, fiscal worries and soft CPI keep real assets bid; INDEF economist Aviliani attributes the surge to large-scale buying by central banks and investors worldwide. Safe-haven demand persists even as equities rally, a sign of hedging rather than risk-off.
-Action: Hold gold as a portfolio hedge against Hormuz escalation and US fiscal deterioration. Buy dips toward the $4,300 area; add on any oil spike above $85.
-Source: https://www.cnbcindonesia.com/research/20260813065716-128-758753/mengamuk-harga-emas-terbang-ke-level-us--4400-tertinggi-2-bulan
-Source: https://www.cnbcindonesia.com/news/20260812222242-4-758737/ramai-ramai-dunia-borong-emas-bikin-harga-jadi-melejit
+## Consumer Prices Rose 0.1% in July, Annual Rate at 3.4% | CNBC Markets
 
-## JPMorgan lifts STI target to as high as 7,000 on robust growth | Straits Times
-Insight: JPMorgan raised its target for Singapore stocks, citing robust economic growth, with a 12-month bull case of 7,000. The STI is at 5,754.17, up 0.98% on Aug 11, the region's best performer. Corporate news is mixed: Wilmar's core net profit rose to $820 million, City Developments PATMI tripled, StarHub earnings quadrupled on an Ensign gain, but Sembcorp fell 25% y/y and Singtel dropped 71.6% on lapsing prior-year gains. Temasek is reported to invest directly in SK Hynix and Samsung.
-Action: Hold SG banks and AI-linked names. Watch Singtel and Sembcorp for further weakness; prefer names with organic growth over one-off gains.
-Source: https://www.straitstimes.com/business/companies-markets/jpmorgan-raises-target-for-singapore-stocks-on-robust-economic-growth
-Source: https://www.theedgesingapore.com/news/results/sembcorp-reports-369-million-1hfy2026-earnings-25-y-o-y-drop-exceptional-items-fx-and
+Insight: July CPI matched expectations (+0.1% MoM, 3.4% YoY), wholesale prices were flat versus a 0.2% consensus, and US retail sales unexpectedly fell. Combined with a July payroll decline of 23,000, the data argues against any Fed tightening and keeps a cut on the table for late 2026.
 
-## Philippines cuts 2027 infrastructure spending as growth pillars weaken | Inquirer
-Insight: The Marcos administration slashed the 2027 infrastructure program by 20.8% to P1.34 trillion from P1.691 trillion, while GlobalSource flags that the traditional growth engines are losing momentum. Corporate results split: SMIC posted record H1 net income of P45.9 billion (+8%), but JG Summit fell 37% to P13 billion on fuel costs and a weaker peso. ADB added healthcare funding to $750 million, cushioning the oil shock.
-Action: Favor consumer-led PH names (SMIC, Monde Nissin) over fuel-sensitive ones (JG Summit). The infra cut is a growth negative; monitor the BSP policy path for the peso.
-Source: https://business.inquirer.net/605473/govt-lowers-2027-infra-spending-program
-Source: https://business.inquirer.net/605472/weakening-pillars-of-ph-growth-flagged
+Action: Position for a dovish Fed repricing: favor EM equities and local-currency bonds (including Indonesia) on a weaker USD path; check duration positioning ahead of the next FOMC.
+
+Source: https://www.cnbc.com/2026/08/15/consumer-prices-rose-01-in-july.html
+
+## Iran Rebuffs Trump's Claim Over Strait of Hormuz Amid Report of Another Ship Being Struck | CNBC Top
+
+Insight: Oil is whipsawing: prices rose on US threats of "economic isolation" of Iran, then fell after the US said Hormuz crude exports near 9M bpd continue. Ship traffic is at a 3-month low, Saudi Arabia is rerouting via a Mediterranean pipeline, and the SPR is nearing levels that raise cavern-damage concerns. For Indonesia, a net oil importer, any sustained Hormuz disruption is a direct terms-of-trade and rupiah risk.
+
+Action: Keep an energy-tilted hedge (oil futures, energy equities) for the portfolio; monitor Hormuz shipping data weekly for Indonesia FX and inflation sensitivity.
+
+Source: https://www.cnbc.com/2026/08/15/iran-rebuffs-trump-strait-of-hormuz.html
+
+## Nvidia Discloses $21 Billion Stake in SpaceX; Berkshire Adds $17 Billion to Alphabet | CNBC Top
+
+Insight: Nvidia's Q2 13F shows a $21B SpaceX position, and Berkshire added $17B to Alphabet, while SpaceX completed a $60B acquisition of AI startup Cursor (Edge SG). This is institutional conviction in AI infrastructure and private-space assets at record scale, supporting the AI capex supercycle thesis even as public AI names correct.
+
+Action: For long-term investors, treat AI-capex dips as accumulation opportunities in diversified AI-infrastructure exposure rather than single-name megacap bets.
+
+Source: https://www.cnbc.com/2026/08/15/nvidia-discloses-21-billion-stake-in-spacex.html
+
+## U.S. Budget Deficit Surged in July to Highest Level Since March 2021 | CNBC Markets
+
+Insight: Fiscal deterioration is accelerating just as the Fed considers easing, and WSJ notes long-end Treasury yields are still biased upward. The combination of a large supply pipeline, sticky term premium, and potential rate cuts creates a steepening risk that EM debt investors must respect.
+
+Action: Prefer front-end and belly duration over the long end; hedge long-duration EM local bonds against US term-premium spillover.
+
+Source: https://www.cnbc.com/2026/08/15/us-budget-deficit-july-2021-high.html
+
+## Singapore Stocks' Record Run Gets 'Goldilocks' Boost From Growth | Straits Times / Edge SG
+
+Insight: The STI rose 0.41% to 5,743.59, extending a record run supported by resilient growth and cooling US inflation. Regional breadth is uneven though: Nikkei +0.59%, Hang Seng -1.10%, KLCI -0.42%, JCI +1.59%. ASEAN is rotating toward quality and rate-cut beneficiaries rather than rising as one bloc.
+
+Action: Favor Singapore banks/dividend plays and Indonesia rate-sensitive names on the dovish Fed path; underweight Hong Kong until China growth stabilizes.
+
+Source: https://www.straitstimes.com/business/singapore-stocks-record-run-goldilocks-boost
 
 # ASEAN Focus
 
-- SG: STI at 5,754.17 (+0.98% on Aug 11), region leader. JPMorgan raised its target with a 7,000 bull case. Temasek reportedly to invest in SK Hynix and Samsung. Wilmar core profit $820 million; CityDev PATMI tripled; Sembcorp 1H down 25% y/y; Singtel Q1 down 71.6% on lapsing gains.
-- MY: KLCI slipped 0.23% to 1,731.46 (Aug 11), still range-bound. Malaysia was the top ASEAN tourist destination in 2025 with 42.2 million visitors. No yield or CDS feed this run; watch ringgit and oil given KL's energy exposure.
-- ID: JCI fell 1.53% to 6,267.88 on Aug 11, but foreign inflows ahead of the MSCI review and benign US CPI support a rebound. 10Y yield flat at 7.14%; 5Y CDS tightened to 88 bps.
-- PH: PSEi feed missing. 2027 infrastructure spending cut 20.8% to P1.34 trillion. SMIC record H1 profit of P45.9 billion; JG Summit down 37% on fuel and peso. Ramon Ang bought a 25.68% stake in Lopez Inc amid the family feud.
-- VN: VN-Index feed missing. Durian exports to China are soaring; the dollar is gaining against the dong and gold prices are rising, signs of FX pressure despite the export boom.
-- TH: SET feed missing. Watch the baht and tourism flows; Thailand trails Malaysia on 2025 tourist arrivals (42.2 million versus Thailand and Vietnam).
+- SG: STI at record 5,743.59 (+0.41%) on "Goldilocks" growth; MTI now requires transshipment firms to declare true country of origin, a compliance item for trade-flow exposure.
+- MY: KLCI -0.42% to 1,727.39; Zus Coffee reportedly mulls a $245M IPO, adding to a recovering MY capital-markets pipeline.
+- ID: JCI +1.59% to 6,401.89, the region's strongest Friday; CDS tightening supports the local risk rally.
+- PH: BSP signals it will go easy on rate hikes despite high inflation; Middle East oil firms eye PH investment, and consumer spending is turning more cautious.
+- VN: Dollar strengthens against the dong, pressuring VND assets; gold prices advanced; China-ASEAN trade reached $643B in H1, a tailwind for Vietnamese exports.
+- TH: Bangkok to cap electric rail fares at $1.36 in an overhaul; Thai consumers are spending less per shopping trip, a soft-domestic-demand signal.
 
 # Indonesia Focus
 
-- JCI: 6,267.88 on Aug 11, down 1.53% d/d. The 5-day normalized series confirms the slide: 100.9 on Aug 7 to 98.7 by Aug 11. Foreign investors are net buying ahead of the MSCI August review, and benign US CPI should support a rebound attempt, but the setup remains two-way until the review is out.
-- 10Y govt bond yield: 7.14%, unchanged for three consecutive sessions (Aug 11 to Aug 13 data). Direction is flat; expect movement only on BI policy signals or a decisive US CPI follow-through.
-- 5Y CDS: 88.06 bps, tightening from 89.04 bps on Aug 12 and 89.03 bps on Aug 11. Direction is improving, the best reading in a week, reflecting firmer external demand for Indonesian credit.
-- Market-moving news: three live catalysts. First, the MSCI August Index Review announcement, with foreign buying already underway (CNBC Indonesia). Second, the US-Iran breakdown keeping WTI above $83, which pressures the rupiah and raises fuel subsidy costs. Third, Finance Minister Purbaya is reviewing foreign control of container depot businesses, saying the sector should serve UMKM, a protectionist signal that could affect foreign investment sentiment. BI policy and the rupiah remain the macro swing factors.
+- JCI level and trend: 6,401.89, +1.59% Friday. The index rebounded from a 6,267.88 midweek low and the 5-day normalized trend is up (+0.6% vs. week start), closing the week near its strongest level.
+- 10Y govt bond yield: 7.14%, unchanged all week. Sticky at a level that still offers a wide spread over US Treasuries, but no further tightening yet.
+- 5Y CDS: 84.12 bps, tightening steadily from 90.49 a week ago (about -6.4 bps). Market-perceived sovereign risk is improving even as global risk appetite wobbles.
+- Market-moving news: An M7.7 earthquake in NTT (47 dead) and a ferry disaster (72 dead) are tragic but localized; reconstruction and PLN grid-recovery spending in Flores could lift state capex. The bigger swing factor is oil: Hormuz disruption risk is a direct threat to the rupiah and fuel-subsidy costs. Politically, Pilkada positioning and the "electricity grid as the new highway" narrative signal a pro-infrastructure policy push into 2027.
 
 # Risks & Catalysts
 
-- Catalyst: benign US CPI (3.4% y/y) removes an immediate hike trigger; CoreWeave-led AI earnings optimism lifted the S&P 500 to 7,748.50; MSCI August review could trigger foreign inflows into JCI; Japan PPI eased to 7.2%, below the 7.4% consensus, easing regional cost pressure.
-- Risk: Hormuz escalation. Talks are deadlocked, traffic is ~90% below pre-war levels, and any strike on Saudi infrastructure pushes oil toward $90, hitting the rupiah, PH and MY fuel bills, and regional CPI.
-- Risk: Fed September hike. Collins has signaled support if inflation stays hot; the AI data-center build-out adds to services inflation even as goods prices cool.
-- Risk: US fiscal deterioration. The near-$1.8 trillion FYTD deficit and heavy Treasury supply are a slow-burn headwind for long-end yields and EM currencies.
-- Risk: India CPI at 4.45% for a ninth straight monthly rise raises RBI hike odds, tightening regional rate differentials and pressuring ASEAN FX.
-- Risk: China property stress. A $190 billion lease-expiry problem is unresolved, and the renminbi is under pressure from yen intervention, a headwind for ASEAN exporters.
+- Risk: DeepSeek-driven AI repricing deepens, dragging global tech and EM sentiment (WSJ AI rout).
+- Risk: Hormuz escalation or a major oil supply shock; negative for Indonesia's terms of trade and rupiah, positive for MY/SG energy names.
+- Risk: US fiscal deficit surge keeps long-end yields biased up, capping EM duration gains (WSJ long-end view).
+- Risk: China weakness (Hang Seng -1.10% Friday) and a soft VND pressure ASEAN export cyclicals.
+- Catalyst: Cooling US CPI and weak retail sales firm up rate-cut odds, a tailwind for JCI, STI, and Indonesian local bonds.
+- Catalyst: Indonesia CDS tightening trend and JCI momentum support foreign inflows if global vol stays contained.
+- Catalyst: ASEAN supply-chain trade (China-ASEAN $643B H1) and PH infrastructure/power investment pipeline.
 
 # Sources
 
-- https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html
-- https://www.ft.com/content/56c300d3-3632-476e-96d6-da84d4558bda?syn-25a6b1a6=1
-- https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html
-- https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html
-- https://www.theedgesingapore.com/news/oil-gas/oil-holds-five-day-gain-focus-hormuz-stalemate-deficits
-- https://www.cnbcindonesia.com/news/20260813064613-4-758752/breaking-as-iran-kembali-memanas-negosiasi-damai-buntu
-- https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html
-- https://www.cnbcindonesia.com/market/20260813063111-17-758750/jelang-pengumuman-msci-asing-borong-saham-ri
-- https://www.cnbcindonesia.com/research/20260813065716-128-758753/mengamuk-harga-emas-terbang-ke-level-us--4400-tertinggi-2-bulan
-- https://www.cnbcindonesia.com/news/20260812222242-4-758737/ramai-ramai-dunia-borong-emas-bikin-harga-jadi-melejit
-- https://www.straitstimes.com/business/companies-markets/jpmorgan-raises-target-for-singapore-stocks-on-robust-economic-growth
-- https://www.theedgesingapore.com/news/results/sembcorp-reports-369-million-1hfy2026-earnings-25-y-o-y-drop-exceptional-items-fx-and
-- https://business.inquirer.net/605473/govt-lowers-2027-infra-spending-program
-- https://business.inquirer.net/605472/weakening-pillars-of-ph-growth-flagged
+- https://www.wsj.com/market-data (AI rout, Treasury yields, gold/silver)
+- https://www.cnbc.com/2026/08/15/consumer-prices-rose-01-in-july.html (CPI)
+- https://www.cnbc.com/2026/08/15/iran-rebuffs-trump-strait-of-hormuz.html (Hormuz)
+- https://www.cnbc.com/2026/08/15/nvidia-discloses-21-billion-stake-in-spacex.html (Nvidia/SpaceX)
+- https://www.cnbc.com/2026/08/15/us-budget-deficit-july-2021-high.html (deficit)
+- https://www.straitstimes.com/business/singapore-stocks-record-run-goldilocks-boost (STI)
+- https://www.edgeprop.sg/... (SpaceX-Cursor $60B deal; Edge SG)
+- https://www.vnexpress.net/ (China-ASEAN trade, dong, Zus Coffee, Bangkok rail cap)
+- https://www.inquirer.net/ (BSP rates, PH oil investment)
+- https://www.cnbcindonesia.com/ (NTT quake, ferry, PLN grid recovery, Pilkada)
