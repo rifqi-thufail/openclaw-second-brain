@@ -1,98 +1,113 @@
 # Executive Summary
 
-- Global equities ended Friday mixed: S&P 500 -0.17% (7,785.76), Nasdaq -0.28%, Dow -0.20%, as a China DeepSeek-driven AI rout hit megacap tech while Treasuries rallied (WSJ).
-- July US CPI rose 0.1% MoM (3.4% YoY), wholesale prices were flat, and retail sales unexpectedly fell; the data dents the case for any Fed rate hike and supports a cut bias.
-- US-Iran tensions over the Strait of Hormuz keep oil volatile: crude exports near 9M bpd, ship traffic at a 3-month low, and the depleted SPR now raises cavern-damage concerns.
-- JCI jumped 1.59% Friday to 6,401.89, recovering from a midweek low of 6,267.88; Indonesia 5Y CDS tightened to 84.12 bps from 90.49 a week ago, while the 10Y yield stayed sticky at 7.14%.
-- STI hit fresh records (+0.41% to 5,743.59) on a "Goldilocks" growth backdrop; KLCI slipped -0.42% to 1,727.39.
-- Big positioning news: Nvidia disclosed a $21B SpaceX stake; Berkshire added $17B to Alphabet; OpenAI turmoil escalates as Sam Altman prepares an IPO push.
-- Watch: DeepSeek-driven AI repricing, Hormuz escalation risk for net oil importer Indonesia, and the July US budget deficit surge to its highest since March 2021.
+- US markets closed Friday slightly lower (S&P 500 -0.17% to 7,785.76, Nasdaq -0.28%, Dow -0.20%) after a record run of +6% in 12 sessions; futures were little changed Monday as investors await Fed signals.
+- The US-Iran ceasefire expires Monday with no deal in sight: Strait of Hormuz shipping has sunk to a new low, and traffic is about 90% below the pre-war average of 130 ships/day. Oil risk stays front and center.
+- China's July data disappointed: retail sales barely grew, the investment slump steepened, and steel output tumbled, reviving pressure on policymakers and weighing on regional export cyclicals.
+- Emerging market currencies rose to a record high as softer US data (July CPI 3.4%, flat PPI, -23k payrolls) cut Fed tightening bets and weakened the dollar.
+- Japan's 10-year JGB yield hit a three-decade high on inflation and BOJ pressure; Japanese automakers face a one-two punch from the Iran war and a yen rally.
+- JCI jumped 1.59% Friday to 6,401.89, its best day of the week, then closed Monday for Independence Day; Indonesia 5Y CDS tightened to 84.12 bps (from 90.49 a week ago) while the 10Y yield held at 7.14%.
+- Thailand's Q2 GDP slowed to 1.9% YoY, the lowest among major Southeast Asian peers, as high energy prices countered fiscal stimulus.
 
 # Top Stories
 
-## Stocks Sink in Broad AI Rout Sparked by China's DeepSeek | WSJ Markets
+## Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry | CNBC Top
 
-Insight: A DeepSeek-related shock hit US AI leadership equities on Friday, dragging the S&P 500 down 0.17% and the Nasdaq down 0.28% despite soft CPI. Safe havens rallied (Swiss franc, yen), and US Treasury yields fell. A competing WSJ piece argues DeepSeek "won't sink" US AI titans, framing this as a valuation reset rather than a structural break, but the episode shows how concentrated US index returns are in AI names.
+Insight: The ceasefire expires Monday with no extension in sight, and Hormuz ship traffic has fallen to a new low, roughly 90% below the pre-war average of 130 transits/day. The US has threatened "economic isolation" and said its naval blockade could continue indefinitely, keeping Brent/WTI bid. For Indonesia, a net oil importer, a sustained Hormuz closure is a direct terms-of-trade and rupiah shock; for MY and SG energy names it is a tailwind.
 
-Action: Trim outsized AI/megacap exposure into strength; consider adding duration as a hedge given falling yields and safe-haven flows.
+Action: Keep an energy hedge in place and monitor Hormuz traffic data weekly; avoid adding to rupiah-sensitive duration until the ceasefire outcome is clear.
 
-Source: https://www.wsj.com/market-data (see also https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html for context on Friday's tape)
+Source: https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html
 
-## Consumer Prices Rose 0.1% in July, Annual Rate at 3.4% | CNBC Markets
+## China's economy slows further in July as retail sales barely grow, investment slump steepens | CNBC Top
 
-Insight: July CPI matched expectations (+0.1% MoM, 3.4% YoY), wholesale prices were flat versus a 0.2% consensus, and US retail sales unexpectedly fell. Combined with a July payroll decline of 23,000, the data argues against any Fed tightening and keeps a cut on the table for late 2026.
+Insight: July retail sales barely grew and the investment slump deepened, confirming a weak start to H2 for the world's second-largest economy. Chinese steel output tumbled alongside, and CXMT's rise to China's most valuable company (over $500B cap) shows capital rotating to chips rather than property. Weaker China demand is a headwind for ASEAN exporters, but it also keeps Chinese policymakers in stimulus mode.
 
-Action: Position for a dovish Fed repricing: favor EM equities and local-currency bonds (including Indonesia) on a weaker USD path; check duration positioning ahead of the next FOMC.
+Action: Trim exposure to China-proxy cyclicals in ASEAN; watch for PBoC/fiscal easing signals as a potential re-rating trigger for HSI and regional commodities.
 
-Source: https://www.cnbc.com/2026/08/15/consumer-prices-rose-01-in-july.html
+Source: https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html
 
-## Iran Rebuffs Trump's Claim Over Strait of Hormuz Amid Report of Another Ship Being Struck | CNBC Top
+## Emerging currencies rise to record high as Fed hike bets ease | Straits Times
 
-Insight: Oil is whipsawing: prices rose on US threats of "economic isolation" of Iran, then fell after the US said Hormuz crude exports near 9M bpd continue. Ship traffic is at a 3-month low, Saudi Arabia is rerouting via a Mediterranean pipeline, and the SPR is nearing levels that raise cavern-damage concerns. For Indonesia, a net oil importer, any sustained Hormuz disruption is a direct terms-of-trade and rupiah risk.
+Insight: Softer US data (July CPI 3.4% YoY, flat PPI, payroll decline of 23,000) reduced expectations of Fed tightening, weakening the dollar and pushing a basket of EM currencies to a record high. This is the macro backdrop that has supported the rupiah, IDN bonds and JCI, and it improves Bank Indonesia's room to hold or ease policy.
 
-Action: Keep an energy-tilted hedge (oil futures, energy equities) for the portfolio; monitor Hormuz shipping data weekly for Indonesia FX and inflation sensitivity.
+Action: Favor EM local-currency assets, including Indonesian bonds and JCI, while the Fed hike-risk premium stays low; rotate out if US inflation surprises hot.
 
-Source: https://www.cnbc.com/2026/08/15/iran-rebuffs-trump-strait-of-hormuz.html
+Source: https://www.straitstimes.com/business/emerging-currencies-rise-to-record-high-as-fed-hike-bets-ease
 
-## Nvidia Discloses $21 Billion Stake in SpaceX; Berkshire Adds $17 Billion to Alphabet | CNBC Top
+## Japan's 10-year bond yield hits 3-decade high as inflation, central bank pressures mount | Straits Times
 
-Insight: Nvidia's Q2 13F shows a $21B SpaceX position, and Berkshire added $17B to Alphabet, while SpaceX completed a $60B acquisition of AI startup Cursor (Edge SG). This is institutional conviction in AI infrastructure and private-space assets at record scale, supporting the AI capex supercycle thesis even as public AI names correct.
+Insight: The 10-year JGB yield rose for a sixth straight session to a three-decade high, with Japan wholesale inflation at 7.2% and mounting BOJ pressure. A sustained JGB selloff and yen rally would hit Japanese automakers and tech exporters, and could spill over into Asian bond markets through higher global duration risk.
 
-Action: For long-term investors, treat AI-capex dips as accumulation opportunities in diversified AI-infrastructure exposure rather than single-name megacap bets.
+Action: Monitor the BOJ's August communication for curve-steepening signals; consider trimming Japan-equity exposure and hedging yen risk in Asian portfolios.
 
-Source: https://www.cnbc.com/2026/08/15/nvidia-discloses-21-billion-stake-in-spacex.html
+Source: https://www.straitstimes.com/business/japans-10-year-bond-yield-hits-3-decade-high-as-inflation-central-bank-pressures-mount
 
-## U.S. Budget Deficit Surged in July to Highest Level Since March 2021 | CNBC Markets
+## Private credit under strain as troubled loans swell | FT
 
-Insight: Fiscal deterioration is accelerating just as the Fed considers easing, and WSJ notes long-end Treasury yields are still biased upward. The combination of a large supply pipeline, sticky term premium, and potential rate cuts creates a steepening risk that EM debt investors must respect.
+Insight: FT analysis shows stress signals in private credit are back to levels last seen in 2017 as troubled loans swell. This asset class sits behind much of the recent leverage in US mid-market buyouts; a repricing would tighten credit conditions broadly and could reach EM high-yield and ASEAN bank funding channels.
 
-Action: Prefer front-end and belly duration over the long end; hedge long-duration EM local bonds against US term-premium spillover.
+Action: Treat private-credit and BDC-linked exposures as a portfolio risk; keep credit quality high in fixed income and avoid low-quality spread products.
 
-Source: https://www.cnbc.com/2026/08/15/us-budget-deficit-july-2021-high.html
+Source: https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007
 
-## Singapore Stocks' Record Run Gets 'Goldilocks' Boost From Growth | Straits Times / Edge SG
+## Thai growth slows to 1.9 per cent as energy prices counter stimulus | Straits Times
 
-Insight: The STI rose 0.41% to 5,743.59, extending a record run supported by resilient growth and cooling US inflation. Regional breadth is uneven though: Nikkei +0.59%, Hang Seng -1.10%, KLCI -0.42%, JCI +1.59%. ASEAN is rotating toward quality and rate-cut beneficiaries rather than rising as one bloc.
+Insight: Thailand's Q2 GDP rose 1.9% YoY, above the 1.8% median estimate but well below Q1's 2.8%, the slowest among major Southeast Asian peers. Manufacturing, about a quarter of GDP, is also under US transshipment scrutiny. High energy prices are eating into fiscal stimulus, a cautionary template for other ASEAN economies facing oil shocks.
 
-Action: Favor Singapore banks/dividend plays and Indonesia rate-sensitive names on the dovish Fed path; underweight Hong Kong until China growth stabilizes.
+Action: Underweight Thai cyclicals until energy costs ease or stimulus is expanded; watch for SET buying opportunities only on a decisive oil pullback.
 
-Source: https://www.straitstimes.com/business/singapore-stocks-record-run-goldilocks-boost
+Source: https://www.straitstimes.com/business/thai-growth-slows-to-1-9-per-cent-as-energy-prices-counter-stimulus
+
+## PSEi slips on lack of fresh catalysts | Inquirer PH
+
+Insight: The PSEi fell 0.56% to about 6,262 as investors stayed cautious on Middle East uncertainty and a weaker peso, with no fresh catalysts. Fuel price hikes of up to P5.01/liter land August 18, and the BSP signals it stands ready for further monetary action to curb inflation and support growth.
+
+Action: Keep PH exposure defensive; treat the BSP's easing stance and infrastructure pipeline as reasons to accumulate on dips toward 6,200 support.
+
+Source: https://business.inquirer.net/606324/psei-slips-on-lack-of-fresh-catalysts
 
 # ASEAN Focus
 
-- SG: STI at record 5,743.59 (+0.41%) on "Goldilocks" growth; MTI now requires transshipment firms to declare true country of origin, a compliance item for trade-flow exposure.
-- MY: KLCI -0.42% to 1,727.39; Zus Coffee reportedly mulls a $245M IPO, adding to a recovering MY capital-markets pipeline.
-- ID: JCI +1.59% to 6,401.89, the region's strongest Friday; CDS tightening supports the local risk rally.
-- PH: BSP signals it will go easy on rate hikes despite high inflation; Middle East oil firms eye PH investment, and consumer spending is turning more cautious.
-- VN: Dollar strengthens against the dong, pressuring VND assets; gold prices advanced; China-ASEAN trade reached $643B in H1, a tailwind for Vietnamese exports.
-- TH: Bangkok to cap electric rail fares at $1.36 in an overhaul; Thai consumers are spending less per shopping trip, a soft-domestic-demand signal.
+- SG: STI rose 0.43% to 5,768.46 Monday, extending its record run on Goldilocks growth; job platform Snaphunt wound up on a funding delay, and Sentosa Cove resales have mostly ended in losses since 2023, softening the luxury property narrative.
+- MY: KLCI slipped 0.09% to 1,725.89; the Koon brothers' Press Metal, Southeast Asia's largest aluminum smelter, benefits from copper and aluminum at or near records.
+- ID: JCI closed 6,401.89 (+1.59% Friday), the region's strongest session last week, and is shut Monday for the 81st Independence Day; CDS at 84.12 bps is the tightest in a week.
+- PH: PSEi -0.56% to about 6,262 on no fresh catalysts; fuel hikes of up to P5.01/liter from Aug 18, BSP signals further monetary action, and June remittances grew just 1.7% YoY.
+- VN: VN-Index data unavailable in this run; the dollar firmed against the dong and gold prices gained; Vietnam must generate $227-231B of exports in the final five months to hit its target, a stiff ask.
+- TH: Q2 GDP +1.9% YoY, slowest among major SEA peers and down from 2.8% in Q1; Thailand revised its factory gauge after US transshipment concerns, and SET index data was unavailable this run.
 
 # Indonesia Focus
 
-- JCI level and trend: 6,401.89, +1.59% Friday. The index rebounded from a 6,267.88 midweek low and the 5-day normalized trend is up (+0.6% vs. week start), closing the week near its strongest level.
-- 10Y govt bond yield: 7.14%, unchanged all week. Sticky at a level that still offers a wide spread over US Treasuries, but no further tightening yet.
-- 5Y CDS: 84.12 bps, tightening steadily from 90.49 a week ago (about -6.4 bps). Market-perceived sovereign risk is improving even as global risk appetite wobbles.
-- Market-moving news: An M7.7 earthquake in NTT (47 dead) and a ferry disaster (72 dead) are tragic but localized; reconstruction and PLN grid-recovery spending in Flores could lift state capex. The bigger swing factor is oil: Hormuz disruption risk is a direct threat to the rupiah and fuel-subsidy costs. Politically, Pilkada positioning and the "electricity grid as the new highway" narrative signal a pro-infrastructure policy push into 2027.
+- JCI level and trend: 6,401.89 (+1.59% on Friday Aug 14), closing the week near its high after a midweek dip; the 5-day normalized trend is up (+0.6% vs week start). Market is closed Monday for Independence Day and reopens Tuesday Aug 18.
+- 10Y govt bond yield: 7.14%, unchanged for the eighth straight session. Sticky, but the spread over US Treasuries remains wide and attractive in a no-Fed-hike world.
+- 5Y CDS: 84.12 bps, tightening steadily from 90.49 a week ago (-6.4 bps). Sovereign risk perception is improving even with global geopolitics in flux.
+- Market-moving news: The key swing factor is oil. The US-Iran ceasefire expires Monday and Hormuz traffic is near zero, a direct threat to the rupiah (already among the 10 weakest currencies vs USD per CNBC Indonesia) and to fuel-subsidy costs. The M7.7 Flores earthquake (68 dead, 213 injured) will lift reconstruction and state capex spending but is not a macro shock. EM currencies at record highs and easing Fed-hike bets support BI's room to stay accommodative.
 
 # Risks & Catalysts
 
-- Risk: DeepSeek-driven AI repricing deepens, dragging global tech and EM sentiment (WSJ AI rout).
-- Risk: Hormuz escalation or a major oil supply shock; negative for Indonesia's terms of trade and rupiah, positive for MY/SG energy names.
-- Risk: US fiscal deficit surge keeps long-end yields biased up, capping EM duration gains (WSJ long-end view).
-- Risk: China weakness (Hang Seng -1.10% Friday) and a soft VND pressure ASEAN export cyclicals.
-- Catalyst: Cooling US CPI and weak retail sales firm up rate-cut odds, a tailwind for JCI, STI, and Indonesian local bonds.
-- Catalyst: Indonesia CDS tightening trend and JCI momentum support foreign inflows if global vol stays contained.
-- Catalyst: ASEAN supply-chain trade (China-ASEAN $643B H1) and PH infrastructure/power investment pipeline.
+- Risk: Hormuz ceasefire expires with no deal; an oil spike would hit the rupiah, Indonesian fuel subsidies and Thai/PH import bills hardest in ASEAN.
+- Risk: China's July slowdown deepens, dragging steel, copper demand and ASEAN export cyclicals; copper's record squeeze is partly supply-driven and can reverse fast.
+- Risk: Japan's 10Y at a three-decade high could spill over into global duration and trigger yen-funded EM outflows.
+- Risk: Private credit stress signals at 2017 levels; a repricing would tighten US credit conditions and leak into EM spreads.
+- Catalyst: Softer US inflation and weak payrolls keep Fed hike bets low, supporting EM FX at records and BI's accommodative stance.
+- Catalyst: Indonesia CDS tightening and JCI momentum favor foreign inflows once markets reopen Tuesday.
+- Catalyst: Indonesia's Independence Day week typically brings policy announcements; watch BI's next decision and any fuel-price adjustments given oil risk.
 
 # Sources
 
-- https://www.wsj.com/market-data (AI rout, Treasury yields, gold/silver)
-- https://www.cnbc.com/2026/08/15/consumer-prices-rose-01-in-july.html (CPI)
-- https://www.cnbc.com/2026/08/15/iran-rebuffs-trump-strait-of-hormuz.html (Hormuz)
-- https://www.cnbc.com/2026/08/15/nvidia-discloses-21-billion-stake-in-spacex.html (Nvidia/SpaceX)
-- https://www.cnbc.com/2026/08/15/us-budget-deficit-july-2021-high.html (deficit)
-- https://www.straitstimes.com/business/singapore-stocks-record-run-goldilocks-boost (STI)
-- https://www.edgeprop.sg/... (SpaceX-Cursor $60B deal; Edge SG)
-- https://www.vnexpress.net/ (China-ASEAN trade, dong, Zus Coffee, Bangkok rail cap)
-- https://www.inquirer.net/ (BSP rates, PH oil investment)
-- https://www.cnbcindonesia.com/ (NTT quake, ferry, PLN grid recovery, Pilkada)
+- https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html (Hormuz ceasefire expiry)
+- https://www.cnbc.com/2026/08/14/oil-prices-today-brent-wti-hormuz.html (oil prices, US blockade)
+- https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html (China July data)
+- https://www.straitstimes.com/business/emerging-currencies-rise-to-record-high-as-fed-hike-bets-ease (EM FX record)
+- https://www.straitstimes.com/business/japans-10-year-bond-yield-hits-3-decade-high-as-inflation-central-bank-pressures-mount (JGB 10Y)
+- https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007 (private credit stress)
+- https://www.straitstimes.com/business/thai-growth-slows-to-1-9-per-cent-as-energy-prices-counter-stimulus (Thai GDP)
+- https://business.inquirer.net/606324/psei-slips-on-lack-of-fresh-catalysts (PSEi)
+- https://business.inquirer.net/606280/fuel-price-hikes-of-up-to-p5-01-liter-set-on-aug-18 (PH fuel hikes)
+- https://www.straitstimes.com/business/thailand-revises-factory-gauge-after-us-transshipment-concerns (TH factory gauge)
+- https://www.straitstimes.com/business/singapore-based-job-search-platform-snaphunt-winds-up-after-funding-delay-leaves-it-short-of-cash (SG Snaphunt)
+- https://e.vnexpress.net/news/business/markets/dollar-climbs-against-dong-5109981.html (VND, dollar)
+- https://e.vnexpress.net/news/business/economy/vietnam-needs-to-generate-227-231b-in-exports-during-final-five-months-5109607.html (VN export target)
+- https://www.cnbcindonesia.com/research/20260817145232-128-760040/ini-10-mata-uang-dengan-kurs-terlemah-di-dunia-rupiah-termasuk (rupiah weakest currencies)
+- https://www.cnbcindonesia.com/news/20260817174635-4-760084/update-gempa-flores-ntt-68-korban-jiwa-213-orang-luka-luka (NTT earthquake)
+- https://www.cnbc.com/2026/08/17/santoli-earnings-bonanza-that-lifted-market-to-record-may-not-be-all-that-it-appears-to-be.html (record run caveat)
+- https://www.cnbc.com/2026/08/17/japanese-automakers-vulnerable-iran-war-yen-rally.html (Japanese automakers)
