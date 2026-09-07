@@ -8,10 +8,9 @@ WS="${WS:-$OPENCLAW_HOME/workspace}"
 AGENTS_DIR="${AGENTS_DIR:-$OPENCLAW_HOME/agents}"
 CONFIG_FILE="${CONFIG_FILE:-$OPENCLAW_HOME/openclaw.json}"
 CREDS_DIR="${CREDS_DIR:-$OPENCLAW_HOME/credentials}"
-SECOND_BRAIN="${SECOND_BRAIN:-/home/ratrocious/.openclaw/workspace}"   # git repo root
 DATE=$(date +%Y-%m-%d)
-CONF_DIR="$SECOND_BRAIN/Archives/openclaw-config/$DATE"
-CHAT_DIR="$SECOND_BRAIN/Archives/chat-history/$DATE"
+CONF_DIR="$WS/Archives/openclaw-config/$DATE"
+CHAT_DIR="$WS/Archives/chat-history/$DATE"
 mkdir -p "$CONF_DIR" "$CHAT_DIR"
 
 # ---- 1. Config snapshot (secrets redacted for git) --------------------------
@@ -56,7 +55,7 @@ PY
 python3 "$(dirname "$0")/export_chat_sqlite.py" "$CHAT_DIR" "$AGENTS_DIR"
 
 # ---- 3. Git sync -------------------------------------------------------------
-cd "$SECOND_BRAIN"
+cd "$WS"
 git add -A
 git commit -m "Daily archive $DATE" --quiet || true
 if git push --quiet origin master 2>&1; then
