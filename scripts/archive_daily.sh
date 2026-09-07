@@ -52,71 +52,8 @@ if os.path.isdir(creds_dir):
             shutil.copy(os.path.join(creds_dir, f), os.path.join(out, f))
 PY
 
-# ---- 2. Chat history transcripts (all agents, sessions touched in last 26h) -
-python3 - "$CHAT_DIR" "$AGENTS_DIR" <<'PY'
-import json, os, sys, datetime, re
-out, agents_dir = sys.argv[1], sys.argv[2]
-TOKEN_RE = re.compile(r'\b\d{8,10}:[A-Za-z0-9_-]{35}\b')
-cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=26)
-count = 0
-if not os.path.isdir(agents_dir):
-    print("no agents dir:", agents_dir); sys.exit(0)
-for agent in os.listdir(agents_dir):
-    sess_dir = os.path.join(agents_dir, agent, "sessions")
-    if not os.path.isdir(sess_dir):
-        continue
-    for fn in os.listdir(sess_dir):
-        if not (fn.endswith(".jsonl") or fn.endswith(".jsonl.zst")) or fn.endswith(".lock"):
-            continue
-        p = os.path.join(sess_dir, fn)
-        try:
-            mtime = os.path.getmtime(p)
-        except OSError:
-            continue
-        if datetime.datetime.fromtimestamp(mtime, datetime.timezone.utc) < cutoff:
-            continue
-        md = []
-        # decompress .zst transcripts inline if present
-        import gzip
-        opener = open
-        try:
-            if fn.endswith(".zst"):
-                import zstandard as zstd
-                def opener(fn):
-                    dctx = zstd.ZstdDecompressor()
-                    raw = open(fn, "rb").read()
-                    return dctx.decompress(raw, max_output_size=128*1024*1024)
-        except ImportError:
-            continue
-        try:
-            lines = opener(p)
-            if isinstance(lines, bytes):
-                lines = lines.decode("utf-8", "replace").splitlines()
-        except Exception:
-            continue
-        for line in lines:
-            try:
-                rec = json.loads(line)
-            except Exception:
-                continue
-            if rec.get("type") != "message":
-                continue
-            m = rec.get("message", {})
-            role = m.get("role", "?")
-            content = m.get("content", "")
-            if isinstance(content, list):
-                parts = [c.get("text", "") for c in content if isinstance(c, dict) and c.get("type") == "text"]
-                content = " ".join(parts)
-            content = TOKEN_RE.sub("***REDACTED***", str(content))
-            ts = str(rec.get("timestamp", ""))[:19]
-            md.append(f"### {role} @ {ts}\n\n{content}\n")
-        if md:
-            name = f"{agent}__{fn.rsplit('.',2)[0] if fn.endswith('.zst') else fn.replace('.jsonl','')}.md"
-            with open(os.path.join(out, name), "w") as f:
-                f.write("\n\n".join(md))
-            count += 1
-print(f"transcripts: {count}")
-PY
+# ---- 2. Chat history transcripts (all agents) from SQLite stores -----------
+python3 "$(dirname "$0")/export_chat_sqlite.py" "$CHAT_DIR" "$AGENTS_DIR"
 
 # ---- 3. Git sync -------------------------------------------------------------
 cd "$SECOND_BRAIN"
