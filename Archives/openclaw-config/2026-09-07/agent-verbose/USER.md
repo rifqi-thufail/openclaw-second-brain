@@ -15,7 +15,3 @@
   - Complex topics: ASD-STE100 Simplified Technical English.
   - Big changes: consultant style, as-is / to-be / gap analysis, review before execution.
   - Small, low impact changes: execute directly, then report.
-
-## Channel routing (2026-09-05)
-- Heartbeat polls and process/live-update narration belong on the VERBOSE channel (@verbosemainclawratrocious_bot / agent:verbose:main), NOT in this main Telegram chat.
-- Main chat = key takeaways, decisions, results only.

@@ -1,0 +1,199 @@
+{
+  "wizard": {
+    "securityAcknowledgedAt": "2026-09-05T13:27:17.653Z",
+    "accessMode": "full",
+    "lastRunAt": "2026-09-05T13:35:20.964Z",
+    "lastRunVersion": "2026.9.1",
+    "lastRunCommand": "onboard",
+    "lastRunMode": "local"
+  },
+  "meta": {
+    "migrations": {
+      "modelPolicyAllowlist": true
+    },
+    "lastTouchedVersion": "2026.9.1"
+  },
+  "telemetry": {
+    "enabled": false,
+    "consentedAt": "2026-09-05T13:33:31.555Z"
+  },
+  "agents": {
+    "defaults": {
+      "models": {
+        "custom-api-deepseek-com/deepseek-v4-flash": {
+          "alias": "Deepseek"
+        }
+      },
+      "model": "custom-api-deepseek-com/deepseek-v4-flash",
+      "workspace": "/home/ratrocious/.openclaw/workspace",
+      "systemAgent": {
+        "agentId": "main"
+      }
+    },
+    "ownership": "explicit",
+    "entries": {
+      "main": {
+        "models": {
+          "custom-api-deepseek-com/deepseek-v4-flash": {
+            "agentRuntime": {
+              "id": "openclaw"
+            }
+          }
+        },
+        "identity": {
+          "name": "Claw",
+          "emoji": "\u2699\ufe0f",
+          "theme": "communicative, enthusiastic, playful when it fits, concise"
+        },
+        "workspace": "/home/ratrocious/.openclaw/workspace"
+      },
+      "verbose": {
+        "workspace": "~/.openclaw/workspace-verbose",
+        "verboseDefault": "full",
+        "toolProgressDetail": "raw",
+        "identity": {
+          "name": "Claw",
+          "emoji": "\u2699\ufe0f",
+          "theme": "communicative, enthusiastic, playful when it fits, concise"
+        },
+        "heartbeat": {
+          "every": "30m",
+          "model": "custom-api-deepseek-com/deepseek-v4-flash",
+          "session": "agent:verbose:main",
+          "target": "telegram",
+          "accountId": "verbose",
+          "to": "1294448346",
+          "lightContext": true,
+          "isolatedSession": true,
+          "directPolicy": "allow"
+        }
+      }
+    }
+  },
+  "models": {
+    "providers": {
+      "custom-api-deepseek-com": {
+        "baseUrl": "https://api.deepseek.com",
+        "api": "openai-completions",
+        "apiKey": "***REDACTED***",
+        "models": [
+          {
+            "id": "deepseek-v4-flash",
+            "name": "deepseek-v4-flash (Custom Provider)",
+            "contextWindow": 128000,
+            "maxTokens": "***REDACTED***",
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "reasoning": false
+          }
+        ]
+      }
+    }
+  },
+  "gateway": {
+    "mode": "local",
+    "auth": {
+      "mode": "token",
+      "token": "***REDACTED***"
+    },
+    "port": 18789,
+    "bind": "loopback",
+    "tailscale": {
+      "mode": "off"
+    }
+  },
+  "tools": {
+    "profile": "coding",
+    "alsoAllow": [
+      "group:messaging"
+    ],
+    "agentToAgent": {
+      "enabled": true
+    },
+    "sessions": {
+      "visibility": "all"
+    },
+    "exec": {
+      "mode": "full"
+    },
+    "elevated": {
+      "enabled": true,
+      "allowFrom": {
+        "telegram": [
+          "1294448346"
+        ]
+      }
+    }
+  },
+  "hooks": {
+    "internal": {
+      "entries": {
+        "session-memory": {
+          "enabled": true
+        }
+      }
+    }
+  },
+  "commands": {
+    "ownerAllowFrom": [
+      "telegram:1294448346"
+    ]
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "pairing",
+      "defaultAccount": "default",
+      "accounts": {
+        "default": {
+          "name": "Rifqi Main",
+          "botToken": "***REDACTED***",
+          "streaming": {
+            "mode": "progress"
+          }
+        },
+        "verbose": {
+          "name": "Verbose Claw",
+          "enabled": true,
+          "botToken": "***REDACTED***",
+          "streaming": {
+            "mode": "off"
+          }
+        }
+      }
+    }
+  },
+  "bindings": [
+    {
+      "agentId": "main",
+      "match": {
+        "channel": "telegram",
+        "accountId": "default"
+      }
+    },
+    {
+      "agentId": "verbose",
+      "match": {
+        "channel": "telegram",
+        "accountId": "verbose"
+      }
+    },
+    {
+      "agentId": "main",
+      "match": {
+        "channel": "telegram",
+        "accountId": "*"
+      }
+    }
+  ],
+  "talk": {
+    "agentId": "main"
+  }
+}

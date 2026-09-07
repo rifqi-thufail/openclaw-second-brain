@@ -48,8 +48,8 @@ def main():
            f"US + ASEAN Equities\n\n" + summary_text())
     r = api(env, "sendMessage", data={"chat_id": chat, "text": txt, "parse_mode": "HTML"})
     print("msg:", r.status_code)
-    # 2) charts as photos
-    for f in ("change.png", "trend.png"):
+    # 2) charts as photos (daily + Indonesia-focus weekly set)
+    for f in ("change.png", "trend.png", "weekly_change.png", "weekly_trend.png"):
         p = os.path.join(BASE, "output", "charts", f)
         if os.path.exists(p):
             with open(p, "rb") as fh:

@@ -54,6 +54,49 @@ def line_color(sym, i):
         return JCI_COLOR
     return ANALOGOUS[min(i % 4, 3)]
 
+
+def chart_weekly_change(m, path):
+    """Indonesia-focus weekly comparison: % change vs baseline ~1 week prior."""
+    import os
+    items = sorted(m["markets"].items(), key=lambda kv: kv[1].get("wk_chg_pct", kv[1]["chg_pct"]))
+    names, vals, colors = [], [], []
+    for sym, v in items:
+        if "wk_chg_pct" not in v:
+            continue
+        names.append(v["name"])
+        vals.append(v["wk_chg_pct"])
+        colors.append(SPY_COLOR if sym in ("^GSPC", "SPY") else (JCI_COLOR if sym == "^JKSE" else ANALOGOUS[0]))
+    if not names:
+        return
+    fig, ax = plt.subplots(figsize=(8.4, 4.0))
+    bars = ax.barh(names, vals, color=colors, height=0.62)
+    for b, v in zip(bars, vals):
+        ax.text(v + (0.08 if v >= 0 else -0.08), b.get_y() + b.get_height() / 2,
+                f"{v:+.2f}%", va="center", ha="left" if v >= 0 else "right", fontsize=8)
+    ax.axvline(0, color="#333333", linewidth=0.8)
+    ax.set_xlabel("Weekly change (%) ~5 sessions")
+    ax.set_title("Weekly index performance (JCI highlighted)", fontsize=10, fontweight="bold", loc="left")
+    fig.tight_layout(); fig.savefig(path, dpi=150); plt.close(fig)
+
+
+def chart_weekly_trend(m, path):
+    """Indonesia-focus: indexed 5-session trend, JCI + present peers."""
+    picks = ["^JKSE", "^GSPC", "^STI", "^KLSE", "^N225", "^HSI"]
+    fig, ax = plt.subplots(figsize=(8.4, 3.6))
+    for i, sym in enumerate(picks):
+        if sym not in m["series"]:
+            continue
+        s = m["series"][sym]
+        ax.plot(range(len(s["norm"])), s["norm"], label=s["name"],
+                color=line_color(sym, i), linewidth=1.8 if sym in ("^JKSE", "^GSPC") else 1.3)
+    days = m["series"].get("^JKSE", {}).get("days") or next(iter(m["series"].values()))["days"]
+    ax.set_xticks(range(len(days)))
+    ax.set_xticklabels([d[5:] for d in days])
+    ax.set_ylabel("Indexed to 100")
+    ax.set_title("Indonesia Focus: 5-session trend, JCI vs peers", fontsize=10, fontweight="bold", loc="left")
+    ax.legend(fontsize=7.5, frameon=False, ncol=3, loc="upper left")
+    fig.tight_layout(); fig.savefig(path, dpi=150); plt.close(fig)
+
 def chart_trend(m, path):
     fig, ax = plt.subplots(figsize=(8.4, 3.6))
     picks = ["^GSPC", "^N225", "^HSI", "^STI", "^KLSE", "^JKSE"]
@@ -74,10 +117,12 @@ def chart_trend(m, path):
 def main():
     m = load()
     os.makedirs(os.path.join(BASE, "output", "charts"), exist_ok=True)
-    c1 = os.path.join(BASE, "output", "charts", "change.png")
-    c2 = os.path.join(BASE, "output", "charts", "trend.png")
-    chart_change(m, c1); chart_trend(m, c2)
-    print(f"charts -> {c1}, {c2}")
+    base = os.path.join(BASE, "output", "charts")
+    chart_change(m, os.path.join(base, "change.png"))
+    chart_trend(m, os.path.join(base, "trend.png"))
+    chart_weekly_change(m, os.path.join(base, "weekly_change.png"))
+    chart_weekly_trend(m, os.path.join(base, "weekly_trend.png"))
+    print(f"charts -> {base} (daily: change, trend; indonesia focus: weekly_change, weekly_trend)")
 
 if __name__ == "__main__":
     main()
