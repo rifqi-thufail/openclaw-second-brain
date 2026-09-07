@@ -3533,3 +3533,159 @@ Let me kick off the daily archive test run and prepare the Obsidian second-brain
 I'm mid-finish on both streams. Let me continue executing. The cron test run was enqueued. Let me proceed with building the Obsidian second-brain layer and verifying finance delivery, while the cron runs in parallel.
 
 Let me check the Obsidian setup requirement — the repo needs to be Obsidian-ready with the OpenClaw config so a fresh install can restore. Let me look at the current repo structure and README, then wire the Obsidian vault + restore docs.
+
+### assistant @ 2026-09-07T05:29:57
+
+I'm mid-execution on finishing both streams at Rifqi's request. Let me continue the Obsidian second-brain setup. The repo already has an `.obsidian` vault dir. Let me check its contents and the gitignore to make sure the vault/backup works cleanly, then write the fresh-install restore docs and verify finance delivery.
+
+Let me continue: check .obsidian contents, .gitignore, and whether Archives is being tracked (chat history + config snapshots should be in git).
+
+### assistant @ 2026-09-07T05:30:00
+
+I'm mid-execution on both streams at Rifqi's request to finish ASAP. Let me continue systematically and get everything across the line. Let me check the finance send confirmation and the cron test run status, then finish the Obsidian/backup setup and the restore docs.
+
+Let me verify the finance end-to-end delivery and make the Obsidian setup complete. First, let me create the OpenClaw-restore docs that make a fresh install hassle-free, which is the core of requirement #12.
+
+### assistant @ 2026-09-07T05:30:02
+
+I'm mid-execution finishing both streams. Let me continue. Finance is code-complete; Task 2 needs the Obsidian restore docs + final validation. Let me check the cron test run result and write the restore-from-fresh-install docs, then give a final status.
+
+Let me check the cron test run status and continue building the restore documentation.
+
+### assistant @ 2026-09-07T05:30:05
+
+I'm mid-finish on both streams following Rifqi's "continue and finish all progress asap." The daily archive cron is scheduled and tested (ARCHIVE_OK). Let me finish the remaining pieces efficiently: verify finance delivery wiring works end-to-end, and add the Obsidian restore docs (setup so a fresh install can restore settings).
+
+Let me verify finance send is wired correctly and then create the OpenClaw restore documentation for the second brain repo, then commit and push everything.
+
+### assistant @ 2026-09-07T05:30:16
+
+I'm mid-execution finishing both streams. Let me continue through the remaining work: finance delivery is wired (send_telegram.py attaches 4 charts), the daily archive cron is scheduled and tested (ARCHIVE_OK). Now I need to complete the Obsidian restore documentation (the "fresh install can easily restore" requirement), commit and push the remaining work, and verify finance delivery.
+
+Let me continue. First let me create the OpenClaw restore/setup docs in the second-brain repo, then commit + push everything including the finance changes.
+
+### assistant @ 2026-09-07T05:30:18
+
+I'm mid-execution on finishing both streams per Rifqi's "continue and finish all progress asap" instruction. Let me continue where I left off: I've created the Obsidian restore docs. Let me commit and push everything (finance changes + backup script + restore docs), then do a final verification pass across both streams.
+
+Let me update the progress card and commit the work.
+
+### assistant @ 2026-09-07T05:30:21
+
+I'm mid-execution finishing both streams per Rifqi's "continue and finish all progress asap." Let me commit and push the remaining work (restore docs), then do a final verification pass across both streams to confirm everything is done.
+
+Let me commit the restore docs and push, then verify the full state.
+
+### assistant @ 2026-09-07T05:30:27
+
+Rifqi asked me to continue and finish all progress ASAP. I've been executing steadily. Let me now do a final verification pass across both streams to confirm everything is actually complete and working, then give a tight finish status.
+
+Let me verify the complete state of both workstreams end-to-end.
+
+### assistant @ 2026-09-07T05:30:31
+
+Both streams are complete. Let me give Rifqi a concise final status in the main chat (takeaways only).
+
+Everything is verified working:
+- Finance: 4 charts wired into daily send, scripts syntax-clean, weekly Indonesia charts generating from live data
+- Backup: archive script fixed, chat export from SQLite (main + cron + verbose + heartbeat), testing cron scheduled + verified ARCHIVE_OK, pushed to GitHub
+- Obsidian: restore docs committed & pushed
+
+Let me send the tight finish confirmation.
+
+### assistant @ 2026-09-07T05:30:36
+
+Both streams are now complete. Let me give Rifqi the tight finish confirmation in the main chat (takeaways only).
+
+Done and verified:
+
+**1. Finance — Indonesia-focus weekly charts** ✅
+- `weekly_change.png` + `weekly_trend.png` (JCI-ASEAN weekly comparison + indexed trend), JPM/GS style, generated clean from live data.
+- fetch_markets, charts.py, send_telegram all updated (4-chart daily delivery), syntax-checked, pipeline exit-0 with PDF rebuilt.
+- Data gaps: Thailand `^SET.BK` + Philippines `PSEI.PS` now resolve; Vietnam (VNINDEX) is genuinely delisted on Yahoo (skips cleanly, never fabricated). ID 10Y 7.14% + 5Y CDS 83.37 fetch fine.
+
+**2. Backup to GitHub + Obsidian second brain** ✅
+- GitHub: logged in as rifqi-thufail, push working. Latest commit `af0e3a1` on master.
+- `archive_daily.sh` rewritten: correct paths, reads chat transcripts from each agent's SQLite store (main + cron + verbose + sub-agent/heartbeat, ~last 50h), auto-redacts secrets before git.
+- Daily cron `second-brain-daily-archive` scheduled 22:30 KL, test-run succeeded (ARCHIVE_OK).
+- Repo is Obsidian-ready (vault + ARCHES snapshots tracked). Fresh-install/restore docs committed under `Resources/openclaw-setup/` so a new install can restore config + personas + finance setup.
+
+Both requested workstreams are finished and pushed.
+
+### user @ 2026-09-07T06:57:31
+
+hello
+
+### assistant @ 2026-09-07T06:57:34
+
+Hey Rifqi, good to hear from you.
+
+Both streams from earlier are done and pushed (finance weekly charts + GitHub backup/Obsidian second brain, commit `af0e3a1`, daily archive cron live at 22:30 KL).
+
+Anything you want picked up next, or shall I take a quiet pass through the heartbeat-state/maintenance checks?
+
+### user @ 2026-09-07T08:21:46
+
+finance agent: for the indonesia focus, add rupiah price
+
+### assistant @ 2026-09-07T08:21:48
+
+New task: add rupiah price (USD/IDR) to the Indonesia-focus finance charts. Let me look at the current pipeline to find the right place to add IDR. Let me inspect fetch_markets.py and fetch_indonesia.py.
+
+### assistant @ 2026-09-07T08:21:53
+
+Adding rupiah price (USD/IDR) to the Indonesia-focus charts. The natural home is a new ticker in fetch_markets.py (`IDR=X` from yfinance) so it flows into the weekly charts. Let me find a ticker that resolves, then wire it into the Indonesia chart.
+
+Let me test which USD/IDR ticker yfinance resolves, then integrate.
+
+### assistant @ 2026-09-07T08:21:58
+
+I'm working on adding rupiah price (USD/IDR) to the Indonesia-focus finance charts. My yfinance ticker test exited cleanly with no output — likely all tickers failed or the grep filtered everything. Let me rerun the ticker resolution test with clear output to find a working USD/IDR quote source.
+
+### assistant @ 2026-09-07T08:22:04
+
+Rupiah confirmed: `USDIDR=X` resolves via yfinance (IDR currency, 22 rows, last ~17623/USD... actually let me check — the truncated output shows last value around 17635). Let me see the full result to get the exact last price and weekly change, then wire `USDIDR=X` into fetch_markets.py and the Indonesia charts.
+
+Wait — the output shows `IDRUSD=X` last 0.0 which is wrong (that's IDR-per-USD = tiny). I want USD/IDR. Let me see the full clean output. The truncated head shows `USDIDR=X` last = 17635.0? Actually it showed the block for the second entry (`USDIDR=X`) with value 17635.0, chg 0.096. Let me confirm and integrate.
+
+Let me read the full test output to be exact.
+
+### assistant @ 2026-09-07T08:22:10
+
+Rupiah confirmed: `USDIDR=X` resolves cleanly via yfinance (IDR currency, USD/IDR, 22 daily rows, last 17635.0, weekly change +0.096%). Now I'll wire it into the finance pipeline so it appears on the Indonesia-focus charts.
+
+Let me look at the current charts.py to see how to add USD/IDR properly, and decide where it belongs (it shouldn't go into the equity %-change barh mix since prices aren't comparable; better as its own Indonesia panel/annotation).
+
+Let me read charts.py in full.
+
+### assistant @ 2026-09-07T08:22:21
+
+The user is asking me to add rupiah price to the Indonesia-focus finance content. I've confirmed `USDIDR=X` (USD/IDR) resolves via yfinance: last 17635, 22 daily rows, current date 2026-09-07.
+
+Let me wire it into the pipeline. The plan:
+1. Add `"USDIDR=X": "USD/IDR (Rupiah)"` to fetch_markets.py TICKERS — but that data currently goes into the `markets` (equity %) structure, which would mix FX with index %-changes. Rupiah level (~17635) is not comparable to an index close in a bar chart, and its daily % move is tiny. 
+
+Better approach: add USD/IDR as a separate series so the Indonesia-focus chart shows the rupiah. Let me think about what's cleanest given the existing design.
+
+The weekly_trend chart indexes to 100 — I could add USD/IDR there (as an FX line, inverted so a stronger rupiah rises?). Actually rupiah price = USD/IDR; when it rises, IDR weakens. For an Indonesia-focus line, traders often show IDR strength. But simpler and unambiguous: show USD/IDR level on its own sub-panel or as an indexed trend line labeled clearly.
+
+Given the user said "for the indonesia focus, add rupiah price", the cleanest is to add USD/IDR into fetch_markets and show it in the Indonesia-focus trend chart (weekly_trend) plus a dedicated mini chart. I should fetch it and let it participate in the weekly series.
+
+Let me modify fetch_markets.py to include USD/IDR as a quote (it appears the machinery already handles arbitrary close-price tickers — it computes chg_pct and wk_chg_pct the same). The concern: adding USDIDR into `markets` would put it in the weekly_change barh chart too, mixing an FX % move (~0.1%) with equity % moves — that's actually fine numerically on a % bar chart but the name would show. It would also appear in change.png. That could be acceptable, but the user specifically wants it "for the indonesia focus".
+
+Let me keep it clean:
+- Add USDIDR=X to TICKERS so it's fetched with the same download (rows for markets + series).
+- Exclude it from the general equity bar charts (change, weekly_change) so it doesn't pollute index comparisons.
+- Add it to the Indonesia-focus trend chart (weekly_trend) as an FX line, and give it its own dedicated Indonesia rupiah chart.
+
+Let me implement. First modify fetch_markets.py TICKERS to add USD/IDR.
+
+Let me look at how series/markets are stored and structure changes carefully. I'll add a separate section. Actually simplest robust change: add ticker to TICKERS under a distinguishable symbol, and in charts filter it out of index charts but include in an Indonesia panel.
+
+Let me implement in fetch_markets.py first.Confirmed a working rupiah source: `USDIDR=X` resolves via yfinance (USD/IDR, last 17635, 22 rows). Now I'll wire it in. The clean approach: fetch USD/IDR in `fetch_markets.py`, keep it out of the equity %-bar charts (an FX level isn't comparable to index moves), and surface it on the Indonesia-focus material as its own rupiah panel.
+
+### assistant @ 2026-09-07T08:22:23
+
+Rifqi's new request is active: add rupiah price (USD/IDR) to the Indonesia-focus content. I've added the USD/IDR fetch to fetch_markets.py. Now I need to surface it on the Indonesia-focus charts. Let me continue by adding it to charts.py as a dedicated rupiah panel, since an FX level shouldn't be mixed into equity %-bars.
+
+Let me wire the rupiah into the Indonesia-focus charts.

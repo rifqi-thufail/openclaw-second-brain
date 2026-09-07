@@ -4,12 +4,17 @@ import yfinance as yf, json, os, datetime, warnings
 warnings.filterwarnings("ignore")
 
 BASE = os.path.dirname(os.path.abspath(__file__))
+# Equity indices (also used as the group chart set).
 TICKERS = {
     "^GSPC": "S&P 500", "^IXIC": "Nasdaq Composite", "^DJI": "Dow Jones",
     "^N225": "Nikkei 225", "^HSI": "Hang Seng",
     "^STI": "STI (Singapore)", "^KLSE": "KLCI (Malaysia)", "^JKSE": "JCI (Indonesia)",
     "^SET.BK": "SET (Thailand)", "PSEI.PS": "PSEi (Philippines)", "VNINDEX": "VN-Index (Vietnam)",
 }
+# USD/IDR (rupiah) is fetched alongside but kept out of the equity index charts;
+# it becomes its own Indonesia-focus rupiah series/panel.
+FX_TICKER = "USDIDR=X"
+FX_NAME = "USD/IDR (Rupiah)"
 
 def main():
     # ~14 daily closes gives a full prior-business-week baseline for weekly
@@ -45,11 +50,30 @@ def main():
                            "norm": [round(float(v) / base * 100, 1) for v in s]}
         except Exception as ex:
             print(f"skip {name}: {ex}")
+    # ---- USD/IDR rupiah level as its own fx object (series indexed like peers) ----
+    fx = None
+    try:
+        dfx = data[FX_TICKER]["Close"].dropna()
+        if len(dfx) >= 2:
+            wkf = dfx.tail(5)
+            base_f = float(wkf.iloc[0])
+            last_f = float(dfx.iloc[-1]); prev_f = float(dfx.iloc[-2])
+            fx = {"symbol": FX_TICKER, "name": FX_NAME,
+                  "close": round(last_f, 0), "prev": round(prev_f, 0),
+                  "chg_pct": round((last_f / prev_f - 1) * 100, 2),
+                  "wk_chg_pct": round((last_f / base_f - 1) * 100, 2),
+                  "date": str(dfx.index[-1].date()),
+                  "days": [str(d.date()) for d in wkf.index],
+                  "norm": [round(float(v) / base_f * 100, 1) for v in wkf]}
+            print(f"USD/IDR: {last_f:.0f} (day {fx['chg_pct']:+.2f}%, week {fx['wk_chg_pct']:+.2f}%)")
+    except Exception as ex:
+        print(f"skip USD/IDR: {ex}")
+
     date = datetime.date.today().isoformat()
     os.makedirs(os.path.join(BASE, "data"), exist_ok=True)
     path = os.path.join(BASE, "data", f"markets_{date}.json")
     with open(path, "w") as f:
-        json.dump({"date": date, "markets": markets, "series": series}, f, indent=1)
+        json.dump({"date": date, "markets": markets, "series": series, "fx": fx}, f, indent=1)
     print(f"{len(markets)} indices -> {path}")
 
 if __name__ == "__main__":
