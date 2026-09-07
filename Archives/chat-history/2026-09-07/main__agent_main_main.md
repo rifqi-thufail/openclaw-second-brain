@@ -3503,3 +3503,33 @@ I need to fix the archive_daily.sh env var bug I introduced. I accidentally left
 Rifqi told me to continue and finish all progress ASAP. I'm mid-execution. Let me push through the remaining work: finish the cron schedule (fix the syntax error), finalize finance delivery validation, set up Obsidian second-brain + fresh-restore docs.
 
 Let me continue executing. First re-run the archive script to confirm my variable fixes hold, then fix the cron script syntax issue.
+
+### assistant @ 2026-09-07T05:29:43
+
+Rifqi told me to continue and finish all progress ASAP. I'm mid-execution. The archive script is now syntax-clean and pushes successfully. Let me continue with the remaining pieces: fix the cron scheduler entry, validate finance delivery end-to-end, and set up the Obsidian second-brain + restore docs.
+
+Let me continue. First, finish the cron job (the earlier script payload had a syntax issue). Let me retry the automation add with proper formatting.
+
+### assistant @ 2026-09-07T05:29:48
+
+Continuing the cron scheduling. The script payload keeps failing — it seems the `kind: script` payload syntax is being parsed as JavaScript. Let me use a different approach: create a self-contained script job via an agentTurn instead, or check the correct script scheduling format.
+
+Let me use an agentTurn-style isolated job that runs the archive script via a shell command through the tooling, rather than the `script` kind which expects code-mode JS.
+
+Actually, the docs say `kind: script` = "Headless code-mode script" which is JS, not bash. That's why my bash failed with JS syntax errors. I should use `kind: agentTurn` (isolated) that runs exec on the bash script, or simply schedule a cron `agentTurn` whose message instructs running archive_daily.sh.
+
+Let me use agentTurn with isolated target.
+
+### assistant @ 2026-09-07T05:29:51
+
+I have the context. Continuing to finish both streams. The daily archive cron is now scheduled. Let me finalize Task 2 pieces: verify cron state, set up Obsidian second-brain layer + fresh-restore docs, and validate finance delivery.
+
+Let me first run the cron once as a test to confirm it fires correctly, then build the Obsidian layer.
+
+Let me kick off the daily archive test run and prepare the Obsidian second-brain. First run the cron job once to verify.
+
+### assistant @ 2026-09-07T05:29:53
+
+I'm mid-finish on both streams. Let me continue executing. The cron test run was enqueued. Let me proceed with building the Obsidian second-brain layer and verifying finance delivery, while the cron runs in parallel.
+
+Let me check the Obsidian setup requirement — the repo needs to be Obsidian-ready with the OpenClaw config so a fresh install can restore. Let me look at the current repo structure and README, then wire the Obsidian vault + restore docs.
