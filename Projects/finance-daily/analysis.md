@@ -1,81 +1,81 @@
 # Executive Summary
-- Markets split Friday: U.S. indices fell (S&P 500 -0.38% to 7,718.6; Dow -0.51%) while Asia rallied (Hang Seng +1.74%, Nikkei +1.26%), driven by a China capital-boost plan and DeepSeek-driven AI repricing.
-- DeepSeek triggered a broad AI rout in U.S. tech; WSJ argues it won't sink U.S. AI titans but pressured the momentum trade and lifted safe havens (yen, Swiss franc).
-- Strong U.S. jobs (August payrolls +162,000, well above estimates; unemployment 4.1%) reignited Fed rate-hike bets; Edge SG headline flags S&P finishing flat as strong jobs fueled hike bets. Waller leans toward holding steady in September.
-- Oil and geopolitics dominate: Iran fired missiles at Kuwait, Hormuz transits heavy (>17 million barrels Monday), Diesel hit record highs as Ukraine and Iran wars knock out refineries, fueling inflation concerns. OPEC+ kept policy unchanged for October.
-- Indonesia: JCI slipped -0.47% to 6,636.48; 10Y yield at 7.14%; 5Y CDS 83.37 bps. Anak Krakatau eruption disrupted 301 flights with RI and Singapore.
-- China to inject $68b into state banks and insurers, a supportive regional liquidity signal; BlackRock and JPMorgan now favor EM as turmoil seizes global bonds.
-- Gold and coffee under a spotlight: Arabica coffee at record on a U.S.-Colombia tariff spat; China vs U.S. positioning seen as the week's driver for gold.
+
+- Crude oil dominates sentiment: WTI/Brent hit near 6-7 week highs after Iran-US blows and a reported Houthi strike on a Saudi Aramco refinery; Iran floats a Hormuz deal via Oman, capping the rally.
+- Global rates stress persists: US 10Y Treasury faces a 4.8% technical test on fiscal and hyperscaler bond supply, and Japan's yen intervention drained a record $80B from reserves, all ahead of US inflation data this week.
+- The Fed is boxed in: Chair Warsh faces a possible September hike while the White House presses to halt it; Governor Waller signals holding steady, leaving high two-sided risk for emerging markets.
+- ASEAN risk assets held up: Malaysia's KLCI fell 1.0% in the week but Singapore's STI rose 0.8% to 5,802 and the Philippines PSEi gained 2.2%, helped by oil-linked energy names and resilient regional confidence.
+- Indonesia stays disinflation-consistent: JCI closed 6,636 (up 1.7% on the week despite a -0.5% day), the 10Y government yield is pinned at 7.14%, and 5Y CDS tightened to 83.5 bps.
+- Fiscal and subsidy support persists in Jakarta: DPR approved the Kemenkeu 2027 indicative budget of Rp49.8T and the 30kg rice aid extension runs to December, cushioning households against elevated food and fuel prices.
+- Data gaps for today: USD/IDR FX and Vietnam's VN-Index failed to fetch; Thailand SET and Philippines PSEi series are stale (July 17); Malaysia/TH/PH/VN/SG CDS and USD/IDR are unavailable.
 
 # Top Stories
-## Stocks Sink in Broad AI Rout Sparked by China's DeepSeek | WSJ Markets
-Insight: DeepSeek's advance triggered a broad U.S. AI selloff even as Asian tech shrugged it off (Hang Seng +1.74%). This is a relative-rotation event, not an indefinite regime shift; WSJ argues U.S. AI leaders retain structural moats, but the crowded momentum trade now reprices on every competitive-data point.
-Action: Trim concentrated AI/AI-infrastructure exposure into strength; favor diversified large-cap and Asia beneficiaries of cheaper compute adoption.
-Source: https://www.wsj.com/markets/stocks-sink-in-broad-ai-rout-chinas-deepseek
 
-## U.S. payrolls rose 162,000 in August, more than expected; unemployment at 4.1% | CNBC Markets
-Insight: The beat over consensus re-accelerated Fed rate-hike bets; Edge SG titled its U.S. wrap "S&P finishes week flat as strong jobs fuels Fed-hike bets." This raises the stakes for the September FOMC, where Governor Waller has already signaled a preference to hold rates steady.
-Action: Hedge duration risk; expect higher curve volatility at the short end into the September meeting and price a hawkish-hold scenario.
-Source: https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html
+## Oil prices rise to 6-week high after Iran and US trade blows, Saudi Aramco facilities reportedly hit | CNBC Asia
+Insight: Renewed Iran-US strikes plus a reported hit on Saudi Aramco facilities pushed crude to its highest in roughly six weeks. Elevated oil feeds global inflation, pressures current-account positions across net-importing ASEAN (PH, TH, ID), and complicates the Fed's tightening calculus ahead of CPI. This is the single largest swing factor for regional currencies and rate expectations.
+Action: Underweight energy-net-importing equities and duration in ASEAN; monitor the Strait of Hormuz and any Oman-brokered deal for an oil-driven unwind, which would be a relief catalyst.
+Source: https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html
 
-## Oil edges higher as Iran strikes Kuwait; Hormuz transits heavy | CNBC Asia / Edge SG
-Insight: Renewed Mideast hostilities, record diesel on refinery outages from the Ukraine and Iran wars, and >17 million barrels transiting Hormuz on Monday keep an inflation tailwind under energy. Energy Secretary Wright says an Iran nuclear deal may never happen, keeping geopolitical premium bid.
-Action: Maintain energy and energy-infrastructure exposure as an inflation hedge; watch Strait of Hormuz headlines for tail-risk spikes.
-Source: https://www.theedgesingapore.com/news/highlight/oil-edges-higher-renewed-middle-east-tensions
+## Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets | CNBC Top
+Insight: With hyperscaler bond issuance competing with Treasuries (El-Erian) and US fiscal concerns, a sustained break above ~4.8% on the 10-year would pressure all risk assets, including Asian credit and equities. Higher long-end US yields tighten global financial conditions and widen EM funding costs.
+Action: Reduce duration risk tactically; add hedges on ASEAN high-beta equities and watch the 4.8% level as the trigger for a broader de-risking.
+Source: https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html
 
-## Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron Flash Buy Signals | Yahoo Finance
-Insight: The tape mixes geopolitical and inflation risk with selective technical buy signals in semis. Nvidia and Micron flashing buy signals suggests dip-buyers are active below the surface of the AI rout, a sign of two-way flow rather than capitulation.
-Action: Favor selective quality semis on pullbacks while keeping cash dry powder for headline-driven volatility.
-Source: https://finance.yahoo.com/finance/news/dow-jones-futures-fall-iran-apple-inflation-focus-nvidia-micron
+## Japan's foreign reserves drop by a record $80 billion in August following yen intervention | CNBC Markets
+Insight: Japan burned a record $80B defending the yen, which has since hit a 7-month high on hawkish BOJ bets and repatriation. A stronger yen removes a key carry trade anchor, can pressure regional exporters and equities, and signals aggressive intervention risk remains live.
+Action: Watch for further BOJ action and yen volatility; reassess yen-funded carry positions, as abrupt appreciation amplifies cross-asset moves across Asia.
+Source: https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html
 
-## China to pump $68 billion into state banks, insurers in capital-boosting push | Straits Times
-Insight: A substantive Chinese state credit backstop is a regional liquidity positive, helping explain Friday's Hang Seng (+1.74%) and Nikkei (+1.26%) strength. BlackRock and JPMorgan now tilt toward EM as turmoil seizes global bonds, reinforcing a pro-Asia allocation argument.
-Action: Add or hold China/HK-sensitive ASEAN exposure; use weakness to build positions ahead of the capital injection's transmission.
-Source: https://www.straitstimes.com/business/china-to-pump-billions-into-state-banks-insurers-in-capital-boosting-push
+## Trump turns up the heat on Warsh as Fed rate hike looms | CNBC Markets
+Insight: Ten days before the September FOMC, the White House is pressing Chair Warsh to hold, while Waller signals steady rates but an earlier stance leaned hawkish on inflation. The Fed is at a genuine crossroads: hiking into an oil shock versus pausing with inflation above target. Either path drives global rates and EM FX.
+Action: Position for elevated two-sided vol around the FOMC; favor hedges over directional bets, and watch US CPI this week as the deciding input.
+Source: https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html
 
-## Comex Gold, Silver Settle Lower | WSJ Markets
-Insight: Gold settled lower despite the DeepSeek risk bid and a China vs U.S. tug-of-war that CNBC Indonesia flags as the key gold driver this week. A firmer dollar and Fed-hike bets are capping metal prices near term even as central banks pull physical gold out of New York (safe-haven doubts).
-Action: Treat gold dips as accumulation zones for strategic hedges; do not chase above breakout levels while real yields stay firm.
-Source: https://www.wsj.com/markets/commodities/comex-gold-silver-settle-lower
+## Yen hits seven-month high; traders mull over sea-change for embattled currency | Straits Times
+Insight: A hawkish BOJ and capital repatriation have pushed the yen to a 7-month high. Sustained yen strength unwinds carry trades and pressures exporters across SG, MY and ID while raising imported-deflation relief for commodity importers. It is a structural regime shift, not a short-term wobble.
+Action: Review yen-linked funding exposures; tilt Asian exposure toward domestic-demand and commodity exporters less reliant on weak-yen carry dynamics.
+Source: https://www.straitstimes.com/business/yen-hits-seven-month-high-with-us-dollar-soft-ahead-of-inflation-data
 
-## Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat | WSJ Markets
-Insight: Tariff friction pushed arabica coffee to a record. With sugar also outperforming equities this year, soft commodities are delivering outsized returns as weather (supersized El Niño warning) and policy distortions bind supply.
-Action: Consider soft-commodity exposure for diversification and inflation offset; size for pronounced volatility.
-Source: https://www.wsj.com/markets/commodities/arabica-coffee-record-us-colombia-tariff
+## Mohamed El-Erian: influx of hyperscaler bonds competing with US Treasuries, pushing rates higher | Yahoo Finance
+Insight: A wave of tech/cloud "hyperscaler" issuance is crowding the credit market, competing with Treasuries for the same investor dollars and nudging long-end yields higher. This compounds fiscal supply pressure at the very moment EM spreads are tested by oil and a hawkish Fed skew.
+Action: Expect structurally higher long-end yields and wider corporates-over-Treasury dynamics; be selective on long-duration credit and consider floating-rate exposure.
+Source: https://finance.yahoo.com/markets/currencies/articles/mohamed-el-erian-says-influx-153000281.html
 
 # ASEAN Focus
-- Singapore STI rose +0.94% to 5,801.96, leading ASEAN; Edge SG sees Asian stocks gaining with oil on the US-Iran backdrop, though bond traders brace for swings at both ends of the US yield curve.
-- Malaysia KLCI fell -0.41% to 1,708.10; durian logistics aim for a 3-4 hour Chinese customs fast-track, with durian exports targeted at $4B this year (VnExpress).
-- Indonesia JCI slipped -0.47% to 6,636.48; Anak Krakatau eruption disrupted 301 flights across RI and Singapore, a near-term drag on travel and logistics, while the JCI trend remains constructive (5-day norm near 101.7).
-- Philippines exports hit a record $54.9B in 7 months; GCash could trigger tech listings, and BSP proposes tighter payment rules, signaling maturing fintech oversight. PSEi paused: no daily benchmark data this run.
-- Vietnam: Vietnamese fruit gains global market share (now China's 3rd largest supplier); paddy prices dropping hurts rice farmers, a deflationary local-sector wrinkle. VN-Index chart data unavailable this run.
-- Thailand: no index data fetched; regional watch centers on travel disruption from the Krakatau ash fallout and Middle East oil prices feeding fuel costs.
+
+- Singapore (SG): STI rose 0.94% in the day to 5,802, up 0.8% on the week; July retail sales growth slowed to 1.5% y/y with department-store and food takings weak, but recreational goods surged 13.9%. Resilient market against a soft-consumption backdrop.
+- Malaysia (MY): KLCI fell 0.41% to 1,708, down 1.0% on the week despite a firmer regional tone; durian export fast-track to China is a modest positive, while Adnoc is said to be circling Thai and Dangote refinery stakes.
+- Indonesia (ID): JCI at 6,636 was down 0.47% on the day but up 1.7% for the week; market closed mixed with rupiah flat and SBN (govt bonds) firming. See Indonesia Focus below.
+- Philippines (PH): PSEi rose 1.25% in the day to 6,404, up 2.2% on the week; diesel/gasoline topped P100 in NCR on the oil spike and the peso slid toward 63/USD. Five ASEAN states backed a regional oil-stockpiling plan to cushion oil shocks.
+- Vietnam (VN): VN-Index data unavailable this run; farmer margins weak as paddy prices fall, while dollar eased against the dong. Asia OneHealthcare eyes a $1.7B IPO in 2027.
+- Thailand (TH): AH stockpiling and refinery interest highlight oil exposure; SET data is stale (July 17) at 1,639. Energy names look supported by the crude rally, but import costs weigh on baht.
 
 # Indonesia Focus
-- JCI closed at 6,636.48, down -0.47% on the session but the 5-day trend path (100 to 101.7) remains mildly constructive for Indonesian equities.
-- 10Y government bond yield is at 7.14%, a level that keeps a risk premium over regional peers and frames the rupiah-asset carry as still attractive.
-- 5Y CDS is at 83.37 bps, signaling contained sovereign credit risk and supportive conditions for foreign capital inflows despite global volatility.
-- Market-mover watch: Anak Krakatau's eruption disrupted 301 RI and Singapore flights, a real-economy shock to travel and logistics; keep reading on fuel prices (record diesel) and rupiah, since higher oil raises Indonesia's energy import bill, plus BI policy direction on a hawkish global Fed backdrop.
+
+- JCI: Index closed 6,636.48, down 0.47% on the day but up 1.7% on the week, extending a resilient short-term uptrend off the late-August low (weekly gain +1.7%); levels are constructive on a momentum basis despite the daily pullback.
+- 10Y government bond yield: Pinned at 7.14%, unchanged across the last several sessions; steady yields signal no fresh fiscal/supply stress in IDR rates despite global long-end pressure.
+- 5Y CDS: 83.46 bps, effectively flat (was 83.37 bps prior); spreads remain tight, reflecting benign sovereign risk perception and firm external buffers despite the oil shock.
+- Market-mover watch: Politics and social stability are the live risks. The DPR approved Kemenkeu's Rp49.8T 2027 indicative budget, keeping fiscal policy expansionary and pro-consolidation, while the 30kg rice aid extension to December cushions households against inflation. Offsetting concerns: a reported gambling scandal implicating ~1,900 Kemensos staff and a suspected arson/sabotage of an electrical substation raise governance and security flags. With crude elevated, the main risk to Indonesian assets is imported energy inflation: watch BI's policy stance, rupiah stability (data feed unavailable today), and any oil-driven pass-through. Markets remain open to global cues from Japan GDP and China trade data this week.
 
 # Risks & Catalysts
-- Middle East escalation: Iran missiles at Kuwait, heavy Hormuz transits, and doubts over any Iran nuclear deal keep an oil spike and inflation tail-risk live.
-- Fed re-pricing: the strong August payrolls report revived rate-hike bets; hold-vs-hike debate at the September FOMC is the dominant macro catalyst.
-- AI concentration risk: DeepSeek's advance shows how a single competitive-data point can crack crowded momentum positions in U.S. tech.
-- China credit signal: the $68B injection into state banks and insurers is a fresh regional catalyst that could lift HK and ASEAN risk assets.
-- Supersized El Niño UN warning threatens global agriculture and economies; supports soft-commodity prices but pressures food-driven CPI and poor-country FX.
-- Indonesia micro-shocks: Krakatau flight disruptions and any refinery/import pain from record diesel weigh on near-term growth sentiment.
+
+- Oil escalation (upside risk to inflation): Iran-US strikes and reported Saudi Aramco facility hit pushed crude to 6-week highs; a Hormuz disruption or a failed Oman deal would spike oil further and hit ASEAN importers. Any de-escalation is a relief catalyst.
+- Fed decision path: A September hike versus a pause is genuinely two-sided as the White House pressures Chair Warsh and Waller signals steady. US CPI this week is the swing input for global rates and EM FX.
+- Global long-end yields: A sustained break of 4.8% on the US 10Y, amplified by hyperscaler bond supply, would tighten financial conditions and pressure Asian duration and high-beta equities.
+- Yen regime shift: Record $80B August intervention and a 7-month high yen could unwind carry trades and pressure regional exporters; further BOJ tightening is a live catalyst.
+- Indonesia-specific: BI policy response to energy-led inflation, rupiah direction (feed down today), and governance/security headlines (Ministry gambling probe, substation sabotage) are watch items; rice aid extension is a supportive household cushion.
+- Copper at an all-time high and China central-bank gold accumulation add a pro-cyclical-liquidity counterpoint, partly offsetting oil-led caution.
 
 # Sources
-- https://www.wsj.com/markets/stocks-sink-in-broad-ai-rout-chinas-deepseek
-- https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html
-- https://www.theedgesingapore.com/news/highlight/oil-edges-higher-renewed-middle-east-tensions
-- https://finance.yahoo.com/finance/news/dow-jones-futures-fall-iran-apple-inflation-focus-nvidia-micron
-- https://www.straitstimes.com/business/china-to-pump-billions-into-state-banks-insurers-in-capital-boosting-push
-- https://www.wsj.com/markets/commodities/comex-gold-silver-settle-lower
-- https://www.wsj.com/markets/commodities/arabica-coffee-record-us-colombia-tariff
-- https://www.cnbcindonesia.com/news/20260906224521-4-765584/erupsi-krakatau-picu-chaos-301-penerbangan-ri-singapura-terdampak
-- https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html
-- https://www.cnbcindonesia.com/research/20260907063601-128-765595/adu-kuat-china-vs-as-jadi-penentu-harga-emas-pekan-ini-bisa-naik
-- https://business.inquirer.net/609646/ph-exports-hit-record-54-9b-in-7-months
-- https://www.cnbc.com/2026/09/03/supersized-el-nino-un-economy.html
-- https://www.theedgesingapore.com/capital/emerging-markets/blackrock-jpmorgan-bet-em-turmoil-seizes-global-bonds
+
+- https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html
+- https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html
+- https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html
+- https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html
+- https://www.straitstimes.com/business/yen-hits-seven-month-high-with-us-dollar-soft-ahead-of-inflation-data
+- https://finance.yahoo.com/markets/currencies/articles/mohamed-el-erian-says-influx-153000281.html
+- https://www.theedgesingapore.com/news/highlight/oil-extends-gain-iran-says-hormuz-deal-oman-close
+- https://www.cnbcindonesia.com/research/20260907175537-128-765959/bandara-kembali-dibuka-ri-menunggu-kabar-penting-dari-jepang-china
+- https://www.cnbcindonesia.com/news/20260907221546-4-765993/tok-dpr-setuju-anggaran-kemenkeu-2027-rp498-triliun-ini-rinciannya
+- https://www.cnbcindonesia.com/news/20260907221923-4-765994/hore-bantuan-beras-pemerintah-30-kg-berlanjut-hingga-desember
+- https://business.inquirer.net/609792/5-asean-states-back-ph-oil-stockpiling-plan
+- https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c
