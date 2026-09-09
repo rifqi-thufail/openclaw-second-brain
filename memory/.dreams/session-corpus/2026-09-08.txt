@@ -5,3 +5,5 @@
 [main/sessions/main/9651d80e-11b0-45a2-893e-ffeb7f7d5a5c#L26] Assistant: I have enough data. Now let me write the analysis.md file.
 [main/sessions/main/9651d80e-11b0-45a2-893e-ffeb7f7d5a5c#L28] Assistant: Now let me run the report and send steps.
 [main/sessions/main/9651d80e-11b0-45a2-893e-ffeb7f7d5a5c#L32] Assistant: Delivered the 2026-09-08 finance briefing: PDF (briefing_2026-09-08.pdf), Telegram message + 5 charts (msg, change, trend, weekly_change, weekly_trend) all confirmed 200 OK, plus full analysis.md. Data gaps: VN-Index and USD/IDR fetch failed (no quote), TH SET & PH PSE
+[main/sessions/main/ed95eccf-4d78-41a4-8bf3-0c89ea9c633e#L6] Assistant: I'll execute the daily archive script.
+[main/sessions/main/ed95eccf-4d78-41a4-8bf3-0c89ea9c633e#L8] Assistant: ARCHIVE_OK

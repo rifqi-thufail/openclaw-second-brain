@@ -51,9 +51,14 @@ def main():
         except Exception as ex:
             print(f"skip {name}: {ex}")
     # ---- USD/IDR rupiah level as its own fx object (series indexed like peers) ----
+    # Fetched SEPARATELY: mixing an =X FX ticker into the equity batch download
+    # makes yfinance drop it entirely ("'USDIDR=X'"), while standalone it returns fine.
     fx = None
     try:
-        dfx = data[FX_TICKER]["Close"].dropna()
+        dx = yf.download(FX_TICKER, period="3mo", interval="1d", progress=False,
+                         auto_adjust=False, group_by="ticker", threads=True)
+        dfx = dx[FX_TICKER]["Close"].dropna() if isinstance(dx.columns, __import__("pandas").MultiIndex) else dx["Close"].dropna()
+        dfx = dfx if len(dfx) else yf.Ticker(FX_TICKER).history(period="3mo")["Close"].dropna()
         if len(dfx) >= 2:
             wkf = dfx.tail(5)
             base_f = float(wkf.iloc[0])

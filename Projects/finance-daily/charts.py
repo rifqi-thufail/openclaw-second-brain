@@ -114,6 +114,35 @@ def chart_trend(m, path):
     ax.legend(fontsize=7.5, frameon=False, ncol=3, loc="upper left")
     fig.tight_layout(); fig.savefig(path, dpi=150); plt.close(fig)
 
+def chart_rupiah(m, path):
+    """Indonesia-focus rupiah panel: USD/IDR level (down = stronger IDR)."""
+    fx = m.get("fx")
+    if not fx or "days" not in fx:
+        return False
+    fig, (a1, a2) = plt.subplots(2, 1, figsize=(8.4, 4.2), sharex=True,
+                                 gridspec_kw={"height_ratios": [3, 1], "hspace": 0.15})
+    # level + weekly indexed strength
+    a1.plot(range(len(fx["days"])), fx["norm"], color=JCI_COLOR, linewidth=2.0)
+    a1.axhline(100, color=GRID, linewidth=0.8, linestyle="--")
+    a1.set_ylabel("USD/IDR (indexed)")
+    a1.set_title("Indonesia Focus: Rupiah (USD/IDR) weekly move", fontsize=10,
+                 fontweight="bold", loc="left")
+    labs = [f"{v:+,.1f}%" if abs(v)>0.01 else "0" for v in fx["norm"] ]
+    for i, v in enumerate(fx["norm"]):
+        a1.annotate(f"{v-100:+.2f}%", (i, v), textcoords="offset points",
+                    xytext=(0, 7), ha="center", fontsize=7.5, color="#333333")
+    wk = fx["wk_chg_pct"]; dy = fx["chg_pct"]; close = fx["close"]
+    a2.text(0.01, 0.5, f"{close:,.0f} IDR/USD  |  day {dy:+.2f}%  |  week {wk:+.2f}%"
+            + ("  (stronger IDR)" if wk < 0 else "  (weaker IDR)"),
+            va="center", fontsize=9, transform=a2.transAxes)
+    a2.axis("off")
+    days = fx["days"]
+    a1.set_xticks(range(len(days)))
+    a1.set_xticklabels([d[5:] for d in days])
+    fig.tight_layout(); fig.savefig(path, dpi=150); plt.close(fig)
+    return True
+
+
 def main():
     m = load()
     os.makedirs(os.path.join(BASE, "output", "charts"), exist_ok=True)
@@ -122,7 +151,9 @@ def main():
     chart_trend(m, os.path.join(base, "trend.png"))
     chart_weekly_change(m, os.path.join(base, "weekly_change.png"))
     chart_weekly_trend(m, os.path.join(base, "weekly_trend.png"))
-    print(f"charts -> {base} (daily: change, trend; indonesia focus: weekly_change, weekly_trend)")
+    if not chart_rupiah(m, os.path.join(base, "rupiah.png")):
+        print("rupiah chart skipped: no USD/IDR fx data")
+    print(f"charts -> {base} (daily: change, trend; indonesia focus: weekly_change, weekly_trend, rupiah)")
 
 if __name__ == "__main__":
     main()
