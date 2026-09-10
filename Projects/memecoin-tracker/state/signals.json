@@ -1,0 +1,779 @@
+{
+ "date": "2026-09-10",
+ "generated": "2026-09-10T00:50:56.886362Z",
+ "threshold": 7,
+ "signals": [
+  {
+   "ts": "2026-09-10T00:50:14Z",
+   "symbol": "HK",
+   "name": "Harley Kirk",
+   "chain": "solana",
+   "address": "6AxyN8NUxe6bJS1gHRPvtQVDEFEtfagDpPHzjQjsVZGm",
+   "url": "https://dexscreener.com/solana/6axyn8nuxe6bjs1ghrpvtqvdefetfagdpphzjqjsvzgm",
+   "price": 4.85e-05,
+   "liquidity_usd": 17029.0,
+   "vol_24h": 176099.0,
+   "vol_6h": 126257.0,
+   "chg_h1": -19.23,
+   "chg_h6": 85.45,
+   "chg_h24": 150.0,
+   "pullback_pct": 19.2,
+   "buy_sell_ratio": 1.48,
+   "score": 8,
+   "max_score": 10,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": true,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "plan": {
+    "entry": 4.85e-05,
+    "stop": 4.122e-05,
+    "tp1": 5.941e-05,
+    "tp2": 6.669e-05,
+    "tsl": "trail runner after TP2"
+   },
+   "risk_usd": 1.5,
+   "note": "paper/signal only, no real funds"
+  },
+  {
+   "ts": "2026-09-10T00:50:12Z",
+   "symbol": "FUCKPUMP",
+   "name": "FUCK PUMP",
+   "chain": "solana",
+   "address": "DWhR5zmA5mBoUQHgZrymHSfNhPgTDTT7kfuQetmPMjUr",
+   "url": "https://dexscreener.com/solana/dwhr5zma5mbouqhgzrymhsfnhpgtdtt7kfuqetmpmjur",
+   "price": 8.914e-05,
+   "liquidity_usd": 23680.0,
+   "vol_24h": 130947.0,
+   "vol_6h": 130947.0,
+   "chg_h1": 58.65,
+   "chg_h6": 117.0,
+   "chg_h24": 117.0,
+   "pullback_pct": 0.0,
+   "buy_sell_ratio": 1.41,
+   "score": 7,
+   "max_score": 10,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "plan": {
+    "entry": 8.914e-05,
+    "stop": 7.577e-05,
+    "tp1": 0.0001092,
+    "tp2": 0.00012257,
+    "tsl": "trail runner after TP2"
+   },
+   "risk_usd": 1.5,
+   "note": "paper/signal only, no real funds"
+  },
+  {
+   "ts": "2026-09-10T00:50:13Z",
+   "symbol": "PENIS",
+   "name": "Peniscoin",
+   "chain": "solana",
+   "address": "AXTq4JHNYHSnooqjoDmtL9WW5eEgnkkMSWq76Kznidnz",
+   "url": "https://dexscreener.com/solana/axtq4jhnyhsnooqjodmtl9ww5eegnkkmswq76kznidnz",
+   "price": 0.001213,
+   "liquidity_usd": 99619.0,
+   "vol_24h": 2469076.0,
+   "vol_6h": 2469076.0,
+   "chg_h1": 90.64,
+   "chg_h6": 2732.0,
+   "chg_h24": 2732.0,
+   "pullback_pct": 0.0,
+   "buy_sell_ratio": 1.36,
+   "score": 7,
+   "max_score": 10,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "plan": {
+    "entry": 0.001213,
+    "stop": 0.00103105,
+    "tp1": 0.00148592,
+    "tp2": 0.00166788,
+    "tsl": "trail runner after TP2"
+   },
+   "risk_usd": 1.5,
+   "note": "paper/signal only, no real funds"
+  },
+  {
+   "ts": "2026-09-10T00:50:13Z",
+   "symbol": "BUDDY",
+   "name": "BUDDY THE UNICORN",
+   "chain": "solana",
+   "address": "J1Zthk1tFiACXp5ns8GnCvyzFfJqKxK27oX9SJrpHFuA",
+   "url": "https://dexscreener.com/solana/j1zthk1tfiacxp5ns8gncvyzffjqkxk27ox9sjrphfua",
+   "price": 8.638e-05,
+   "liquidity_usd": 24552.0,
+   "vol_24h": 433211.0,
+   "vol_6h": 433211.0,
+   "chg_h1": 18.94,
+   "chg_h6": 113.0,
+   "chg_h24": 113.0,
+   "pullback_pct": 0.0,
+   "buy_sell_ratio": 1.4,
+   "score": 7,
+   "max_score": 10,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "plan": {
+    "entry": 8.638e-05,
+    "stop": 7.342e-05,
+    "tp1": 0.00010582,
+    "tp2": 0.00011877,
+    "tsl": "trail runner after TP2"
+   },
+   "risk_usd": 1.5,
+   "note": "paper/signal only, no real funds"
+  },
+  {
+   "ts": "2026-09-10T00:50:13Z",
+   "symbol": "PLOOB",
+   "name": "PLOOB",
+   "chain": "solana",
+   "address": "ArnWdnyKHDosGL7xSQELo65HqDK4uMa3nw5CnmoYgtWn",
+   "url": "https://dexscreener.com/solana/arnwdnykhdosgl7xsqelo65hqdk4uma3nw5cnmoygtwn",
+   "price": 0.0001368,
+   "liquidity_usd": 31448.0,
+   "vol_24h": 64375.0,
+   "vol_6h": 64375.0,
+   "chg_h1": -0.71,
+   "chg_h6": 2.05,
+   "chg_h24": 2.05,
+   "pullback_pct": 0.7,
+   "buy_sell_ratio": 5.64,
+   "score": 7,
+   "max_score": 10,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "plan": {
+    "entry": 0.0001368,
+    "stop": 0.00011628,
+    "tp1": 0.00016758,
+    "tp2": 0.0001881,
+    "tsl": "trail runner after TP2"
+   },
+   "risk_usd": 1.5,
+   "note": "paper/signal only, no real funds"
+  },
+  {
+   "ts": "2026-09-10T00:50:13Z",
+   "symbol": "Kirkiversary",
+   "name": "Kirkiversary",
+   "chain": "solana",
+   "address": "G9AGCc9GKNjr2qXRyQhy6ZQ2jFbCCpuMpJQjBgo88pNc",
+   "url": "https://dexscreener.com/solana/g9agcc9gknjr2qxryqhy6zq2jfbccpumpjqjbgo88pnc",
+   "price": 0.000213,
+   "liquidity_usd": 42690.0,
+   "vol_24h": 112592.0,
+   "vol_6h": 63790.0,
+   "chg_h1": 9.49,
+   "chg_h6": 83.02,
+   "chg_h24": 79.89,
+   "pullback_pct": 0.0,
+   "buy_sell_ratio": 1.66,
+   "score": 7,
+   "max_score": 10,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "plan": {
+    "entry": 0.000213,
+    "stop": 0.00018105,
+    "tp1": 0.00026093,
+    "tp2": 0.00029288,
+    "tsl": "trail runner after TP2"
+   },
+   "risk_usd": 1.5,
+   "note": "paper/signal only, no real funds"
+  },
+  {
+   "ts": "2026-09-10T00:50:13Z",
+   "symbol": "TBB",
+   "name": "The Bitcoin Bull",
+   "chain": "solana",
+   "address": "6unnG2hL8udPjDpu3TchvAtptu3dq8AS7tymrWDN2LLC",
+   "url": "https://dexscreener.com/solana/6unng2hl8udpjdpu3tchvatptu3dq8as7tymrwdn2llc",
+   "price": 0.008192,
+   "liquidity_usd": 299800.0,
+   "vol_24h": 84530.0,
+   "vol_6h": 31825.0,
+   "chg_h1": -1.08,
+   "chg_h6": 13.86,
+   "chg_h24": 2.76,
+   "pullback_pct": 1.1,
+   "buy_sell_ratio": 1.46,
+   "score": 7,
+   "max_score": 10,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "plan": {
+    "entry": 0.008192,
+    "stop": 0.0069632,
+    "tp1": 0.0100352,
+    "tp2": 0.011264,
+    "tsl": "trail runner after TP2"
+   },
+   "risk_usd": 1.5,
+   "note": "paper/signal only, no real funds"
+  },
+  {
+   "ts": "2026-09-10T00:50:14Z",
+   "symbol": "Robin",
+   "name": "Robinwifhood",
+   "chain": "solana",
+   "address": "FCjhjPSvqiX4p9LhsgfWnw3RMGNJtAca343Ut1LR61Pw",
+   "url": "https://dexscreener.com/solana/fcjhjpsvqix4p9lhsgfwnw3rmgnjtaca343ut1lr61pw",
+   "price": 5.838e-05,
+   "liquidity_usd": 18790.0,
+   "vol_24h": 109975.0,
+   "vol_6h": 109975.0,
+   "chg_h1": 36.76,
+   "chg_h6": 38.26,
+   "chg_h24": 38.26,
+   "pullback_pct": 0.0,
+   "buy_sell_ratio": 1.23,
+   "score": 7,
+   "max_score": 10,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "plan": {
+    "entry": 5.838e-05,
+    "stop": 4.962e-05,
+    "tp1": 7.152e-05,
+    "tp2": 8.027e-05,
+    "tsl": "trail runner after TP2"
+   },
+   "risk_usd": 1.5,
+   "note": "paper/signal only, no real funds"
+  },
+  {
+   "ts": "2026-09-10T00:50:15Z",
+   "symbol": "MM",
+   "name": "Meme Man",
+   "chain": "solana",
+   "address": "AbXLP7NmNiPn7iJiRJKRVoQ8Vs6SNzkuBRMFiRVygvtY",
+   "url": "https://dexscreener.com/solana/abxlp7nmnipn7ijirjkrvoq8vs6snzkubrmfirvygvty",
+   "price": 9.414e-05,
+   "liquidity_usd": 33517.0,
+   "vol_24h": 633402.0,
+   "vol_6h": 37752.0,
+   "chg_h1": -11.1,
+   "chg_h6": -36.21,
+   "chg_h24": 1647.0,
+   "pullback_pct": 36.2,
+   "buy_sell_ratio": 1.22,
+   "score": 7,
+   "max_score": 10,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": false,
+    "pullback_15_40": true,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "plan": {
+    "entry": 9.414e-05,
+    "stop": 8.002e-05,
+    "tp1": 0.00011532,
+    "tp2": 0.00012944,
+    "tsl": "trail runner after TP2"
+   },
+   "risk_usd": 1.5,
+   "note": "paper/signal only, no real funds"
+  },
+  {
+   "ts": "2026-09-10T00:50:15Z",
+   "symbol": "USELESSLAPTOP",
+   "name": "Useless Laptop",
+   "chain": "solana",
+   "address": "GLi5tzoowUkQ3k4RBPwHCoNLn8R16Rn1aeQ5EaCcw7py",
+   "url": "https://dexscreener.com/solana/gli5tzoowukq3k4rbpwhconln8r16rn1aeq5eaccw7py",
+   "price": 9.92e-05,
+   "liquidity_usd": 25499.0,
+   "vol_24h": 351313.0,
+   "vol_6h": 159943.0,
+   "chg_h1": 5.66,
+   "chg_h6": -44.45,
+   "chg_h24": 97.75,
+   "pullback_pct": 44.5,
+   "buy_sell_ratio": 2.76,
+   "score": 7,
+   "max_score": 10,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "plan": {
+    "entry": 9.92e-05,
+    "stop": 8.432e-05,
+    "tp1": 0.00012152,
+    "tp2": 0.0001364,
+    "tsl": "trail runner after TP2"
+   },
+   "risk_usd": 1.5,
+   "note": "paper/signal only, no real funds"
+  }
+ ],
+ "rejected": [
+  {
+   "symbol": "BABYSTONK",
+   "score": 6,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": false,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "liq": 30112.38
+  },
+  {
+   "symbol": "PUI",
+   "score": 6,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": false
+   },
+   "liq": 18250.31
+  },
+  {
+   "symbol": "PILL",
+   "reason": "liq/activity floor",
+   "liq": 0.0
+  },
+  {
+   "symbol": "MEEKO",
+   "reason": "liq/activity floor",
+   "liq": 0.0
+  },
+  {
+   "symbol": "KURO",
+   "score": 6,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": false
+   },
+   "liq": 23075.99
+  },
+  {
+   "symbol": "CLOUDY",
+   "reason": "liq/activity floor",
+   "liq": 0.0
+  },
+  {
+   "symbol": "GME",
+   "reason": "liq/activity floor",
+   "liq": 648.72
+  },
+  {
+   "symbol": "BODEN",
+   "score": 6,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": false,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "liq": 17703.61
+  },
+  {
+   "symbol": "Terafab",
+   "reason": "liq/activity floor",
+   "liq": 0.0
+  },
+  {
+   "symbol": "STONKSZN",
+   "score": 6,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": false,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "liq": 53747.3
+  },
+  {
+   "symbol": "NUTSAQ",
+   "reason": "liq/activity floor",
+   "liq": 0.0
+  },
+  {
+   "symbol": "LAPCAT",
+   "reason": "liq/activity floor",
+   "liq": 3672.39
+  },
+  {
+   "symbol": "STONKLESS",
+   "reason": "liq/activity floor",
+   "liq": 3395.85
+  },
+  {
+   "symbol": "SPCX",
+   "reason": "liq/activity floor",
+   "liq": 2274.3
+  },
+  {
+   "symbol": "MEMELESS",
+   "reason": "liq/activity floor",
+   "liq": 2579.6
+  },
+  {
+   "symbol": "StockPad",
+   "reason": "liq/activity floor",
+   "liq": 2406.09
+  },
+  {
+   "symbol": "CRACKTOP",
+   "score": 5,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": false,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": false,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "liq": 28090.23
+  },
+  {
+   "symbol": "HONTER",
+   "score": 5,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": false,
+    "pullback_15_40": false,
+    "structure_intact": false,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "liq": 34717.62
+  },
+  {
+   "symbol": "SOLANGELES",
+   "score": 6,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": false,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "liq": 114045.0
+  },
+  {
+   "symbol": "SOLO",
+   "score": 5,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": false,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": false
+   },
+   "liq": 2976679.93
+  },
+  {
+   "symbol": "PLAY",
+   "score": 5,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": false,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": false
+   },
+   "liq": 164403.3
+  },
+  {
+   "symbol": "JupSOL",
+   "score": 5,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": false,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": false
+   },
+   "liq": 474653.55
+  },
+  {
+   "symbol": "JitoSOL",
+   "score": 5,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": false,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": false,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "liq": 6985902.31
+  },
+  {
+   "symbol": "mSOL",
+   "score": 5,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": false,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": false
+   },
+   "liq": 1773949.96
+  },
+  {
+   "symbol": "stSOL",
+   "score": 5,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": false,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": false
+   },
+   "liq": 340626.09
+  },
+  {
+   "symbol": "xSOL",
+   "score": 6,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": false,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "liq": 175911.92
+  },
+  {
+   "symbol": "SOL",
+   "score": 5,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": false,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": false
+   },
+   "liq": 2178466988.98
+  },
+  {
+   "symbol": "SLX",
+   "reason": "liq/activity floor",
+   "liq": 68939678.23
+  },
+  {
+   "symbol": "SOL",
+   "score": 4,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": false,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": false,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": false
+   },
+   "liq": 2159225115.32
+  },
+  {
+   "symbol": "SOL",
+   "reason": "liq/activity floor",
+   "liq": 1597167508.53
+  },
+  {
+   "symbol": "SOL-USDT",
+   "reason": "liq/activity floor",
+   "liq": 309902307.74
+  },
+  {
+   "symbol": "SOL-USDC",
+   "score": 5,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": true,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": false,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": false
+   },
+   "liq": 219667257.73
+  },
+  {
+   "symbol": "SCS",
+   "reason": "liq/activity floor",
+   "liq": 237497.02
+  },
+  {
+   "symbol": "SOL-USDC",
+   "score": 4,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": false,
+    "pullback_15_40": false,
+    "structure_intact": true,
+    "buy_flow_healthy": false,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": false
+   },
+   "liq": 219704913.13
+  },
+  {
+   "symbol": "SOL",
+   "reason": "liq/activity floor",
+   "liq": 1627150110.64
+  },
+  {
+   "symbol": "SOL",
+   "reason": "liq/activity floor",
+   "liq": 1632045856.15
+  },
+  {
+   "symbol": "SOL-USDT",
+   "reason": "liq/activity floor",
+   "liq": 309893185.03
+  },
+  {
+   "symbol": "SOL-USDT",
+   "reason": "liq/activity floor",
+   "liq": 309871350.02
+  },
+  {
+   "symbol": "USDC-SOL",
+   "reason": "liq/activity floor",
+   "liq": 998900800.05
+  },
+  {
+   "symbol": "SOL-USDT",
+   "reason": "liq/activity floor",
+   "liq": 309872434.23
+  }
+ ]
+}
