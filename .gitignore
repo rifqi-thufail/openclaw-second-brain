@@ -13,3 +13,4 @@ Thumbs.db
 .env
 *.pem
 *.key
+Projects/memecoin-tracker/.env
