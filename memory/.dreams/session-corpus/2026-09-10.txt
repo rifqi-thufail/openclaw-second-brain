@@ -74,3 +74,13 @@
 [main/sessions/main/a045dd0a-6566-451d-89d7-668ee35fe488#L1111] Assistant: Scanner rebuilt on GeckoTerminal. Let me test it live and verify the real OHLCV pullback math works.
 [main/sessions/main/a045dd0a-6566-451d-89d7-668ee35fe488#L1125] Assistant: The live run was killed by timeout (too slow: ~40 pools x 2.2s pacing plus candle calls). Let me make the scanner faster and more resilient, then verify. The core problem: sequential GeckoTerminal calls with 2.2s pacing are too slow. Let me reduce the pool count, cache
 [main/sessions/main/a045dd0a-6566-451d-89d7-668ee35fe488#L1127] Assistant: The old scan is still on disk (from the earlier DexScreener version). Let me speed up the scanner (fewer pools, lower pacing, candle limit) so it completes within the run window, then verify live.
+[main/sessions/main/847200a2-d99e-4a36-ae53-a89fb7518a3f#L6] Assistant: I'll run the archive script.
+[main/sessions/main/847200a2-d99e-4a36-ae53-a89fb7518a3f#L8] Assistant: ARCHIVE_OK
+[main/sessions/main/a045dd0a-6566-451d-89d7-668ee35fe488#L1137] Assistant: The GeckoTerminal-based scanner works: 59 candidate pools, 11 signals passed, real OHLCV candle data (accurate pullback). Let me verify the output quality and send it to the bot.
+[main/sessions/main/a045dd0a-6566-451d-89d7-668ee35fe488#L1139] Assistant: The new GeckoTerminal-based scanner works with real OHLCV pullback data. Let me update the README and commit.
+[main/sessions/main/a045dd0a-6566-451d-89d7-668ee35fe488#L1141] Assistant: Now let me commit the upgraded scanner and verify the full run script still works end-to-end.
+[main/sessions/main/a045dd0a-6566-451d-89d7-668ee35fe488#L1143] Assistant: Data source upgraded and pushed (commit `102335c`). **Memetracker data source: DexScreener → GeckoTerminal (primary)** Why: DexScreener has no free OHLC history, so pullback depth was a guess. GeckoTerminal gives **real OHLCV candles**, so pullback is now **measured** 
+[main/sessions/main/a045dd0a-6566-451d-89d7-668ee35fe488#L1143] Assistant: 21.0%`, `ZCAT 34.6%` — all `measured=True` (real candles, not inferred). Still honest gaps: holder concentration + dev-wallet distribution remain unavailable on free APIs (need Birdeye/Helius keys). Those two checks stay proxies/pass-by-default. One note: the scan take
+[main/sessions/main/d0ac4d17-384e-40f6-ab07-c0addaf81b00#L6] Assistant: I'll run the memecoin tracker scan.
+[main/sessions/main/d0ac4d17-384e-40f6-ab07-c0addaf81b00#L42] Assistant: The scan is rate-limited by GeckoTerminal OHLCV calls. Let me keep waiting for it to finish.
+[main/sessions/main/d0ac4d17-384e-40f6-ab07-c0addaf81b00#L64] Assistant: MEMETRACKER_OK 7
