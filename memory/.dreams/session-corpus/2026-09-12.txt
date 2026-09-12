@@ -1,0 +1,3 @@
+[main/sessions/main/96fff6c9-62d8-46e1-8576-b6f2f17865f0#L6] Assistant: I'll start by running the data fetch pipeline.
+[main/sessions/main/96fff6c9-62d8-46e1-8576-b6f2f17865f0#L29] Assistant: I have the data. Now writing the analysis.
+[main/sessions/main/96fff6c9-62d8-46e1-8576-b6f2f17865f0#L33] Assistant: Finance briefing for 2026-09-12 delivered: 2-page PDF (briefing_2026-09-12.pdf) plus Telegram message, charts (change, trend, weekly_change, weekly_trend, rupiah) to both subscribed chats, 137 stories fetched, markets and Indonesia data refreshed. Data gaps: VNINDEX fe
