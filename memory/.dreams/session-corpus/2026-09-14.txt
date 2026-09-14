@@ -1,0 +1,3 @@
+[main/sessions/main/bd57ecf5-dc64-48c4-b54b-8620c619bf63#L6] Assistant: I'll start by running the data fetch pipeline.
+[main/sessions/main/bd57ecf5-dc64-48c4-b54b-8620c619bf63#L26] Assistant: I have what I need. Writing the briefing now.
+[main/sessions/main/bd57ecf5-dc64-48c4-b54b-8620c619bf63#L30] Assistant: Briefing 2026-09-14 delivered: PDF (briefing_2026-09-14.pdf), Telegram summary message, and 5 charts (change, trend, weekly_change, weekly_trend, rupiah) to both chats, all HTTP 200. Data gaps: VNINDEX failed to fetch (skipped, insufficient data); PSEi and SET closes a
