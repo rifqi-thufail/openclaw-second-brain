@@ -1,0 +1,4 @@
+[main/sessions/main/91101c61-e999-4efb-833c-389e224ba60a#L6] Assistant: I'll run the finance briefing pipeline now.
+[main/sessions/main/91101c61-e999-4efb-833c-389e224ba60a#L36] Assistant: I have everything I need. Writing the analysis now.
+[main/sessions/main/91101c61-e999-4efb-833c-389e224ba60a#L48] Assistant: Retrying Telegram delivery after a read timeout on the chart upload.
+[main/sessions/main/91101c61-e999-4efb-833c-389e224ba60a#L54] Assistant: Finance briefing for 2026-09-15 delivered to both Telegram chats: PDF (briefing_2026-09-15.pdf), summary message, and 5 charts (daily change/trend, weekly change/trend, rupiah), all HTTP 200 after one retry on the chart upload timeout. Data gaps this run: VNINDEX faile

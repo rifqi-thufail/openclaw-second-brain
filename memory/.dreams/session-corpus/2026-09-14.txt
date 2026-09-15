@@ -1,3 +1,7 @@
 [main/sessions/main/bd57ecf5-dc64-48c4-b54b-8620c619bf63#L6] Assistant: I'll start by running the data fetch pipeline.
 [main/sessions/main/bd57ecf5-dc64-48c4-b54b-8620c619bf63#L26] Assistant: I have what I need. Writing the briefing now.
 [main/sessions/main/bd57ecf5-dc64-48c4-b54b-8620c619bf63#L30] Assistant: Briefing 2026-09-14 delivered: PDF (briefing_2026-09-14.pdf), Telegram summary message, and 5 charts (change, trend, weekly_change, weekly_trend, rupiah) to both chats, all HTTP 200. Data gaps: VNINDEX failed to fetch (skipped, insufficient data); PSEi and SET closes a
+[main/sessions/main/0112602e-8d7a-4f53-a1ca-db1b8424a4bb#L8] Assistant: ARCHIVE_OK
+[main/sessions/main/2fccc88d-fadb-4a67-9dfa-fb2939bba41a#L6] Assistant: I'll run the memecoin tracker scan.
+[main/sessions/main/2fccc88d-fadb-4a67-9dfa-fb2939bba41a#L14] Assistant: Rate limits are backing off. Continuing to wait.
+[main/sessions/main/2fccc88d-fadb-4a67-9dfa-fb2939bba41a#L78] Assistant: MEMETRACKER_OK 6
