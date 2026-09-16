@@ -1,0 +1,2 @@
+[main/sessions/main/37a4a8e7-ea85-490c-a44d-ba2a3beb8269#L6] Assistant: I'll start by running the data fetch pipeline.
+[main/sessions/main/37a4a8e7-ea85-490c-a44d-ba2a3beb8269#L25] Assistant: Briefing 2026-09-16 delivered: 2-page PDF, Telegram message, and 6 charts sent to both chats (HTTP 200 on all). Data gaps: VNINDEX fetch failed (404, skipped), SET and PSEi returned insufficient data, and only Indonesia 5Y CDS returned (84.48 bps); MY, TH, PH, VN, SG C
