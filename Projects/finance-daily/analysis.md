@@ -1,103 +1,122 @@
 # Executive Summary
 
-- The Fed is the week's dominant event and the odds have hardened. Traders price a better than 92% probability of a rate increase at this meeting and more than 75% odds of a second hike in December, the first tightening cycle in three years (CNBC Markets).
-- The long end broke a multiyear barrier. The 10Y US Treasury yield breached 5% for the first time since 2007, and oil is now moving in near lockstep with the yield, a correlation not seen since 2019 (Straits Times, Edge SG, CNBC Asia).
-- The AI trade cracked. Nvidia's Jensen Huang publicly split from Anthropic and OpenAI leaders on AI safety, chipmakers sold off, and the Nasdaq fell 0.78% to 25,981.57 (CNBC Top, FT).
-- Oil is the inflation transmission channel. US oil topped $105 after Saudi Arabia shut the roughly 750-mile East-West pipeline, the main Hormuz bypass, following a drone attack; US diesel hit a record above $6 a gallon (CNBC Top, CNBC Asia).
-- Asia closed mixed but the trend is down. Hang Seng +0.45% to 24,917.60 and KLCI +0.67% to 1,698.01 held, while Nikkei 225 fell 0.81% to 63,492.99 and is down 2.72% on the week; the S&P 500 lost 0.45% to 7,585.73 (Market data).
-- JCI remains the ASEAN laggard at 6,534.69, down 2.27% on the week, the weakest five-day normalized trend in the basket at 97.7 against a baseline of 100 (Market data).
-- Indonesia's 10Y yield ticked up to 7.14% and 5Y CDS sits at 84.48 bps, so the sovereign is pricing the global risk-off through bonds, not through credit stress. The rupiah at 17,636 is the binding constraint on BI policy (IDN data).
-- Data gaps this run: VNINDEX failed to fetch (404), SET and PSEi returned insufficient data, and only Indonesia CDS returned; MY, TH, PH, VN and SG CDS came back empty.
+- The Fed delivered its first rate hike since 2023, raising the target range by 25bp to 3.75-4.00% on a unanimous FOMC vote, and signalled more tightening ahead. The 10-year Treasury yield moved back above 5.0%.
+- Global equities absorbed the shock. The Dow fell 631.33 points (-1.21%) to 51,461.90, the S&P 500 lost 0.45% to 7,551.81, and the Nasdaq held up better at -0.01% (25,978.42).
+- Asian markets were already pricing the move. Over the past week the JCI fell 3.25%, the KLCI 2.05%, the STI 1.59%, the Nikkei 2.55%, and the Hang Seng 2.40%, all underperforming the S&P 500's -0.53%.
+- Oil remains the second inflation engine. Brent/WTI traded above $105 before easing on news that Saudi Arabia's damaged East-West pipeline will restart within days. Oil and 10-year yields are now moving with their tightest correlation since 2019.
+- Indonesia's 10-year government bond yield sits at 7.14%, unchanged across the last three sessions, while the 5-year CDS eased to 83.74 bps from 84.48 bps, a marginal but positive signal.
+- The rupiah is the weak link. USD/IDR closed at 17,665, up 0.16% on the day and 0.94% on the week, extending a slow grind weaker even as CDS improves.
+- Indonesia faces an unresolved fiscal credibility test after the dismissal of Finance Minister Purbaya and the appointment of Nazara, with his three tax reform priorities now in focus.
 
 # Top Stories
 
-## Fed hike nearly locked in as Warsh counts the votes | CNBC
-Insight: Traders price a better than 92% probability of an increase this week and more than 75% odds of another in December, which makes this the first tightening cycle in three years. The hike itself is close to fully priced; the risk is the guidance and the dot path.
-Action: Cut duration and crowded high-multiple growth into the decision, hold cash, and treat the statement plus dot plot as the single largest risk event for ASEAN rates, the rupiah, and the JCI this week.
-Source: https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html
+## Fed hikes rates 25bp to 3.75-4.00%, signals more tightening ahead | Straits Times
+Insight: The FOMC voted unanimously to raise rates a quarter point, the first hike since 2023, with a majority still projecting further tightening to bring inflation down on a "timelier" basis. The 10-year Treasury yield pushed above 5.0% after the decision, and traders had priced a better than 92% probability of the hike plus a further 75% chance of another move in December. A higher-for-longer US curve pressures every duration-sensitive emerging market asset, including Indonesian government bonds at 7.14%.
+Action: Reduce exposure to rate-sensitive EM duration and long-duration growth equity. Favour short-duration bonds, floating-rate credit and energy-linked names. Treat December as a live hike meeting rather than a pause.
+Source: https://www.straitstimes.com/business/us-fed-hikes-rates-sees-more-tightening-in-search-for-timelier-drop-in-inflation
 
-## 10Y Treasury yield breaches 5%, highest since 2007 | Straits Times
-Insight: The benchmark Treasury yield broke 5% as oil spiked, its highest level since 2007. A 5% risk-free rate raises the discount rate on every long-duration asset and drains capital from emerging markets.
-Action: Re-anchor valuation work to a 5% risk-free rate, favour short-duration cash-generative exposure over long-duration growth, and expect a mechanical valuation headwind for ASEAN equities.
-Source: https://www.straitstimes.com/business/companies-markets/us-stocks-close-lower-as-oil-spikes-and-the-benchmark-treasury-yield-breaches-5
+## Wall Street ends lower after Fed hikes; Dow loses 631 points | Straits Times
+Insight: The Dow Jones Industrial Average fell 631.33 points, or 1.21%, to 51,461.78 and the S&P 500 lost 33.59 points, or 0.44%, to 7,552.14. The downdraft was led by cyclicals and rate-sensitive sectors rather than by a growth scare, which means the repricing is policy-driven and mechanical. Weekly moves are still modest (S&P 500 -0.53%), so positioning has not capitulated.
+Action: Do not treat this as a buying opportunity yet. Wait for evidence that the front end of the curve has peaked before adding beta. Use the Dow underperformance as a signal to underweight industrials and rate-exposed financials.
+Source: https://www.straitstimes.com/business/companies-markets/wall-street-ends-lower-after-fed-hikes-interest-rates-sees-more-tightening-ahead
 
-## Oil and Treasury yields locked together for the first time in seven years | CNBC
-Insight: Oil and 10-year Treasury yields are moving in near lockstep with their correlation the strongest since 2019, which means an energy shock now transmits directly into the discount rate. Costco is rationing motor oil to two units per member and raised the price to $57.99, an early sign of pass-through into consumer goods.
-Action: Treat energy as a macro hedge rather than a sector bet, and stress-test portfolios for a joint move of Brent above $110 and the 10Y above 5.25%.
-Source: https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html
-
-## US oil tops $105 as Saudi Arabia cancels crude cargoes after pipeline closure | CNBC
-Insight: The East-West pipeline, the key alternative to the Strait of Hormuz, was shut after a drone attack launched from Iraq. The US Energy secretary calls it a days-long interruption, but analysts warn prices rally sharply if it stays offline beyond the five-to-seven-day inventory cushion.
-Action: Use the pipeline restart as the key tactical trigger for energy exposure, and model renewed fuel subsidy pressure on Indonesia's budget if Brent holds above $100 into the 2027 cycle.
+## Oil above $105 as Saudi East-West pipeline damage threatens supply | CNBC Asia
+Insight: US oil topped $105 after Saudi Arabia cancelled some crude cargoes when the East-West pipeline was closed by a drone attack launched from Iraq. The US Energy Secretary described the interruption as lasting days, but analysts flag a five-to-seven-day inventory cushion, beyond which prices could rally sharply. Iranian Foreign Minister Araghchi is heading to China for talks, adding a diplomatic dimension to the risk premium.
+Action: Keep an energy overweight but manage the tail. Use the pipeline restart headlines as a fade trigger for tactical longs, and hedge the upside with Brent call spreads. Higher oil is directly inflationary for Indonesia and the Philippines, both net energy importers.
 Source: https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html
 
-## Senate cloture vote on Clarity Act fails, a blow to crypto | FT
-Insight: The Senate voted to block the Clarity Act from advancing, splitting over Trump ethics concerns and denying the industry the comprehensive market framework it lobbied for with record spending. Hong Kong-based exchange CoinEx is already shutting down, citing shrinking volume and liquidity.
-Action: Fade the regulatory-premium trade in US crypto-linked equities and exchanges, and expect consolidations and shutdowns among smaller venues to continue.
-Source: https://www.ft.com/content/8d0c90f0-b6f6-4b89-8839-d6c8c5c03c54?syn-25a6b1a6=1
+## Oil and 10-year Treasury yields move in lockstep, tightest since 2019 | CNBC Asia
+Insight: The correlation between oil and 10-year Treasury yields is at its strongest in seven years. This is an adverse regime: energy-driven inflation forces central banks to stay tight, which lifts yields, which tightens financial conditions, which raises the odds of a growth slowdown. Households are already absorbing an estimated $1,700 cost hit from the combination of higher oil and higher rates.
+Action: Treat oil and rates as a single risk factor rather than two. Reduce aggregate risk when both rise together. Position for stagflation-lite: real assets, commodity equities, short-duration credit, and selective hedges on consumer discretionary.
+Source: https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html
 
-## Nvidia's Huang splits from Anthropic and OpenAI on AI safety | CNBC
-Insight: Huang called the innovation versus safety debate a false choice and aligned with Trump as other AI leaders called for slower model development after Anthropic's Dario Amodei urged the industry to slow down. The split lands days before Nvidia's chief attends the Trump state dinner for China's Xi.
-Action: Expect elevated volatility in AI infrastructure names around policy headlines, and watch the Trump-Xi summit as the key catalyst for export-control sensitive semiconductor exposure.
-Source: https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html
+## Indonesia's new finance minister faces an uphill battle on fiscal credibility | CNBC Markets
+Insight: Nazara was sworn in hours after Purbaya's dismissal. He spent seven years as deputy finance minister and led the ministry's fiscal policy agency from 2015 to 2019, so institutional knowledge is high, but the abrupt transition raises questions about policy continuity and the credibility of the fiscal path. Wamenkeu Juda Agung has already outlined three tax reform priorities.
+Action: Watch the first policy statements and the next bond auction for signals on the deficit path. USD/IDR at 17,665 and JCI at 6,461.15 already reflect some of this uncertainty. Avoid adding Indonesian duration until the fiscal framework is reaffirmed.
+Source: https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html
 
-## US manufacturers hit by fresh supply chain cost inflation | FT
-Insight: Trump's war in Iran and tariffs are pushing input prices higher while the AI boom squeezes component availability, a cost-push dynamic that reinforces the case for the expected Fed hike. US manufacturers cannot pass all of this through in a 3.1% wage growth environment.
-Action: Favour pricing-power industrials and short-cycle input producers, and avoid capital-goods names with fixed-price backlogs and unhedged input costs.
-Source: https://www.ft.com/content/e14542d9-2bc5-49c8-8e7e-c9656b0a2d36?syn-25a6b1a6=1
+## Japan set to raise rates; BOJ follows the global tightening cycle | Straits Times
+Insight: The Bank of Japan is set to raise rates under pressure from domestic inflation and from the US, with its last hike in June. A BOJ hike alongside the Fed removes a source of global carry liquidity and strengthens the yen argument, which pressures Japanese exporters and JGB yields and adds to the global duration repricing.
+Action: Position for yen strength and JGB curve steepening. For ASEAN portfolios, expect Japanese institutional flows to turn more selective, reducing demand at the margin for regional credit.
+Source: https://www.straitstimes.com/business/bank-of-japan-set-to-raise-rates-under-pressure-from-inflation-us
 
-## Grab to buy majority stake in Atome for $1.9 billion | Straits Times
-Insight: The deal gives Grab a stronger foothold in Southeast Asian consumer lending, one of the region's highest-margin fintech verticals, against a backdrop of rising regional rates. It consolidates the buy-now-pay-later market behind a scaled platform.
-Action: Re-rate Grab on the embedded-lending revenue mix, and treat smaller single-country BNPL players as structurally disadvantaged consolidation candidates.
-Source: https://www.straitstimes.com/business/companies-markets/grab-to-buy-most-of-singapore-tech-firm-atome-for-1-9b
-
-## Vietnam central bank sets a record exchange rate against the dollar | VnExpress
-Insight: The State Bank of Vietnam set a record reference rate as the dollar strengthened on rising US yields, tightening imported inflation in an economy that just had its 2026 growth forecast raised to 2.5%. Regional central banks are absorbing the Fed shock through the currency, not through rates.
-Action: Prepare for managed depreciation across ASEAN currencies, price hedges on USD import exposure in Vietnam, Malaysia and the Philippines, and avoid unhedged local-currency receivables.
-Source: https://e.vnexpress.net/news/business/markets/vietnam-central-bank-sets-record-exchange-rate-against-dollar-5120533.html
+## US retail sales rebound more than expected; import prices surge | Straits Times
+Insight: August retail sales rebounded more than expected and import prices surged, with the retail beat partly reflecting higher petrol station receipts. The demand data removes the argument for near-term Fed easing and reinforces the higher-for-longer path. Import price strength is an inflation input rather than a growth signal.
+Action: Fade expectations of a quick policy pivot. In equities, prefer companies with pricing power over volume-dependent consumer names, since real disposable income is being squeezed by fuel and borrowing costs.
+Source: https://www.straitstimes.com/business/us-retail-sales-rebound-sharply-in-august
 
 # ASEAN Focus
 
-- Singapore: STI +0.39% to 5,718.02 but down 0.86% on the week; Grab's $1.9 billion purchase of a majority stake in Atome and Google's Singapore engineering hiring expansion show the city-state still attracts tech capital despite the global risk-off (Straits Times).
-- Malaysia: KLCI +0.67% to 1,698.01 but down 0.96% on the week; Malaysian developer Eco World topped bids for a Sin Ming housing plot at $1,612 psf ppr with a $208.1 million bid, signalling healthy cross-border property demand (Straits Times).
-- Indonesia: JCI 6,534.69, -0.10% on the day and -2.27% on the week, the weakest five-day trend in the basket; Bayan Resources declared force majeure on coal supply, and Indonesian forest fires are driving haze into Singapore (Market data, VnExpress, CNBC Indonesia).
-- Philippines: Remittances hit a seven-month high of $3.2 billion in July, up 1.9% year on year, but the peso closed near 63 per dollar at 62.835; Moody's bought a minority stake in PhilRatings and the GCash IPO is seen as a test of market appetite for mega deals (Inquirer PH).
-- Vietnam: The central bank set a record reference rate against the dollar as the currency came under pressure; the durian sector is shifting from volume to value and Tesla has set up a Vietnam company (VnExpress).
-- Thailand: An official pointed to surging investment as stability returns, citing relatively low inflation, strong external finances and accommodative monetary policy, but SET index data failed to fetch this run (Straits Times, Market data).
-- Regional risk: LNG buyers are looking to US supply to hedge future Hormuz disruption, a structural shift that raises long-dated shipping and regasification economics for ASEAN importers (Edge SG).
+- Singapore: The STI fell 1.39% to 5,638.64 and is down 1.59% on the week. Fuel prices in Singapore spiked more than 3% in 10 days, a direct margin headwind for transport and logistics. Offsetting positives are capital flows into data-centre and AI infrastructure: Keppel DC REIT continues to expand beyond hyperscalers, Malaysia's Eco World placed the top bid of $163 million for a Singapore housing site, and AI start-up Plaud opened its regional headquarters and doubled its investment to $20 million.
+- Malaysia: The KLCI dropped 1.11% to 1,679.21, down 2.05% over the week. Malaysia is monitoring AirAsia's financial strain and talking to rival airlines about contingency capacity, a live credit and aviation risk. The country also appears as a regional investor through Eco World's Singapore bid, a sign its developers still hold deployable capital despite the domestic selloff.
+- Indonesia: The JCI fell 1.13% to 6,461.15 and is the region's worst weekly performer at -3.25%. See the Indonesia Focus section for the full read on bonds, CDS and the fiscal transition.
+- Philippines: The P60-billion EV incentive scheme is drawing pushback for excluding motorcycles and trikes, and Toyota is protesting the exclusion of hybrids from Metro Manila ride-hailing slots, both of which slow the expected investment payoff. Government budget releases were slightly behind last year's pace by end-August, putting pressure on agencies to accelerate spending. DBS projects an average 5.8% growth rate from 2026 to 2035 but flags heavy reliance on imported energy as the key risk. Excise tax hikes on sweetened beverages, alcohol and tobacco could push 2027 inflation to 4.5%.
+- Vietnam: The State Bank of Vietnam set a record exchange rate against the dollar and the dong weakened further, driven by the Fed hike and oil shock. Vietnam's billionaire headcount dropped to 7, reflecting pressure on listed equity wealth. On the positive side, ByteDance's AI drug unit raised $369 million at a $1.5 billion valuation, and the durian industry is shifting from volume to value, though both are small relative to the currency pressure.
+- Thailand: No index data was retrieved for the SET this run (insufficient data from the provider), so no directional call is made. Treat Thai market commentary as absent rather than neutral this briefing.
 
 # Indonesia Focus
 
-- JCI at 6,534.69, down 0.10% on the day and 2.27% on the week, the weakest five-day normalized trend among tracked ASEAN indices at 97.7 versus a baseline of 100, so direction remains down and Indonesia is the regional underperformer (Market data).
-- The 10Y government bond yield is at 7.14%, direction still upward, moving with the global long-end repricing as the US 10Y breached 5% and oil pushed imported inflation expectations higher (IDN data, Straits Times).
-- The 5Y CDS is at 84.48 bps, a low absolute level that shows credit markets are not pricing sovereign stress despite the equity and bond weakness; direction is broadly stable, so this is a rates and currency story rather than a credit story (IDN data).
-- News that could move the Indonesian market significantly: the KPK named eight suspects including aides to ATR/BPN Minister Nusron Wahid over a Rp1.5 billion bribe tied to a Summarecon HGB permit in Bogor, which is a governance risk for property names and a headline risk for the cabinet. Separately, BI policy is now boxed in by a Fed hike, rupiah at 17,636 and an oil-funded subsidy problem, and the Bayan Resources coal force majeure removes supply from a key export earner (CNBC Indonesia, VnExpress).
-- High-tech industrial policy: the government is using strategic trade measures to push high-tech industry development while inviting Canadian nuclear and AI firms to invest under free trade arrangements, an attempt to shift the export mix up the value chain (CNBC Indonesia).
+- JCI level and trend: The JCI closed at 6,461.15, down 1.13% on the day and down 3.25% over the week. That is the weakest weekly move among the tracked ASEAN indices. The normalized 5-day series has fallen from 100.0 on 9 September to 96.7 on 15 September, a steady one-way slide with no bounce attempt, which indicates distribution rather than a single-day shock.
+- 10Y government bond yield direction: The 10-year Indonesian government bond yield is 7.14%, unchanged from 7.14% on 15 and 16 September. The flat print is notable because it held steady even as the 10-year US Treasury moved above 5.0%, which suggests domestic demand is absorbing supply for now. The risk is that a sustained US 10-year above 5.0% forces a repricing at the next auction.
+- 5Y CDS level and direction: The 5-year Indonesia CDS is 83.74 bps, down from 84.48 bps the prior session and roughly in line with 83.69 bps two sessions ago. The direction is marginally positive, and the level remains low in absolute terms, which means foreign credit markets are not yet pricing a fiscal credibility problem. The gap between improving CDS and a weakening rupiah is the key divergence to watch.
+- Rupiah: USD/IDR closed at 17,665, up 0.16% on the day and 0.94% over the week. The 5-day normalized series rose from 100.0 to 100.9, a persistent grind weaker rather than a break. Continued depreciation combined with a firm US 10-year is the most direct transmission channel into JCI foreign outflows.
+- News that could move the Indonesian market significantly: The finance ministry transition is the dominant catalyst. Nazara's appointment after Purbaya's dismissal puts fiscal credibility under a spotlight, and CNBC reports he faces an uphill battle. Watch for the first statements on the deficit path and the three tax reform priorities, since any perceived slippage would hit the bond market first and the rupiah second. Separately, President Prabowo said large-scale investment will enter Indonesia soon, a claim that needs confirmation before it is traded. Global drivers remain the Fed's December hike odds, the oil price and Middle East escalation.
 
 # Risks & Catalysts
 
-- Fed decision and dot plot: the hike is close to fully priced at better than 92%, so the market reaction depends on the guidance and the 2026 path; a hawkish dot plot is the main downside risk for ASEAN equities and the rupiah.
-- Oil supply: the East-West pipeline restart timing is the key variable. A restart inside five to seven days caps the move; failure past the inventory cushion triggers a sharp rally with direct subsidy and inflation consequences for Indonesia.
-- Rupiah and BI: with USD/IDR at 17,636 and up 0.27% on the week, BI faces the choice of defending the currency with higher rates or tolerating depreciation through imported inflation. Watch the next BI meeting and any FX intervention signals.
-- Trump-Xi summit and trade truce: Bessent meets He Lifeng in New York ahead of the summit as the one-year truce expiry nears, and China and the US are said to be discussing tariff cuts on agriculture and energy, the main upside catalyst for regional risk assets.
-- US-Canada trade escalation: import bans on motorbikes, alcohol and dairy take effect September 29, with Canadian retaliation of CA$27.6 billion already live. A broadening trade war is a global growth risk.
-- Governance risk in Indonesia: the KPK case touching a sitting minister and a major listed developer can weigh on property and construction sentiment and on cabinet stability perceptions.
-- Earnings vulnerability: AI infrastructure and semiconductor names carry the highest consensus concentration, and the Huang versus OpenAI/Anthropic split introduces policy headline risk into the index's largest earnings driver.
+- Fed follow-through: A December hike is priced at better than 75%. A second consecutive hike would extend the US 10-year above 5.0% and pressure Indonesian bonds, the rupiah and EM equity multiples simultaneously.
+- Oil supply shock: The Saudi East-West pipeline is expected to restart in days, but the inventory cushion is only five to seven days. A failure to restart would push prices sharply higher and worsen the inflation impulse for Indonesia and the Philippines.
+- Indonesia fiscal credibility: The abrupt finance minister change is unresolved. The next bond auction and the first policy statements from Nazara are the key tests. A credibility loss would show up first in the rupiah and CDS.
+- Rupiah depreciation: USD/IDR at 17,665 with a 0.94% weekly move higher in the dollar is a slow bleed. Faster depreciation would force Bank Indonesia into defensive rate action, conflicting with the growth agenda.
+- Middle East escalation: Houthi strikes on Saudi Arabia, the reported drone targeting of Mecca and Iran's diplomatic outreach to China keep a geopolitical premium in oil. Any Hormuz disruption would be a step-change event.
+- Regional corporate credit: AirAsia's financial strain in Malaysia and the sharp repricing under way in Turkish equities, where MSCI is considering a downgrade to frontier status, are reminders that idiosyncratic EM credit risk is elevated.
+- Business cycle risk: With oil and yields moving in lockstep at their tightest correlation since 2019, the combination of higher energy costs and tighter financial conditions raises the probability of a demand slowdown that equity markets are not yet pricing.
 
 # Sources
 
-- CNBC Top: https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html
-- CNBC Top: https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html
-- CNBC Top: https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html
-- CNBC Markets: https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html
-- CNBC Asia: https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html
-- CNBC Asia: https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html
-- Straits Times: https://www.straitstimes.com/business/companies-markets/us-stocks-close-lower-as-oil-spikes-and-the-benchmark-treasury-yield-breaches-5
-- Straits Times: https://www.straitstimes.com/business/companies-markets/grab-to-buy-most-of-singapore-tech-firm-atome-for-1-9b
-- Straits Times: https://www.straitstimes.com/business/thai-official-points-to-surging-investment-as-stability-returns
-- FT: https://www.ft.com/content/8d0c90f0-b6f6-4b89-8839-d6c8c5c03c54?syn-25a6b1a6=1
-- FT: https://www.ft.com/content/e14542d9-2bc5-49c8-8e7e-c9656b0a2d36?syn-25a6b1a6=1
-- Edge SG: https://www.theedgesingapore.com/news/oil-gas/lng-buyers-look-us-hedge-future-risk-hormuz-disruption
-- VnExpress: https://e.vnexpress.net/news/business/markets/vietnam-central-bank-sets-record-exchange-rate-against-dollar-5120533.html
-- CNBC Indonesia: https://www.cnbcindonesia.com/research/20260915200756-128-768203/20-jam-penuh-guncangan-bunga-utang-minyak-melejit-jelang-putusan-fed
-- CNBC Indonesia: https://www.cnbcindonesia.com/news/20260916054654-4-768217/kpk-bos-summarecon-setor-rp15-m-ke-orang-kepercayaan-nusron-wahid
+- https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html
+- https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html
+- https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html
+- https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html
+- https://www.cnbc.com/2026/09/16/oil-prices-saudi-arabia-east-west-pipeline-iran.html
+- https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html
+- https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html
+- https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html
+- https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html
+- https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html
+- https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html
+- https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html
+- https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html
+- https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html
+- https://www.cnbc.com/2026/09/14/costco-motor-oil-price-limited.html
+- https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html
+- https://www.cnbcindonesia.com/research/20260917041350-128-768539/waspada-the-fed-naikkan-suku-bunga-dolar-ngamuk-bunga-utang-melesat
+- https://www.cnbcindonesia.com/research/20260917032637-128-768538/tok-the-fed-naikkan-suku-bunga-25-bps-isyaratkan-naik-lagi
+- https://www.cnbcindonesia.com/news/20260917062106-4-768543/terungkap-ini-3-prioritas-reformasi-pajak-usai-ditinggal-purbaya
+- https://www.cnbcindonesia.com/news/20260917045915-4-768540/prabowo-sebut-investasi-besar-besaran-segera-masuk-ke-indonesia
+- https://www.cnbcindonesia.com/news/20260917060840-4-768542/bukan-iran-wilayah-arab-jadi-titik-tempur-baru-dunia-ikut-terancam
+- https://www.straitstimes.com/business/us-fed-hikes-rates-sees-more-tightening-in-search-for-timelier-drop-in-inflation
+- https://www.straitstimes.com/business/companies-markets/wall-street-ends-lower-after-fed-hikes-interest-rates-sees-more-tightening-ahead
+- https://www.straitstimes.com/business/us-retail-sales-rebound-sharply-in-august
+- https://www.straitstimes.com/business/bank-of-japan-set-to-raise-rates-under-pressure-from-inflation-us
+- https://www.straitstimes.com/business/bitcoin-under-renewed-pressure-as-looming-fed-hike-adds-to-woes
+- https://www.straitstimes.com/business/largest-south-east-asian-economies-to-grow-by-4-8-over-10-years-dbs-report
+- https://www.straitstimes.com/business/companies-markets/why-keppel-dc-reit-runs-its-data-centres-like-shopping-malls-ceo
+- https://www.straitstimes.com/business/ai-start-up-plaud-opens-regional-headquarters-in-spore-doubles-investment-to-20-million
+- https://www.straitstimes.com/business/sk-hynix-in-talks-with-intel-about-deal-to-make-memory-chips-in-us-for-the-first-time-sources-say
+- https://www.straitstimes.com/business/companies-markets/us-sec-proposes-to-end-shareholder-vote-oversight-a-blow-to-reformers
+- https://business.inquirer.net/611498/exclusion-of-motorcycles-trikes-from-p60-b-incentive-for-evs-questioned
+- https://business.inquirer.net/611414/ai-transforming-not-cutting-ph-outsourcing-jobs-study
+- https://business.inquirer.net/611418/govt-spending-yet-to-pick-up-pace
+- https://business.inquirer.net/611409/dbs-bets-on-strong-ph-growth-rebound-but-flags-energy-risk
+- https://business.inquirer.net/611406/toyota-protests-exclusion-of-hybrid-cars-from-tnvs-slots
+- https://business.inquirer.net/611411/lower-rice-corn-harvests-expected-in-q3
+- https://business.inquirer.net/611407/excise-tax-hikes-seen-to-push-2027-inflation-to-4-5
+- https://e.vnexpress.net/news/business/markets/vietnam-central-bank-sets-record-exchange-rate-against-dollar-5120533.html
+- https://e.vnexpress.net/news/business/property/malaysia-s-eco-world-sets-top-bid-of-163m-for-singapore-housing-site-5120805.html
+- https://e.vnexpress.net/news/business/companies/malaysia-talks-to-rival-airlines-while-monitoring-airasia-s-financial-strain-sources-say-5120939.html
+- https://e.vnexpress.net/news/business/markets/singapore-fuel-prices-spike-over-3-in-10-days-5120896.html
+- https://e.vnexpress.net/news/business/billionaires/vietnam-s-billionaire-headcount-drops-to-7-5120798.html
+- https://www.ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70
+- https://www.ft.com/content/3f9013b1-11a8-4dbd-a985-b0577fd95313
+- https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056

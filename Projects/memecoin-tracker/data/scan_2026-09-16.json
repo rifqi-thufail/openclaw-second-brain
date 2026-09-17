@@ -1,6 +1,6 @@
 {
  "date": "2026-09-16",
- "generated": "2026-09-16T14:03:46.555715+00:00",
+ "generated": "2026-09-16T23:03:39.278264+00:00",
  "threshold": 7,
  "sources": {
   "geckoterminal": 16,
@@ -8,23 +8,103 @@
  },
  "signals": [
   {
-   "ts": "2026-09-16T14:01:07Z",
+   "ts": "2026-09-16T23:00:18Z",
+   "symbol": "PEPENOM",
+   "name": "PEPENOM / SOL",
+   "chain": "solana",
+   "address": "Bd4wKg3xEBKJ4Xrw8skXMmJ4W65gk3x8yd7AovuBJisZ",
+   "url": "https://www.geckoterminal.com/solana/pools/Bd4wKg3xEBKJ4Xrw8skXMmJ4W65gk3x8yd7AovuBJisZ",
+   "source": "geckoterminal",
+   "price": 0.00011784925202763748,
+   "liquidity_usd": 64008.0,
+   "vol_24h": 97238.0,
+   "vol_6h": 8.0,
+   "chg_h1": 0.0,
+   "chg_h6": -1.961,
+   "chg_h24": -23.307,
+   "pullback_pct": 25.5,
+   "pullback_measured": true,
+   "buy_sell_ratio": 3.06,
+   "score": 7,
+   "max_score": 10,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": false,
+    "pullback_15_40": true,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "plan": {
+    "entry": 0.00011785,
+    "stop": 0.00010017,
+    "tp1": 0.00014437,
+    "tp2": 0.00016204,
+    "tsl": "trail runner after TP2"
+   },
+   "risk_usd": 1.5,
+   "note": "paper/signal only, no real funds"
+  },
+  {
+   "ts": "2026-09-16T23:00:20Z",
+   "symbol": "PAID",
+   "name": "PAID / SOL",
+   "chain": "solana",
+   "address": "6e3jZLtf4tQbWZm3f7A66jF8tfZn6MRQVrbDFgcNWarA",
+   "url": "https://www.geckoterminal.com/solana/pools/6e3jZLtf4tQbWZm3f7A66jF8tfZn6MRQVrbDFgcNWarA",
+   "source": "geckoterminal",
+   "price": 0.01319020659989138,
+   "liquidity_usd": 448589.0,
+   "vol_24h": 29559758.0,
+   "vol_6h": 17226.0,
+   "chg_h1": 42.627,
+   "chg_h6": 9.589,
+   "chg_h24": 58.505,
+   "pullback_pct": 35.3,
+   "pullback_measured": true,
+   "buy_sell_ratio": 1.3,
+   "score": 7,
+   "max_score": 10,
+   "checks": {
+    "liquidity_gt_15k": true,
+    "volume_expanding": false,
+    "pullback_15_40": true,
+    "structure_intact": true,
+    "buy_flow_healthy": true,
+    "no_dev_distribution": true,
+    "holder_concentration_ok": true,
+    "prev_runner_activity": true
+   },
+   "plan": {
+    "entry": 0.01319021,
+    "stop": 0.01121168,
+    "tp1": 0.016158,
+    "tp2": 0.01813653,
+    "tsl": "trail runner after TP2"
+   },
+   "risk_usd": 1.5,
+   "note": "paper/signal only, no real funds"
+  },
+  {
+   "ts": "2026-09-16T23:01:28Z",
    "symbol": "EMBER",
    "name": "EMBER / SOL",
    "chain": "solana",
    "address": "GbrDAq3RjcVWeroLDUwmnuQ8N5xaaKj2Rk2dJDg64CLY",
    "url": "https://www.geckoterminal.com/solana/pools/GbrDAq3RjcVWeroLDUwmnuQ8N5xaaKj2Rk2dJDg64CLY",
    "source": "geckoterminal",
-   "price": 0.010274331311182433,
-   "liquidity_usd": 600207.0,
-   "vol_24h": 2962891.0,
-   "vol_6h": 432254.0,
-   "chg_h1": -4.051,
-   "chg_h6": -10.929,
-   "chg_h24": -37.014,
-   "pullback_pct": 35.8,
+   "price": 0.012243235154716097,
+   "liquidity_usd": 639227.0,
+   "vol_24h": 2092347.0,
+   "vol_6h": 1678.0,
+   "chg_h1": 0.0,
+   "chg_h6": 8.324,
+   "chg_h24": 1.966,
+   "pullback_pct": 17.1,
    "pullback_measured": true,
-   "buy_sell_ratio": 1.97,
+   "buy_sell_ratio": 1.52,
    "score": 7,
    "max_score": 10,
    "checks": {
@@ -38,113 +118,33 @@
     "prev_runner_activity": true
    },
    "plan": {
-    "entry": 0.01027433,
-    "stop": 0.00873318,
-    "tp1": 0.01258606,
-    "tp2": 0.01412721,
+    "entry": 0.01224324,
+    "stop": 0.01040675,
+    "tp1": 0.01499796,
+    "tp2": 0.01683445,
     "tsl": "trail runner after TP2"
    },
    "risk_usd": 1.5,
    "note": "paper/signal only, no real funds"
   },
   {
-   "ts": "2026-09-16T14:01:51Z",
-   "symbol": "USELESS",
-   "name": "USELESS / SOL",
-   "chain": "solana",
-   "address": "Q2sPHPdUWFMg7M7wwrQKLrn619cAucfRsmhVJffodSp",
-   "url": "https://www.geckoterminal.com/solana/pools/Q2sPHPdUWFMg7M7wwrQKLrn619cAucfRsmhVJffodSp",
-   "source": "geckoterminal",
-   "price": 0.23601562834332188,
-   "liquidity_usd": 4718558.0,
-   "vol_24h": 2610368.0,
-   "vol_6h": 739004.0,
-   "chg_h1": -2.286,
-   "chg_h6": -1.984,
-   "chg_h24": 15.085,
-   "pullback_pct": 4.7,
-   "pullback_measured": true,
-   "buy_sell_ratio": 1.16,
-   "score": 7,
-   "max_score": 10,
-   "checks": {
-    "liquidity_gt_15k": true,
-    "volume_expanding": true,
-    "pullback_15_40": false,
-    "structure_intact": true,
-    "buy_flow_healthy": true,
-    "no_dev_distribution": true,
-    "holder_concentration_ok": true,
-    "prev_runner_activity": true
-   },
-   "plan": {
-    "entry": 0.23601563,
-    "stop": 0.20061328,
-    "tp1": 0.28911914,
-    "tp2": 0.32452149,
-    "tsl": "trail runner after TP2"
-   },
-   "risk_usd": 1.5,
-   "note": "paper/signal only, no real funds"
-  },
-  {
-   "ts": "2026-09-16T14:02:51Z",
-   "symbol": "ZCAT",
-   "name": "ZCAT / SOL",
-   "chain": "solana",
-   "address": "GuPbekwP9MqB23CghhiMQZTaigPdUJooovo1neCErhM8",
-   "url": "https://www.geckoterminal.com/solana/pools/GuPbekwP9MqB23CghhiMQZTaigPdUJooovo1neCErhM8",
-   "source": "geckoterminal",
-   "price": 0.0879388721604635,
-   "liquidity_usd": 1219173.0,
-   "vol_24h": 2832801.0,
-   "vol_6h": 542326.0,
-   "chg_h1": -11.624,
-   "chg_h6": -8.154,
-   "chg_h24": -11.648,
-   "pullback_pct": 16.4,
-   "pullback_measured": true,
-   "buy_sell_ratio": 3.17,
-   "score": 7,
-   "max_score": 10,
-   "checks": {
-    "liquidity_gt_15k": true,
-    "volume_expanding": false,
-    "pullback_15_40": true,
-    "structure_intact": true,
-    "buy_flow_healthy": true,
-    "no_dev_distribution": true,
-    "holder_concentration_ok": true,
-    "prev_runner_activity": true
-   },
-   "plan": {
-    "entry": 0.08793887,
-    "stop": 0.07474804,
-    "tp1": 0.10772512,
-    "tp2": 0.12091595,
-    "tsl": "trail runner after TP2"
-   },
-   "risk_usd": 1.5,
-   "note": "paper/signal only, no real funds"
-  },
-  {
-   "ts": "2026-09-16T14:03:46Z",
+   "ts": "2026-09-16T23:03:16Z",
    "symbol": "fone",
    "name": "fone / SOL",
    "chain": "solana",
    "address": "3dcwhqJp6JBTJPq8ga335HWgSQVS7uQmdmeX7iGjMNpj",
    "url": "https://www.geckoterminal.com/solana/pools/3dcwhqJp6JBTJPq8ga335HWgSQVS7uQmdmeX7iGjMNpj",
    "source": "geckoterminal",
-   "price": 0.004908092994819055,
-   "liquidity_usd": 461575.0,
-   "vol_24h": 904543.0,
-   "vol_6h": 139780.0,
-   "chg_h1": -1.089,
-   "chg_h6": 5.299,
-   "chg_h24": -19.755,
-   "pullback_pct": 17.5,
+   "price": 0.004164771028571624,
+   "liquidity_usd": 430300.0,
+   "vol_24h": 489231.0,
+   "vol_6h": 1401.0,
+   "chg_h1": -2.107,
+   "chg_h6": -13.547,
+   "chg_h24": -16.886,
+   "pullback_pct": 24.8,
    "pullback_measured": true,
-   "buy_sell_ratio": 1.23,
+   "buy_sell_ratio": 1.21,
    "score": 7,
    "max_score": 10,
    "checks": {
@@ -158,10 +158,10 @@
     "prev_runner_activity": true
    },
    "plan": {
-    "entry": 0.00490809,
-    "stop": 0.00417188,
-    "tp1": 0.00601241,
-    "tp2": 0.00674863,
+    "entry": 0.00416477,
+    "stop": 0.00354006,
+    "tp1": 0.00510184,
+    "tp2": 0.00572656,
     "tsl": "trail runner after TP2"
    },
    "risk_usd": 1.5,
@@ -170,38 +170,18 @@
  ],
  "rejected": [
   {
-   "symbol": "PEPENOM",
-   "score": 6,
-   "source": "geckoterminal"
-  },
-  {
-   "symbol": "PAID",
-   "score": 6,
-   "source": "geckoterminal"
-  },
-  {
    "symbol": "ELON",
    "score": 6,
    "source": "geckoterminal"
   },
   {
    "symbol": "CATE",
-   "score": 6,
-   "source": "geckoterminal"
-  },
-  {
-   "symbol": "ALLINU",
-   "score": 6,
-   "source": "geckoterminal"
-  },
-  {
-   "symbol": "HUHCAT",
-   "score": 6,
-   "source": "geckoterminal"
-  },
-  {
-   "symbol": "SCRIBE",
    "score": 5,
+   "source": "geckoterminal"
+  },
+  {
+   "symbol": "ZCAT",
+   "score": 6,
    "source": "geckoterminal"
   },
   {
@@ -210,22 +190,42 @@
    "source": "geckoterminal"
   },
   {
-   "symbol": "ANSEM",
+   "symbol": "ALLINU",
    "score": 5,
    "source": "geckoterminal"
   },
   {
+   "symbol": "POT",
+   "score": 6,
+   "source": "geckoterminal"
+  },
+  {
+   "symbol": "USELESS",
+   "score": 6,
+   "source": "geckoterminal"
+  },
+  {
+   "symbol": "TRUMP",
+   "score": 6,
+   "source": "geckoterminal"
+  },
+  {
+   "symbol": "lockinu",
+   "score": 6,
+   "source": "geckoterminal"
+  },
+  {
+   "symbol": "OTC",
+   "score": 6,
+   "source": "geckoterminal"
+  },
+  {
    "symbol": "ANSEM",
    "score": 6,
    "source": "geckoterminal"
   },
   {
-   "symbol": "RAY",
-   "score": 6,
-   "source": "geckoterminal"
-  },
-  {
-   "symbol": "POT",
+   "symbol": "PUMP",
    "score": 6,
    "source": "geckoterminal"
   }
