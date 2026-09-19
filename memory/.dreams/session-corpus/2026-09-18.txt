@@ -1,3 +1,5 @@
 [main/sessions/main/0b6633f9-1200-4075-9f8f-6b272234b965#L6] Assistant: I'll start by running the data collection scripts.
 [main/sessions/main/0b6633f9-1200-4075-9f8f-6b272234b965#L24] Assistant: I have what I need. Writing the briefing now.
 [main/sessions/main/0b6633f9-1200-4075-9f8f-6b272234b965#L32] Assistant: Daily briefing delivered: PDF (output/briefing_2026-09-18.pdf), Telegram message with 6 charts (daily change/trend, ASEAN weekly change/trend, rupiah), sent to 2 chats, all HTTP 200. Data gaps this run: - Index fetch failed for VN-Index (Yahoo 404/delisted). SET (Thail
+[main/sessions/main/674f5647-6829-4fb6-b6da-17239fce5c4f#L6] Assistant: I'll run the archive script.
+[main/sessions/main/674f5647-6829-4fb6-b6da-17239fce5c4f#L8] Assistant: ARCHIVE_OK
