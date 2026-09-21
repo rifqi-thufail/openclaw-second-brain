@@ -1,2 +1,3 @@
 [main/sessions/main/1e620072-2f6a-45c6-ab62-14f0621f1d27#L6] Assistant: I'll run the finance briefing pipeline now.
 [main/sessions/main/1e620072-2f6a-45c6-ab62-14f0621f1d27#L29] Assistant: Finance daily briefing delivered for 2026-09-20: PDF (briefing_2026-09-20.pdf), Telegram message, and 6 charts to 2 chats (200 OK each). Data gaps: SET (Thailand), PSEi (Philippines) and VN-Index (Vietnam) skipped, insufficient price data. ASEAN CDS peers (MY, TH, PH, 
+[main/sessions/main/134421d2-1273-45e5-af12-8650ff3f81ad#L8] Assistant: ARCHIVE_OK
