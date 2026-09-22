@@ -1,2 +1,3 @@
 [main/sessions/main/913b5305-327c-43ff-8f3e-49c8bb5898ac#L6] Assistant: I'll run the finance briefing pipeline now.
 [main/sessions/main/913b5305-327c-43ff-8f3e-49c8bb5898ac#L48] Assistant: Briefing delivered: PDF (briefing_2026-09-21.pdf) + Telegram message + 6 charts (daily change, daily trend, weekly change, weekly trend, rupiah) sent to both chat targets, all HTTP 200. Data gaps this run: SET Thailand, PSEi Philippines and VN-Index had no price data (
+[main/sessions/main/2b75783f-0379-42e6-9f29-bcbeea946c25#L8] Assistant: ARCHIVE_OK

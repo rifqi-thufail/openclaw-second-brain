@@ -1,0 +1,2 @@
+[main/sessions/main/6089b884-a0b1-40f2-9068-7e152035b8aa#L6] Assistant: I'll run the finance briefing pipeline now.
+[main/sessions/main/6089b884-a0b1-40f2-9068-7e152035b8aa#L18] Assistant: Briefing delivered for 2026-09-22: analysis.md written, PDF at output/briefing_2026-09-22.pdf, Telegram message plus 6 charts (daily change/trend, weekly change/trend, rupiah) sent to both recipients (200 OK on all parts). Data gaps: VN-Index fetch failed (404, symbol 
