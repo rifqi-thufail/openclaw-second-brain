@@ -1,105 +1,129 @@
 # Executive Summary
 
-- US equities rallied hard Monday: S&P 500 +1.49% to 7,764.70, Nasdaq +2.26% to 27,122.09, Dow +0.71% to 52,048.83. But breadth is fragile: about 60% of S&P 500 members are more than 20% below their all-time highs.
-- Meta led the tape (+12% in one session, best month in 13 years) on its Muse AI agent, with 2.5m downloads in 13 days. AMC reached $1trn market cap intraday, the 14th US company to do so.
-- Oil reversed lower: US crude fell back below $100 after Trump said he is open to talking to Iran at the UN. Brent sank on speculation of a Trump-Pezeshkian meeting this week.
-- Diesel remains the pressure point: record $6.31/gallon, Republicans pushing Trump to ban US diesel exports. Energy costs are feeding through to transport and consumer costs (estimated $1,700 per household from oil and rates).
-- Indonesia is the regional laggard. JCI 6,441.16 (-0.33% d/d, -1.43% w/w), 10Y yield 7.14%, 5Y CDS 81.78bps. New finance minister Nazara faces a fiscal credibility test, with MSCI overhang.
-- ASEAN was mixed and soft: STI -0.08% w/w -1.08%, KLCI -0.55% w/w -1.26%, Hang Seng +0.60% w/w -0.67%. Nikkei +1.38% w/w +2.40% after the BoJ hike.
-- Rupiah sits at 17,808/USD, up 0.81% over the week. That is the single most important variable for Indonesian assets into the week.
+- Oil is the dominant macro variable and it is falling. US crude dropped back below $100 on Tuesday after Trump said the US met Iran for three hours and that he is open to talks at the UN. Iran reportedly says it can reopen the Strait of Hormuz within 7 days if US military pressure eases.
+- US equities are resilient but divergent. Nasdaq Composite +0.45% to 27,244.28 (+4.87% w/w) on the AI and tech bid, while Dow -0.36% to 51,863.69 and S&P 500 flat at 7,764.64. Breadth is narrow: the rally is concentrated in tech.
+- The Fed is tightening, not easing. Markets price a better than 92% probability of a rate hike, with more than 75% odds of another in December. Warsh faces a divided committee. The Bank of England refused to follow, holding rates as UK inflation hit 3.1%.
+- Indonesia is the regional laggard and the highest-beta name in ASEAN. JCI closed 6,384.73 on 21 Sep, -0.88% d/d and -1.18% w/w. All eyes are on Bank Indonesia and the rupiah, with investors described as wary.
+- Rupiah weakness is the primary transmission channel. USD/IDR at 17,846, +0.22% d/d and +1.02% w/w. Every 100 rupiah of depreciation feeds imported inflation and raises the cost of servicing USD debt.
+- Indonesia's fiscal arithmetic is deteriorating. The government now projects the 2026 budget deficit could breach 3% of GDP, in a 2.9% to 3.1% range, driven by high oil prices and rupiah weakness.
+- ASEAN breadth is mixed. STI 5,675.23 (+0.34%, +0.65% w/w) and KLCI 1,666.94 (+0.08%, -1.83% w/w) are flat to soft; Singapore Q2 layoffs hit the highest level since 2020, a warning on the regional growth engine.
 
 # Top Stories
 
-## Meta leads tech rally as oil prices fall | FT
+## Oil extends slump on Iran talks optimism, Saudi pipeline restart | The Edge Singapore
 
-Insight: Meta surged 12% Monday and is on its best monthly run in 13 years. Muse, its personal AI agent, logged 2.5m downloads in 13 days and 730k in the first five. Options volume is surging as investors re-rate Meta as a consumer AI play, not just an ad platform. This single name is carrying Nasdaq breadth while 60% of the S&P 500 sits more than 20% below highs.
+Insight: Crude has fallen for five consecutive sessions. The two drivers are improving US-Iran diplomacy and the restart of the Saudi pipeline, which the market now reads as less disruptive than feared. US crude broke back below $100. A fifth straight down day in oil removes the single largest inflation tail risk for Asian importers, but it also signals that the market does not believe the supply disruption is durable.
 
-Action: Treat this as a momentum trade with a narrow base. Prefer expressing AI exposure via names with monetisable products (Meta, AMD, GE Vernova) rather than broad index beta.
+Action: Reduce hedge ratios on energy-cost exposure if you added them on the Hormuz scare. For Indonesian and Indian refiners, falling crude with a weak local currency is a margin negative, so prefer integrated names over pure downstream.
 
-Source: https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626
+Source: https://www.theedgesingapore.com/news/highlight/oil-extends-slump-iran-talks-optimism-saudi-pipeline-restart
 
-## U.S. crude oil tumbles back below $100 after Trump says he's open to talking to Iran at UN | CNBC
+## US and Iran hold first talks since June as Trump threatens annihilation | FT
 
-Insight: Crude gave back gains on diplomatic headlines, but the Saudi East-West pipeline shutdown still squeezes Asian importers, with South Korea most directly exposed. Diesel at an all-time high of $6.31/gallon is the real inflationary channel and is already hitting trucking and rail economics.
+Insight: Witkoff and Kushner met the Iranian delegation on the sidelines of the UN gathering, described as a good meeting. This is the first US-Iran contact since June. It is the single largest risk-on catalyst available to markets this week, and it is also fragile: Trump is simultaneously threatening annihilation and warning of no-deal consequences. A confirmed Trump-Pezeshkian meeting would likely push oil materially lower and lift risk assets broadly.
 
-Action: Fade the oil spike only if a Trump-Pezeshkian meeting is confirmed. Keep diesel-exposed cost hedges on. Watch Asian refiners (Korea, India) for margin compression.
+Action: Position for a binary outcome. A confirmed meeting argues for fading the oil premium and adding ASEAN risk; a breakdown argues for reinstating energy hedges quickly. Do not take full directional exposure before the UN session resolves.
 
-Source: https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html
-
-## 'Stop the bleeding': Republicans tell Trump to ban US diesel exports | FT
-
-Insight: A diesel export ban is now in play as a policy tail risk. If enacted, it would tighten global distillate markets, hit European and Latin American buyers, and re-ignite crude spreads. Trump separately pressed Zelenskyy to stop hitting Russian refineries, saying it is "diesel, diesel, diesel".
-
-Action: Monitor US distillate policy headlines as a two-sided catalyst. Long distillate crack exposure or a diesel export ban would widen US-Europe diesel arbitrage.
-
-Source: https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180
+Source: https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e
 
 ## Indonesia's new finance minister faces an uphill battle on fiscal credibility | CNBC
 
-Insight: Nazara was sworn in hours after Purbaya's dismissal, after seven years as deputy finance minister. The market read the reshuffle as a fiscal credibility risk, and it lands against an MSCI review backdrop. JCI is down 1.43% on the week and the 5Y CDS at 81.78bps shows the cost of that doubt.
+Insight: Nazara was sworn in hours after Purbaya's dismissal, after seven years as deputy finance minister and having led the fiscal policy agency from 2015 to 2019. The reshuffle was read by the market as a fiscal credibility risk and lands against an MSCI review backdrop. JCI is down 1.18% on the week, and the 5Y CDS at 81.78bps shows the price of that doubt. The new government projection that the deficit could reach 2.9% to 3.1% of GDP, breaching the 3% legal ceiling, is the core of the credibility test.
 
-Action: Wait for Nazara's first concrete budget signal before adding Indonesian risk. A credible deficit path plus stable rupiah is the required trigger.
+Action: Treat Indonesian sovereign risk as event-driven around fiscal announcements. Prefer short-duration IDR exposure over long-end duration until the deficit path is clarified. Watch for reassurance on the 3% ceiling.
 
 Source: https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html
 
-## AMD hits a major milestone as AI stocks blaze higher | MarketWatch
+## Alram Defisit APBN Menyala, Ekonom Warning Bisa Tembus 3,1% | CNBC Indonesia
 
-Insight: AMD became the 14th US company to top $1trn market cap intraday. This is a narrow, valuation-driven AI melt-up. CNBC flagged a market condition not seen since 1999, a warning that gains are concentrated even as the index makes highs.
+Insight: The government itself now forecasts the 2026 state budget deficit could exceed 3% of GDP, in a 2.9% to 3.1% range, caused by high oil prices and rupiah weakness. Economists warn it could reach 3.1%. This is a direct fiscal-monetary interaction: a weak rupiah raises the local-currency cost of fuel subsidies and USD debt service, which widens the deficit, which pressures the rupiah further. It is a reflexive loop.
 
-Action: Respect the trend but keep position sizing disciplined. Buy-the-dip logic works in a narrow tape only while earnings follow through.
+Action: Monitor the deficit outcome as the key input to both the 10Y yield and CDS. A print at or above 3.1% would likely widen spreads and force Bank Indonesia to defend the currency with higher rates, which would be negative for JCI cyclicals.
 
-Source: https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df
+Source: https://www.cnbcindonesia.com/news/20260923052113-4-770048/alram-defisit-apbn-menyala-ekonom-warning-bisa-tembus-31
 
-## Bank of England defies Fed's rate-hike lead, leaving rates unchanged | CNBC
+## Semua Mata Tertuju ke BI: Investor Was-Was, IHSG - Rupiah Bikin Cemas | CNBC Indonesia
 
-Insight: The BoE held rates even after UK inflation rose to 3.1%, with energy costs pressuring prices. The Fed is in a hiking cycle (92%+ probability of a hike priced, 75%+ for a second in December), so the policy divergence is widening. Japan's BoJ hike produced the opposite of the textbook move: yen weakened past 157, JGB 10Y yield slipped, Nikkei gained 1.5%.
+Insight: Indonesian financial markets came under renewed pressure on Tuesday 22 September, with all attention on Bank Indonesia and investors explicitly described as anxious about both the JCI and the rupiah. This is the clearest signal that the market is pricing BI policy risk rather than growth risk. With the Fed expected to hike, BI faces a choice between defending the currency and supporting domestic demand.
 
-Action: Dollar strength stays intact against G10. Underweight unhedged UK duration; watch JGB term premium for global yield spillover.
+Action: Position for a hawkish BI bias as the base case. An unexpected hold would likely weaken the rupiah further and hit JCI; a hike would stabilize the currency at the cost of near-term equity multiples. Reduce exposure to rate-sensitive Indonesian sectors ahead of the decision.
 
-Source: https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html
+Source: https://www.cnbcindonesia.com/research/20260922190423-128-770035/semua-mata-tertuju-ke-bi-investor-was-was-ihsg--rupiah-bikin-cemas
+
+## Vietnam, US close to reaching reciprocal trade agreement | VnExpress
+
+Insight: Vietnam and the US are close to a reciprocal trade agreement. This matters because Vietnam is the largest beneficiary of supply-chain relocation out of China, and a formal deal would lock in preferential access to the US market that no other ASEAN economy currently holds at this depth. It is a relative-competitiveness shift within ASEAN.
+
+Action: Watch Vietnamese export manufacturers and industrial park operators as the direct beneficiaries. This strengthens the case for overweighting Vietnam within an ASEAN allocation versus Thailand and the Philippines, where the pipeline is thinner.
+
+Source: https://e.vnexpress.net/news/business/economy/vietnam-us-close-to-reaching-reciprocal-trade-agreement-5123167.html
+
+## What Xi wants from his summit with Trump | FT
+
+Insight: Xi's most urgent goal for the summit is extending the trade truce with the US, and he is also expected to discuss Taiwan, Iran and AI. Extended truce is the base case and is already partly priced. The asymmetry is in AI and Taiwan: any movement there resets the semiconductor and rare-earth complex, and rare-earth stocks are explicitly described as hinging on the Trump-Xi outcome.
+
+Action: Hold exposure to China-exposed industrials and rare-earth names around the summit but size for volatility. A truce extension is a mild positive for Asian risk; an AI or Taiwan escalation is a significant negative for the semiconductor supply chain.
+
+Source: https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e
+
+## Counting the votes: Warsh faces a tough battle as the Fed girds for expected rate hike | CNBC
+
+Insight: Traders were pricing a better than 92% probability of a rate increase, plus more than 75% odds of another in December. Warsh faces a divided committee, which means the distribution of outcomes around the decision is wider than the headline probability suggests. US inflation is running at 3.4% year on year against wage growth of 3.1%, so real incomes are falling, and the consumer outlook index fell 7.5% month on month to 47.8.
+
+Action: Position for a hawkish Fed as the base case but respect the tail. Higher US rates with a falling oil price is a mixed signal, bearish for duration and supportive for the dollar, which is directly negative for the rupiah and other ASEAN currencies.
+
+Source: https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html
+
+## Singapore's Q2 layoffs climb to highest since 2020 | VnExpress
+
+Insight: Singapore's Q2 layoffs rose to the highest level since 2020. Singapore is the regional financial and services hub, so a labour-market deterioration there is a leading indicator for ASEAN services demand. It comes alongside flat STI performance at 5,675.23 (+0.65% w/w) and falling bunker sales despite more vessels arriving, which signals trade volumes, not just trade traffic.
+
+Action: Trim exposure to Singapore domestic cyclicals and labour-sensitive services. The bunker-sales data point is a genuine trade-volume warning for the region.
+
+Source: https://e.vnexpress.net/news/business/economy/singapore-s-q2-layoffs-climb-to-highest-since-2020-5122912.html
 
 # ASEAN Focus
 
-- Singapore: STI 5,656.11, -0.08% d/d and -1.08% w/w. Flat but drifting lower. Straits markets are the defensive leg of ASEAN here, helped by a strong SGD and financials.
-- Malaysia: KLCI 1,665.56, -0.55% d/d and -1.26% w/w. Weakest regional trend alongside Indonesia. MY CDS data fetch failed today, so external risk pricing for Malaysia is unavailable.
-- Indonesia: JCI 6,441.16, -0.33% d/d, -1.43% w/w. The worst weekly performer in the set. See Indonesia Focus below.
-- Philippines: PSEi data unavailable today (insufficient data from the source). No level to report.
-- Vietnam: VN-Index data unavailable today (symbol fetch returned 404 / delisted error). No level to report.
-- Thailand: SET data unavailable today (insufficient data). No level to report.
-- Regional read: North Asia (Nikkei +2.40% w/w, Hang Seng -0.67% w/w) is outperforming ASEAN. Rotation is staying in AI and Japan, not in Southeast Asia. Watch for ASEAN catch-up only if the dollar softens and the Fed hike path gets repriced.
+- Singapore: STI 5,675.23, +0.34% d/d, +0.65% w/w. The index is flat but the data underneath is deteriorating: Q2 layoffs at the highest since 2020, and bunker sales fell in August even as more vessels arrived in port.
+- Malaysia: KLCI 1,666.94, +0.08% d/d, -1.83% w/w. Malaysia is the weakest ASEAN weekly performer in this dataset, and it is a net oil exporter, so the five-day oil slide is a direct earnings headwind.
+- Indonesia: JCI 6,384.73, -0.88% d/d, -1.18% w/w. The regional laggard. Rupiah at 17,846/USD, +1.02% w/w, and the 2026 deficit now projected at 2.9% to 3.1% of GDP. The highest-beta macro story in ASEAN right now.
+- Philippines: No index data available this run (PSEi fetch returned insufficient data). Treat as a data gap. The Philippines is a net oil importer, so the crude decline is a macro positive that is not reflected in any index print here.
+- Vietnam: No index data available this run (VN-Index fetch failed with a 404, symbol not found). Fundamentally the relative winner: Vietnam and the US are close to a reciprocal trade agreement, which locks in supply-chain relocation advantage.
+- Thailand: No index data available this run (SET fetch returned insufficient data). Thailand is a net oil importer, so lower crude is a tailwind, but the lack of index data prevents a quantified read.
 
 # Indonesia Focus
 
-- JCI: 6,441.16, down 0.33% on the day and 1.43% on the week. Trend is lower, and the index has given back roughly 1.4% from its 14 September level. JCI is the weakest major ASEAN benchmark in this snapshot.
-- 10Y government bond yield: 7.14%. Direction is elevated versus a low-7% anchor and consistent with fiscal credibility concerns after the finance minister change.
-- 5Y CDS: 81.78bps. Elevated for Indonesia's historical range, reflecting the market's repricing of political and fiscal risk.
-- Rupiah: 17,808/USD, +0.01% d/d and +0.81% over the week, so the currency is weakening. A weaker rupiah plus a 7.14% 10Y yield is the classic stress pairing: it raises the cost of defending the currency and pressures foreign bond holdings.
-- Market-moving risk to watch: the finance minister transition (Nazara sworn in after Purbaya's dismissal) combined with the MSCI review is the dominant near-term trigger. Any statement that widens the deficit outlook, or an MSCI downgrade headline, would hit the JCI and the rupiah together. Oil is the second channel: Indonesia is a net importer, so a sustained crude move above $100 widens the trade deficit and pressures the rupiah further. Bank Indonesia policy is the third: BI must choose between defending the currency and supporting growth.
+- JCI level and trend: 6,384.73 as of 21 Sep, down 0.88% d/d and down 1.18% w/w. The five-day normalized series shows a steady bleed from 100.0 on 15 Sep to 98.8 on 21 Sep. Trend is negative and underperforming both the STI and the Nasdaq.
+- 10Y government bond yield direction: 7.14%. The yield is at an elevated level and the direction of risk is upward, driven by the projected deficit breach of the 3% ceiling, rupiah weakness of 1.02% over the week, and an expected Fed hike that widens the US-Indonesia rate differential against the rupiah.
+- 5Y CDS level and direction: 81.78bps. The level is contained for now but the direction of risk is wider. The combination of a fiscal credibility question at the finance ministry, a deficit potentially above 3% of GDP, and an MSCI review backdrop argues for spread widening if fiscal messaging disappoints.
+- News that could move the Indonesian market significantly: Bank Indonesia policy is the dominant near-term catalyst, with investors explicitly anxious about both the JCI and the rupiah ahead of the decision. A hawkish hold or hike stabilizes the currency but pressures rate-sensitive equities. The secondary catalyst is the fiscal deficit print: a 3.1% outcome would widen CDS and force BI's hand. Third, any confirmed US-Iran de-escalation lowers oil, which helps Indonesia's subsidy arithmetic but weakens the terms of trade for the energy sector.
 
 # Risks & Catalysts
 
-- Fed hiking cycle: 92%+ probability of a hike priced, 75%+ for a second in December. A hawkish outcome pushes the dollar higher and hurts rupiah and JCI.
-- Diesel export ban debate in the US: live policy tail risk that can re-ignite global distillate and crude spreads.
-- Iran war path: a Trump-Pezeshkian meeting would be risk-positive and oil-negative. A breakdown would reverse both moves hard.
-- Saudi East-West pipeline shutdown: still unresolved; Asian crude importers are exposed, South Korea most directly.
-- Narrow AI-led US rally: 60% of S&P 500 names are more than 20% below highs, a breadth condition not seen since 1999. Correction risk is elevated even at index highs.
-- Indonesia fiscal credibility: finance minister transition plus MSCI review is the key idiosyncratic risk for the region.
-- Data gaps today: Malaysia/Thailand/Philippines/Vietnam external risk pricing (CDS) unavailable, and Vietnam, Thailand, Philippines index levels unavailable. Treat ASEAN ex-SG/MY/ID comparisons as incomplete.
+- US-Iran diplomacy is binary and this week. A confirmed Trump-Pezeshkian meeting would push oil lower and lift risk assets broadly; a breakdown re-ignites the energy shock and reverses the five-day crude slump.
+- Fed rate hike is near-certain but the December follow-up is only 75% priced. A hawkish surprise strengthens the dollar, which is directly negative for the rupiah and the 10Y Indonesian yield.
+- Indonesia fiscal credibility is the key idiosyncratic risk. The government's own 2.9% to 3.1% deficit projection breaches the 3% ceiling, and the new finance minister is untested with the market. CDS at 81.78bps is the cleanest way to monitor this.
+- Bank Indonesia policy decision overhangs JCI and the rupiah. Positioning is anxious, which means the reaction function could be non-linear in either direction.
+- Trump-Xi summit outcome on trade truce, AI and rare earths. A truce extension is the base case; an escalation on AI or Taiwan would reset the regional semiconductor complex.
+- Data gaps are a real analytical risk this run: VN-Index, SET, PSEi and all non-Indonesian ASEAN CDS and yield series failed to fetch, so the ASEAN read relies on index levels and qualitative news only.
 
 # Sources
 
-- https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626
-- https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html
-- https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180
+- https://www.theedgesingapore.com/news/highlight/oil-extends-slump-iran-talks-optimism-saudi-pipeline-restart
+- https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e
 - https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html
-- https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df
-- https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html
-- https://www.cnbc.com/2026/09/21/saudi-pipeline-closure-asia-oil-import-korea.html
-- https://www.cnbc.com/2026/09/21/stocks-had-a-great-day-on-the-surface-but-something-alarming-occurred-not-seen-since-1999.html
-- https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d
-- https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html
-- https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html
+- https://www.cnbcindonesia.com/news/20260923052113-4-770048/alram-defisit-apbn-menyala-ekonom-warning-bisa-tembus-31
+- https://www.cnbcindonesia.com/research/20260922190423-128-770035/semua-mata-tertuju-ke-bi-investor-was-was-ihsg--rupiah-bikin-cemas
+- https://e.vnexpress.net/news/business/economy/vietnam-us-close-to-reaching-reciprocal-trade-agreement-5123167.html
+- https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e
 - https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html
-- https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html
-- https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html
-- https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html
+- https://e.vnexpress.net/news/business/economy/singapore-s-q2-layoffs-climb-to-highest-since-2020-5122912.html
+- https://www.cnbc.com/2026/09/22/iran-us-oil-prices-crude-saudi-arabia-.html
+- https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html
+- https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html
+- https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html
+- https://www.cnbc.com/2026/09/16/hertz-uk-august-inflation-energy-gasoline.html
+- https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main
+- https://finance.yahoo.com/energy/articles/crude-prices-sink-larger-flows-153518210.html
+- https://www.cnbcindonesia.com/news/20260922174903-4-770009/kemajuan-china-kini-robot-dan-ai-di-mana-mana
+- https://e.vnexpress.net/news/business/billionaires/indonesia-s-richest-man-world-s-biggest-wealth-loser-in-a-day-5123375.html
