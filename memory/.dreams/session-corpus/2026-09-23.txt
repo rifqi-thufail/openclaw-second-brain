@@ -1,3 +1,4 @@
 [main/sessions/main/aaec4433-802e-4b7b-825c-95da3a402244#L6] Assistant: I'll run the finance briefing pipeline now.
 [main/sessions/main/aaec4433-802e-4b7b-825c-95da3a402244#L22] Assistant: Now I have full parser semantics. Writing the analysis.
 [main/sessions/main/aaec4433-802e-4b7b-825c-95da3a402244#L26] Assistant: Delivered finance-daily briefing for 2026-09-23: analysis.md (7 exec bullets, 9 top stories with Insight/Action/Source, ASEAN + Indonesia focus, risks), PDF briefing_2026-09-23.pdf, and 6 charts (change, trend, weekly_change, weekly_trend, rupiah) to both Telegram targ
+[main/sessions/main/83540701-4082-4a7d-99e1-6498aab821e6#L8] Assistant: ARCHIVE_OK

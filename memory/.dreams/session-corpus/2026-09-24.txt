@@ -1,0 +1,3 @@
+[main/sessions/main/806aab15-20db-4331-9d60-c3ff28513bb1#L6] Assistant: I'll run the finance briefing pipeline now.
+[main/sessions/main/806aab15-20db-4331-9d60-c3ff28513bb1#L25] Assistant: I have the data. Now writing the briefing.
+[main/sessions/main/806aab15-20db-4331-9d60-c3ff28513bb1#L29] Assistant: Briefing delivered for 2026-09-24: 2-page PDF (briefing_2026-09-24.pdf) plus Telegram message and 6 charts to 2 chats, all HTTP 200. Data gaps: PSEi (Philippines), SET (Thailand) and VN-Index (Vietnam) indices failed to fetch (VN-Index HTTP 404 symbol not found; SET/PS
