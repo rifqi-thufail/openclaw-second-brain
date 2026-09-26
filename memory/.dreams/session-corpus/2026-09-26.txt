@@ -1,0 +1,2 @@
+[main/sessions/main/29cf0802-f8d0-4fe8-a63b-271a86e75575#L6] Assistant: I'll run the finance briefing pipeline now.
+[main/sessions/main/29cf0802-f8d0-4fe8-a63b-271a86e75575#L33] Assistant: Briefing delivered: 2-page PDF (briefing_2026-09-26.pdf) plus text summary, 6 charts (daily change/trend, weekly change/trend, rupiah, Indonesia focus) sent to both Telegram chats (200 OK on all). Data gaps this run: - Dow Jones (^DJI) fetch failed (404/delisted), so n
