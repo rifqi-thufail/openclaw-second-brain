@@ -61,14 +61,17 @@ def parse_analysis(path):
     return out
 
 def idn_block(market_file):
-    """Indonesia data: JCI from markets, 10Y yield + CDS from idn json."""
-    out = {"jci": None, "yield": None, "cds": None}
+    """Indonesia + Malaysia data: JCI/KLCI from markets, 10Y yield + CDS from idn json."""
+    out = {"jci": None, "yield": None, "cds": None, "klci": None, "my_yield": None}
     date = datetime.date.today().isoformat()
     with open(market_file) as f:
         md = json.load(f)
     if "^JKSE" in md["markets"]:
         v = md["markets"]["^JKSE"]
         out["jci"] = (v["close"], v["chg_pct"])
+    if "^KLSE" in md["markets"]:
+        v = md["markets"]["^KLSE"]
+        out["klci"] = (v["close"], v["chg_pct"], v.get("wk_chg_pct"))
     idn_path = os.path.join(BASE, "data", f"idn_{date}.json")
     if os.path.exists(idn_path):
         with open(idn_path) as f:
@@ -131,12 +134,34 @@ def build(market_file, analysis_file, pdf_path):
             else:
                 el.append(Paragraph(ln, st["body"]))
     for name, lines in a["sections"].items():
-        if name == "Indonesia Focus":
-            continue  # rendered below with data table
+        if name in ("Indonesia Focus", "Malaysia Focus"):
+            continue  # rendered below with data tables
         el.append(Paragraph(name, st["h2"]))
         for ln in lines:
             el.append(Paragraph(f"&bull; {ln}", st["bullet"]))
-    # Indonesia Focus (bullets from analysis + data-driven table)
+    # Malaysia Focus (bullets from analysis + data-driven table) - rendered BEFORE Indonesia Focus
+    if "Malaysia Focus" in a["sections"] or idn["klci"]:
+        el.append(Paragraph("Malaysia Focus", st["h2"]))
+        for ln in a["sections"].get("Malaysia Focus", []):
+            el.append(Paragraph(f"&bull; {ln}", st["bullet"]))
+        mrows = [["Indicator", "Value"]]
+        if idn["klci"]:
+            close, chg, wchg = idn["klci"]
+            c = RED if chg < 0 else DARK
+            wk = f" (wk {wchg:+.2f}%)" if wchg is not None else ""
+            mrows.append(["KLCI (FTSE Bursa Malaysia)", Paragraph(f'{close:,.2f} (<font color="{c}">{chg:+.2f}%</font>){wk}', st["body"])])
+        mrows.append(["Currency", "MYR (ringgit) - see ASEAN Focus"])
+        mt = Table(mrows, colWidths=[70 * mm, 55 * mm])
+        mt.setStyle(TableStyle([
+            ("FONTNAME", (0, 0), (-1, 0), "Helvetica-Bold"),
+            ("FONTSIZE", (0, 0), (-1, -1), 8.5),
+            ("TEXTCOLOR", (0, 0), (-1, 0), NAVY),
+            ("ROWBACKGROUNDS", (0, 1), (-1, -1), [colors.white, colors.HexColor("#f2f5f8")]),
+            ("GRID", (0, 0), (-1, -1), 0.4, colors.HexColor("#cccccc")),
+            ("TOPPADDING", (0, 0), (-1, -1), 3), ("BOTTOMPADDING", (0, 0), (-1, -1), 3),
+        ]))
+        el.append(mt)
+    # Indonesia Focus (bullets from analysis + data-driven table + rupiah chart)
     if "Indonesia Focus" in a["sections"] or idn["jci"] or idn["yield"] or idn["cds"]:
         el.append(Paragraph("Indonesia Focus", st["h2"]))
         for ln in a["sections"].get("Indonesia Focus", []):
@@ -150,6 +175,11 @@ def build(market_file, analysis_file, pdf_path):
             irows.append(["10Y Govt Bond Yield", f"{idn['yield']:.2f}%"])
         if idn["cds"]:
             irows.append(["5Y CDS (bps)", f"{idn['cds']:.2f}"])
+        # rupiah line in the indicator table (from markets fx block)
+        fxm = md.get("fx")
+        if fxm:
+            c = RED if fxm.get("wk_chg_pct", 0) > 0 else DARK
+            irows.append(["USD/IDR (Rupiah)", Paragraph(f'{fxm["close"]:,.0f} (<font color="{c}">{fxm["wk_chg_pct"]:+.2f}% wk</font>)', st["body"])])
         if len(irows) > 1:
             it = Table(irows, colWidths=[70 * mm, 55 * mm])
             it.setStyle(TableStyle([
@@ -161,6 +191,11 @@ def build(market_file, analysis_file, pdf_path):
                 ("TOPPADDING", (0, 0), (-1, -1), 3), ("BOTTOMPADDING", (0, 0), (-1, -1), 3),
             ]))
             el.append(it)
+        # rupiah chart inside the Indonesia Focus section
+        rp = os.path.join(BASE, "output", "charts", "rupiah.png")
+        if os.path.exists(rp):
+            el.append(Spacer(1, 3))
+            el.append(Image(rp, width=170 * mm, height=85 * mm))
     # References (numbered citations)
     if a["refs"]:
         el.append(Paragraph("References", st["h2"]))
