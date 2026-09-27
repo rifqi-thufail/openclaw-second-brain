@@ -1,0 +1,3 @@
+[main/sessions/main/c840cc5a-bd53-49ec-8d85-9fbca01b4366#L6] Assistant: I'll start by running the data fetch pipeline.
+[main/sessions/main/c840cc5a-bd53-49ec-8d85-9fbca01b4366#L24] Assistant: I have all the data. Now writing the analysis.
+[main/sessions/main/c840cc5a-bd53-49ec-8d85-9fbca01b4366#L36] Assistant: Delivered 2026-09-27 finance briefing (PDF + Telegram message + 6 charts) to the configured channel. Data gaps: PSEi (PH), VN-Index (VN) and SET (TH) index data unavailable (fetch returned insufficient data, VNINDEX symbol 404). ASEAN CDS available only for Indonesia (
