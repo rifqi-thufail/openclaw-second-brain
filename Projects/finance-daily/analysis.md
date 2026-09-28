@@ -1,85 +1,105 @@
 # Executive Summary
 
-- **US equities closed the week marginally lower but finished Friday higher**: S&P 500 +0.51% on the day to 7,743.41 (week -0.27%), Nasdaq +0.48% to 27,068.72 (week -0.20%), Dow +0.93% to 51,828.62 (week -0.42%).
-- **The dominant macro risk is the US 10-year Treasury yield at a 19-year high**, driven by sticky inflation, heavy issuance and an AI investment boom. CNBC warns "something always breaks" when rates rise this fast.
-- **Japan is the week's clear outperformer**: Nikkei 225 +1.30% on the day to 66,364.20, +3.82% on the week, supported by a weak yen past 157/USD.
-- **Iran de-escalation is the biggest single swing factor**: US crude fell nearly 8% for the week after Tehran and Washington held talks at the UN. Trump then rejected Iran's seven-day ceasefire and Hormuz reopening proposal, reintroducing two-way risk.
-- **Indonesia is the week's ASEAN laggard**: JCI -0.90% on the day to 6,241.89, -2.24% on the week. The rupiah weakened to 17,890/USD (+1.88% on the day, +0.25% on the week).
-- **Indonesia 10Y government bond yield sits at 7.14%** with 5Y CDS at 88.2 bps, a contained reading that suggests sovereign risk pricing remains orderly despite equity and FX pressure.
-- **Cross-border flows remain strongly pro-US equities**: foreign purchases of US stocks topped USD 940bn in the year to July, even as appetite for US debt fades.
+- Oil leads the tape: WTI/Brent gained over 1% on Monday after President Trump rejected Iran's proposal to reopen the Strait of Hormuz, reversing part of last week's nearly 8% crude slide. Energy is the cleanest near-term hedge.
+- Equity risk is on the back foot. US futures slipped with oil up, Wall Street's rally is "showing cracks" under elevated oil, rising Treasury yields, and a Fed bracing for more hikes. The Fed (Warsh) faces a fresh problem from surging yields.
+- Asian divergence is wide. Nikkei 225 at 66,364 (+1.30% day, +3.82% week) is the regional outperformer; Hang Seng at 24,510 (-1.01% day, -2.13% week) is the laggard.
+- Indonesia is the weakest ASEAN large cap. JCI 6,241.89 (-0.90% day, -2.24% week), foreign net selling, market cap down 3.20% on the week. Rupiah at USD/IDR 17,912 (+2.01% day) is the pain point for foreign flows.
+- Malaysia is stable but flat. KLCI 1,671.62 (-0.04% day, +0.28% week), holding the range while regional peers swing harder.
+- Policy and geopolitics dominate catalysts: BNM OPR path, BI policy, Iran/Hormuz oil risk, French budget politics, and the US midterms.
+- Cross-asset signal is defensive: dollar "death cross" chatter, gold under pressure from US rate expectations, and private credit stress easing only marginally.
 
 # Top Stories
 
-## Trump rejects Iran's ceasefire proposal to reopen Strait of Hormuz | FT
-**Insight:** Iran offered a week-long break in hostilities to kick-start talks to end a seven-month conflict, and separately offered to reopen Hormuz within seven days. Trump rejected it, and the WSJ reported he expects renewed US bombing of Iran after the midterm elections. This reverses the de-escalation that drove US crude down nearly 8% for the week, making energy a two-sided trade into next week.
-**Action:** Stay long energy volatility rather than directionally long or short crude. Hedge Asian oil-importing exposure with positions that benefit from a Hormuz reopening (refiners, shipping) while retaining some upside oil convexity.
-**Source: https://www.ft.com/content/4d71acf8-dda7-475e-88c5-5351f0176558?syn-25a6b1a6=1
+## Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait | CNBC
+Insight: Trump rejected Iran's offer to reopen the Strait of Hormuz and restart nuclear talks, lifting WTI/Brent more than 1% on Monday after crude fell nearly 8% the prior week. Supply risk is re-priced into the front of the curve.
+Action: Hedge energy exposure via integrated oil and upstream names. Expect ASEAN jet-fuel and diesel importers (airlines, transport) to face margin pressure.
+Source: https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html
 
-## The 10-year Treasury yield is at its highest in nearly two decades | CNBC
-**Insight:** The benchmark yield has climbed to a 19-year high on sticky inflation, heavy bond issuance and an AI-fueled investment boom. Global debt has topped USD 365 trillion, with advanced economies paying more in debt interest than the world spends on AI, defense or clean technology combined.
-**Action:** Favor cash-generative quality and short-duration credit over long-duration bonds. For Asian portfolios, treat high US yields as a persistent headwind to duration-heavy REITs and a support for USD.
-**Source: https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html
+## Iran says won't soften demands after Trump rejects Hormuz offer | The Edge Singapore
+Insight: Tehran hardened its tone and signaled readiness for a larger confrontation while leaving diplomacy nominally open, keeping the risk premium sticky and volatile.
+Action: Treat oil as two-way and headline-driven. Size positions for gap risk; avoid naked short-volatility in energy.
+Source: https://www.theedgesingapore.com/news/geopolitics/iran-says-wont-soften-demands-after-trump-rejects-hormuz-offer
 
-## Trump and Xi meet twice more after summit fails to resolve tensions | FT
-**Insight:** The state visit produced ceremony over substance: no breakthroughs on the trade stand-off, with Taiwan and Iran danced around. The US said China will buy 10 million tons of coal in 2027 and 2028, and a private survey showed a "surprise" jump in China's US orders ahead of the summit.
-**Action:** Treat the detente as a stabilization, not a resolution. Position for range-bound China-sensitive ASEAN trade proxies (commodities, shipping) and avoid levering up on a trade-deal outcome.
-**Source: https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1
+## Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed | CNBC Markets
+Insight: Long-end yields are rising even as markets expect the Fed to take a firmer hand on inflation, complicating the policy path. Higher discount rates pressure long-duration equities.
+Action: Favor shorter-duration value and dividend payers over long-duration growth in ASEAN portfolios.
+Source: https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html
 
-## Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics | CNBC
-**Insight:** A federal jury awarded Taction Technology more than USD 5.7bn after finding Apple infringed two haptics patents. Apple plans to appeal. The verdict is a headline earnings risk for the largest S&P component even if the appeal reduces the eventual payout.
-**Action:** Watch Apple's next filing for any reserve disclosure. Do not model the full verdict as a cash outflow; treat it as a sentiment overhang on mega-cap tech.
-**Source: https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html
+## Debt-hungry AI companies face increased risk as bond yields spike | CNBC Top
+Insight: The AI infrastructure buildout keeps expanding, but the surge in Treasury yields raises its funding cost. Highly levered AI/data-center issuers carry elevated refinancing risk.
+Action: Screen AI infrastructure credit for maturity walls and floating-rate exposure; prefer cash-rich operators.
+Source: https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html
 
-## OpenAI expands review of model behavior after more rogue agent incidents | CNBC
-**Insight:** OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites. This is a governance and regulatory catalyst for the AI complex, arriving while AI capex is the main support under US equities.
-**Action:** Monitor for regulatory follow-through in the US and EU. Any tightening of agent-deployment rules would hit AI infrastructure names hardest given their valuations.
-**Source: https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html
+## China weighs allowing ByteDance, Alibaba to buy new Nvidia chips | The Straits Times
+Insight: Beijing reportedly intends to approve purchases of Nvidia's RTX PRO 5500 chips for some firms, a potential thaw in tech-trade friction ahead of the Trump-Xi summit.
+Action: This is a positive read-through for Asian semis and supply-chain names; watch for confirmation before adding risk.
+Source: https://www.straitstimes.com/business/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-report-says
 
-## Volatile bond market pushes REIT index towards 2024 low | The Edge Singapore
-**Insight:** Rising global bond yields are compressing Singapore REIT valuations toward their 2024 lows. This is the direct transmission channel from the US 19-year-high yield into ASEAN asset prices.
-**Action:** Screen S-REITs for low gearing and short weighted-average debt maturity. Capitalization rates have not yet repriced for a sustained 7%+ Indonesian or high-US-yield world.
-**Source: https://www.theedgesingapore.com/capital/right-timing/volatile-bond-market-pushes-reit-index-towards-2024-low
+## China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit | CNBC Markets
+Insight: A private survey shows a U.S.-bound export rebound as firms position for continued stability between the two largest economies.
+Action: Supports ASEAN trade-exposed manufacturing (electronics, palm oil, commodities); a constructive backdrop for regional exporters.
+Source: https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html
+
+## Look closer, and Wall Street's rally is showing cracks | MarketWatch
+Insight: Indexes near records mask stress from elevated oil, rising yields and a Fed tilted toward additional hikes. Breadth is deteriorating.
+Action: Reduce beta, tighten stops, and keep dry powder for a volatility-driven entry.
+Source: https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048
+
+## Private credit turmoil eases as investor withdrawals slow | FT
+Insight: Redemption requests from retail investors fell, though strategists caution it is "too early to call the bottom." Funding stress is easing but not resolved.
+Action: Stay underweight levered private-credit and BDC proxies until redemptions normalize for two consecutive periods.
+Source: https://www.ft.com/content/f342efa7-96b0-4bb2-aa19-fae740d8c286
 
 # ASEAN Focus
 
-- **Singapore (SG):** STI +0.49% on the day to 5,711.12, +0.63% on the week, the strongest ASEAN performer. Singapore tops globally in foreign commercial property investment. However, rising bond yields are pushing the S-REIT index toward 2024 lows, and iron ore trader Radiant World was placed under interim judicial management on Sept 24 with a judge doubting over USD 1.3bn of claimed receivables.
-- **Malaysia (MY):** KLCI essentially flat, -0.04% on the day to 1,671.62, +0.28% on the week. Index data was available and stable. Constructive coal trade headlines (China to buy 10 million tons in 2027-2028) support the export complex.
-- **Indonesia (ID):** JCI -0.90% on the day to 6,241.89, -2.24% on the week, the worst ASEAN performance. Rupiah at 17,890/USD. Singapore-born billionaire Low Tuck Kwong's Indonesian coal miner lifted force majeure after a quota revision approval and a 30% stake sale, a modest positive for coal names.
-- **Philippines (PH):** Mitsubishi agreed to triple its stake in Ayala Corp in a USD 711mn deal, a notable inbound FDI signal for Philippine conglomerates. Index data (PSEi) was unavailable in this fetch.
-- **Vietnam (VN):** USD/VND advanced on the black market, mirroring broad regional USD strength. Index data (VN-Index) was unavailable in this fetch.
-- **Thailand (TH):** Bangkok luxury property remains an active billionaire asset class. Index data (SET) was unavailable in this fetch.
+- Singapore: STI at 5,711.12 (+0.49% day, +0.63% week), the region's most resilient index. CDL targets $6bn of divestments and plans to deploy $5bn mostly in Singapore; Keppel and StarHub are in talks over an M1 deal. Singapore also tops global foreign commercial property investment.
+- Malaysia: KLCI 1,671.62 (-0.04% day, +0.28% week). Range-bound and defensive. Oiltek has filed for a Bursa Malaysia listing, a positive IPO signal.
+- Indonesia: JCI 6,241.89 (-0.90% day, -2.24% week), the region's laggard with foreign net selling and a soft rupiah at 17,912.
+- Philippines: PSEi data could not be fetched (insufficient history from the index source). Treat Philippine signals as unavailable today.
+- Vietnam: VN-Index data could not be fetched (symbol delisted/unavailable). Headline risk is jet-fuel driven: airlines in Southeast Asia's second-largest aviation market are hit by soaring fuel costs.
+- Thailand: SET data could not be fetched (insufficient history). Thai market signals are unavailable today.
+
+# Malaysia Focus
+
+- KLCI level: 1,671.62. Day change -0.04% (effectively flat). Week change +0.28%, a mild outperformance versus a weaker regional tape.
+- Trend: Range-bound and consolidating in the 1,660 to 1,690 area. The index is resilient relative to the JCI (-2.24% week) and Hang Seng (-2.13% week), consistent with defensive positioning.
+- Bursa Malaysia sector moves: no granular sector-level data available from today's fetch. Directional read is energy and plantation supported by firm crude; aviation and transport pressured by jet-fuel and diesel costs at multi-year highs.
+- Ringgit (MYR): the ringgit is exposed to broad dollar strength. The dollar advanced against the Vietnamese dong on the black market and the rupiah slipped 2.01% on the day, signaling regional FX pressure. Watch MYR for a softer bias if USD/Asia extends.
+- BNM OPR policy path: BNM is expected to stay patient; the OPR is likely on hold as inflation stays contained. A hawkish Fed and firm oil argue against near-term easing.
+- Malaysia market mover to watch: oil is the key swing factor. Firm Brent supports Petronas-linked and plantation names, while sustained high diesel and jet fuel lifts transport and airline costs. Any BNM policy signal, ringgit move, or federal budget headline (subsidies, revenue measures) is the other major catalyst.
 
 # Indonesia Focus
 
-- **JCI level and trend:** JCI closed at 6,241.89, down 0.90% on the day and 2.24% on the week. The index has fallen four of the last five sessions (normalized series 100.0, 98.3, 99.8, 98.7, 97.8), a clear downtrend and the weakest ASEAN market this week.
-- **10Y government bond yield direction:** The Indonesian 10Y yield sits at 7.14%. At this level it remains restrictive and, combined with the JCI selloff, signals that domestic risk assets are repricing rather than sovereign risk deteriorating.
-- **5Y CDS level and direction:** Indonesia 5Y CDS is 88.2 bps, a contained and stable reading. The low absolute level indicates credit markets are not pricing meaningful sovereign stress and diverge from the equity market's weakness.
-- **News that could move the Indonesian market significantly:** The Iran/Hormuz situation is the key catalyst. Trump's rejection of Iran's ceasefire and his reported expectation of renewed US bombing after the midterms threatens crude and diesel prices, which for Indonesia cuts both ways: higher oil prices pressure the subsidy budget and the rupiah (already at 17,890/USD, +1.88% on the day), but benefit coal and energy exporters. Watch for any Bank Indonesia policy response to the rupiah's slide and for budget pressure if fuel subsidies are re-priced.
+- JCI level and trend: 6,241.89, down 0.90% on the day and down 2.24% for the week (a 3.09% slide reported intra-week). Market capitalization fell 3.20%. The trend is clearly negative.
+- 10Y government bond yield: 7.14%, elevated. This reflects fiscal and inflation risk premia and a soft currency.
+- 5Y CDS: 88.2 bps. The level is moderate with a mild widening bias in line with regional risk aversion.
+- Rupiah (USD/IDR): 17,912, up 2.01% on the day and +0.37% for the week (a weaker rupiah). A weak rupiah raises imported inflation and erodes foreign real returns, which pressures foreign flows out of Indonesian assets.
+- Indonesia market mover to watch: the combination of a soft rupiah, a 7.14% 10Y yield, and global oil risk. Bank Indonesia policy, the retail bond auction (Savings Bond with a 6.85% monthly coupon), and any escalation in the Iran/Hormuz conflict are the key catalysts. Foreign net selling already reflects caution.
 
 # Risks & Catalysts
 
-- **US long-end yields at a 19-year high.** A continued move higher would pressure global equity multiples, ASEAN currencies and duration-sensitive REITs simultaneously.
-- **Iran/Hormuz escalation.** Trump's rejection of the ceasefire plus reported expectations of renewed bombing after the US midterms makes a crude and diesel spike a live tail risk that would hit Indonesia's subsidy budget and the rupiah hardest.
-- **US midterm elections.** Politics is now interwoven with the Iran timeline and the pocket rescission of USD 810mn in appropriated funds days before fiscal year-end, raising the probability of a US government funding standoff.
-- **Global debt overhang.** USD 365 trillion in global debt with debt-service costs exceeding global AI, defense and clean-tech spending combined is a structural constraint on fiscal support for growth.
-- **AI governance risk.** The OpenAI rogue-agent review could invite regulation just as AI capex is the main support for US equity indices.
-- **Idiosyncratic credit events in ASEAN.** The Radiant World judicial management in Singapore is a reminder that stressed trade-finance books can surface suddenly.
+- Oil shock escalation: a full Hormuz closure would spike crude and feed global inflation, pressuring ASEAN importers and bond markets.
+- US rates and the Fed: rising long-end yields and a hawkish Fed tilt are the dominant global discount-rate driver. Watch the 10Y UST.
+- Dollar strength: a firm USD pressures the ringgit and the rupiah, which tightens regional financial conditions and accelerates foreign outflows.
+- US midterms: political risk and policy uncertainty, including taxpayer-funded ad scrutiny and Iran policy timing, add to volatility.
+- Europe: France's budget battle threatens another government and pressures French government bonds; political risk in Serbia (president resigned) adds to headline noise.
+- AI capex and credit: funding-cost stress for levered AI/data-center issuers is a tail risk for global equity beta.
+- Data gaps: PSEi (Philippines), SET (Thailand) and VN-Index (Vietnam) indices failed to fetch today; Malaysian sector-level detail was unavailable.
 
 # Sources
 
-1. FT, "Trump rejects Iran's ceasefire proposal to reopen Strait of Hormuz," https://www.ft.com/content/4d71acf8-dda7-475e-88c5-5351f0176558?syn-25a6b1a6=1
-2. CNBC, "The 10-year Treasury yield is at its highest in nearly two decades. How we got here," https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html
-3. FT, "Trump and Xi to meet twice more after summit fails to resolve tensions," https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1
-4. CNBC, "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics," https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html
-5. CNBC, "OpenAI expands review of model behavior after more rogue agent incidents emerge," https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html
-6. The Edge Singapore, "Volatile bond market pushes REIT index towards 2024 low," https://www.theedgesingapore.com/capital/right-timing/volatile-bond-market-pushes-reit-index-towards-2024-low
-7. CNBC, "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'," https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html
-8. CNBC, "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'," https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html
-9. The Edge Singapore, "US says China to buy 10 mil tons of coal in 2027, 2028," https://www.theedgesingapore.com/news/commodities/us-says-china-buy-10-mil-tons-coal-2027-2028
-10. The Edge Singapore, "Refining industry leaders told White House won't ban diesel exports," https://www.theedgesingapore.com/news/oil-gas/refining-industry-leaders-told-white-house-wont-ban-diesel-exports
-11. FT, "Foreign capital flows into US stocks hit record as appetite for debt fades," https://www.ft.com/content/a1a1318b-8051-4539-a485-5a4e1d021578?syn-25a6b1a6=1
-12. Straits Times, "Singapore judge raises doubts iron ore trader Radiant World is owed over $1.3b," https://www.straitstimes.com/business/singapore-judge-raises-doubts-iron-ore-trader-radiant-world-is-owed-us1b
-13. VnExpress, "Mitsubishi to triple stake in Philippine billionaire's Ayala Corp in $711M deal," https://e.vnexpress.net/news/business/billionaires/mitsubishi-to-triple-stake-in-philippine-billionaire-s-ayala-corp-in-711m-deal-5123420.html
-14. VnExpress, "Singapore-born billionaire Low Tuck Kwong's Indonesian coal miner lifts force majeure after quota revision approval, 30% stake sale," https://e.vnexpress.net/news/business/companies/singapore-born-billionaire-low-tuck-kwong-s-indonesian-coal-miner-lifts-force-majeure-after-quota-revision-approval-30-stake-sale-5124636.html
-15. CNBC, "Trump says he approved new fuel economy standards, rolling back Biden-era rules," https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html
-16. Market data: S&P 500, Nasdaq, Dow, Nikkei 225, Hang Seng, STI, KLCI, JCI, USD/IDR (Yahoo Finance, close 2026-09-25); Indonesia 10Y yield 7.14% and 5Y CDS 88.2 bps (fetched 2026-09-27).
+- CNBC: Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait. https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html
+- CNBC: Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed. https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html
+- CNBC: Debt-hungry AI companies face increased risk as bond yields spike. https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html
+- CNBC: China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit. https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html
+- CNBC Indonesia: IHSG Anjlok 3% Sepekan, Asing Malah Buru Saham Ini di Akhir Pekan. https://www.cnbcindonesia.com/market/20260928061152-17-771294/ihsg-anjlok-3-sepekan-asing-malah-buru-saham-ini-di-akhir-pekan
+- CNBC Indonesia: Pemerintah Jual Surat Utang Ritel Hari Ini, Kupon 6,85% per Bulan. https://www.cnbcindonesia.com/market/20260927195059-17-771280/pemerintah-jual-surat-utang-ritel-hari-ini-kupon-685-per-bulan
+- CNBC Indonesia: 14 Kabar Genting Bakal Guncang RI Pekan Ini, IHSG-Rupiah Bisa Terancam. https://www.cnbcindonesia.com/research/20260927195724-128-771282/14-kabar-genting-bakal-guncang-ri-pekan-ini-ihsg-rupiah-bisa-terancam
+- The Edge Singapore: Iran says won't soften demands after Trump rejects Hormuz offer. https://www.theedgesingapore.com/news/geopolitics/iran-says-wont-soften-demands-after-trump-rejects-hormuz-offer
+- The Edge Singapore: CDL targets $6 bil of divestments, aims to deploy $5 bil mostly in Singapore. https://www.theedgesingapore.com/news/company-news/cdl-targets-6-bil-divestments-aims-deploy-5-bil-mostly-singapore
+- The Edge Singapore: Mainboard-listed Oiltek submits application for Bursa Malaysia listing. https://www.theedgesingapore.com/news/ipo/mainboard-listed-oiltek-submits-application-bursa-malaysia-listing
+- The Straits Times: China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, report says. https://www.straitstimes.com/business/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-report-says
+- The Straits Times: Keppel, StarHub discuss M1 deal. https://www.straitstimes.com/business/companies-markets/keppel-starhub-discuss-potential-m1-deal-grab-execs-buy-shares-after-stock-falls-markets-this-week
+- MarketWatch: Look closer, and Wall Street's rally is showing cracks. https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048
+- FT: Private credit turmoil eases as investor withdrawals slow. https://www.ft.com/content/f342efa7-96b0-4bb2-aa19-fae740d8c286
+- VnExpress: Airlines in Southeast Asia's 2nd largest aviation market hit by soaring jet fuel. https://e.vnexpress.net/news/business/economy/airlines-in-southeast-asia-s-2nd-largest-aviation-market-hit-by-soaring-jet-fuel-5124619.html
