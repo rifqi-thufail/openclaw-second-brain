@@ -1,3 +1,4 @@
 [main/sessions/main/2663ab63-0f74-4070-823e-0b6155718c60#L6] Assistant: I'll run the finance briefing pipeline now.
 [main/sessions/main/2663ab63-0f74-4070-823e-0b6155718c60#L24] Assistant: # Malaysia Focus (reviewed: MAHB, WCT, MPHB, MRCB, TSRC) Now writing analysis.md with real fetched data.
 [main/sessions/main/2663ab63-0f74-4070-823e-0b6155718c60#L28] Assistant: Delivered: Claw Research Daily Briefing 2026-09-28 (PDF + summary message + 5 charts: change, trend, weekly change, weekly trend, rupiah) to 2 Telegram chats, all HTTP 200. Data gaps: PSEi (Philippines), SET (Thailand) and VN-Index (Vietnam) indices failed to fetch (in
+[main/sessions/main/38758ac9-7212-4495-8923-6cce2de8e218#L8] Assistant: ARCHIVE_OK
