@@ -1,3 +1,5 @@
 [main/sessions/main/11c105e0-5d9d-4ea8-a0af-1be9e0ebab5b#L6] Assistant: I'll start by running the data fetch pipeline.
 [main/sessions/main/11c105e0-5d9d-4ea8-a0af-1be9e0ebab5b#L26] Assistant: I'll now write the analysis file and run the report and delivery steps.
 [main/sessions/main/11c105e0-5d9d-4ea8-a0af-1be9e0ebab5b#L30] Assistant: Daily briefing delivered: PDF (briefing_2026-09-30.pdf), Telegram message, plus 6 charts (daily change/trend, Indonesia weekly change/trend, rupiah), sent to 2 chats. Data gaps this run: PSEi/SET/VN-Index indices failed to fetch (insufficient data / symbol not found), 
+[main/sessions/main/8c3b322c-d841-4651-9df6-2999262d6165#L6] Assistant: I'll run the archive script now.
+[main/sessions/main/8c3b322c-d841-4651-9df6-2999262d6165#L8] Assistant: ARCHIVE_OK
